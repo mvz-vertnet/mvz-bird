@@ -1,0 +1,305 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 6345
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 15
+	Country: Australia ; Times: 6
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 7
+	Country: Finland ; Times: 7
+	Country: France ; Times: 3
+	Country: Germany ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 13
+	Country: Peru ; Times: 2
+	Country: Poland ; Times: 3
+	Country: Spain ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 164
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 5
+	Date: 2014-07-02 ; Times: 13
+	Date: 2014-07-03 ; Times: 6
+	Date: 2014-07-04 ; Times: 3
+	Date: 2014-07-05 ; Times: 10
+	Date: 2014-07-06 ; Times: 7
+	Date: 2014-07-07 ; Times: 7
+	Date: 2014-07-08 ; Times: 8
+	Date: 2014-07-09 ; Times: 5
+	Date: 2014-07-10 ; Times: 36
+	Date: 2014-07-11 ; Times: 23
+	Date: 2014-07-12 ; Times: 2
+	Date: 2014-07-13 ; Times: 3
+	Date: 2014-07-14 ; Times: 18
+	Date: 2014-07-15 ; Times: 12
+	Date: 2014-07-16 ; Times: 12
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-18 ; Times: 12
+	Date: 2014-07-19 ; Times: 7
+	Date: 2014-07-20 ; Times: 8
+	Date: 2014-07-21 ; Times: 2
+	Date: 2014-07-22 ; Times: 8
+	Date: 2014-07-23 ; Times: 20
+	Date: 2014-07-24 ; Times: 8
+	Date: 2014-07-25 ; Times: 4
+	Date: 2014-07-26 ; Times: 3
+	Date: 2014-07-28 ; Times: 9
+	Date: 2014-07-29 ; Times: 13
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "institutioncode:MVZ tissue:1" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "institutioncode:MVZ" ; Times: 2
+	Query: "Corvus sinaloae" ; Times: 1
+	Query: "Didunculus" ; Times: 4
+	Query: "bell museum aves" ; Times: 5
+	Query: "ascaphus truei year >= 1800 year <= 2000" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Pipilo maculatus tissue:1" ; Times: 2
+	Query: "santa rosa specificepithet:corax genus:corvus year >= 1930 year <= 2014" ; Times: 2
+	Query: "Manatee" ; Times: 1
+	Query: "mvz grinell" ; Times: 1
+	Query: "hemignathus" ; Times: 2
+	Query: "specificepithet:sumatranus" ; Times: 1
+	Query: "perisoreus mvz" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 3
+	Query: "class:Aves media:1" ; Times: 1
+	Query: "ibis ibis class:aves" ; Times: 1
+	Query: "cecropia" ; Times: 1
+	Query: "Keen" ; Times: 2
+	Query: "orange ridge" ; Times: 1
+	Query: "catalognumber:180528 mappable:1" ; Times: 2
+	Query: "Owego" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "sporophila" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014 distance(location,geopoint(46.6795944656402,-117.0703125))<272499" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: ""butorides"" ; Times: 1
+	Query: "Coracias" ; Times: 1
+	Query: "genus:vultur" ; Times: 2
+	Query: "holotype" ; Times: 3
+	Query: "xenus" ; Times: 1
+	Query: "perisoreus" ; Times: 3
+	Query: "county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "picoides borealis" ; Times: 4
+	Query: "crow" ; Times: 2
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1900 year <= 2014 distance(location,geopoint(56.58369172128337,-134.3408203125))<285682" ; Times: 1
+	Query: "accipiter gentilis atricapillus" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "lophotriccus (tissue)" ; Times: 1
+	Query: "stateprovince:"minas gerais" country:"brazil" class:aves" ; Times: 1
+	Query: "jacana" ; Times: 3
+	Query: "Celeus flavus peruvianus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.13755119234614,-119.35546875))<100000" ; Times: 1
+	Query: "ptychoramphus aleuticus" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen AND (NOT eggs)" ; Times: 2
+	Query: "Fulica" ; Times: 1
+	Query: "institutioncode:mvz" ; Times: 9
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz NOT eggs) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz NOT egg) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 1
+	Query: "country:"mexico" specificepithet:corax genus:corvus institutioncode:mvz" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 5
+	Query: "Tarsiger" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:oberholseri genus:Empidonax" ; Times: 1
+	Query: "Finland" ; Times: 2
+	Query: "stateprovince:"michoacan" country:"mexico"" ; Times: 1
+	Query: "cockroach" ; Times: 1
+	Query: ""tetrao urogallus"" ; Times: 3
+	Query: "jacana spinosa" ; Times: 4
+	Query: "dryocopus pileatus tissue:1" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen" ; Times: 2
+	Query: "lophotriccus (tissue) tissue:1" ; Times: 1
+	Query: "oregon "corvus corax" institutioncode:mvz (study skin) year >= 1930 year <= 2014" ; Times: 3
+	Query: "emberiza aureola" ; Times: 1
+	Query: "albatross" ; Times: 3
+	Query: ""picoides borealis" year >= 1700 year <= 1969" ; Times: 1
+	Query: "country:"mexico" specificepithet:corax genus:corvus institutioncode:mvz (study skin)" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz ) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 2
+	Query: "specificepithet:lagopus genus:Buteo" ; Times: 2
+	Query: "sicalis flaveola" ; Times: 4
+	Query: "country:"mexico" specificepithet:corax genus:corvus institutioncode:mvz (study skin) year >= 1930 year <= 2014" ; Times: 1
+	Query: "alectoris mappable:1" ; Times: 2
+	Query: "aegolius h*" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "holotype aves" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus institutioncode:mvz (study skin)" ; Times: 1
+	Query: "country:"Yemen"" ; Times: 1
+	Query: "Aves Iowa type:specimen" ; Times: 1
+	Query: "pterodroma cookii" ; Times: 1
+	Query: "Pteroptochos" ; Times: 1
+	Query: "rhipidura (fuliginosa OR albiscapa) tissue:1" ; Times: 2
+	Query: "duck" ; Times: 1
+	Query: "jabiru" ; Times: 1
+	Query: "Leucosticte littoralis" ; Times: 2
+	Query: "164643 type:specimen country:"Costa Rica"" ; Times: 1
+	Query: "alcyon tissue:1" ; Times: 1
+	Query: "recordedby:Brown year >= 1916 year <= 1916" ; Times: 2
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus institutioncode:mvz (study skin) year >= 1700 year <= 2014" ; Times: 1
+	Query: "catalognumber:67615 institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "Icterus bullockii" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:lacteus genus:Bubo" ; Times: 1
+	Query: "Danby stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 5
+	Query: "alaska bull" ; Times: 1
+	Query: "saxatalis" ; Times: 2
+	Query: "country:"Nicaragua" institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1960 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus institutioncode:mvz year >= 1960 year <= 2014 tissue:1" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "country:"brazil" class:aves" ; Times: 1
+	Query: ""Quiscalus mexicanus" (skull)" ; Times: 4
+	Query: "country:"Pakistan"" ; Times: 1
+	Query: "butorides" ; Times: 1
+	Query: "lizard" ; Times: 1
+	Query: "MVZ 112330" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 7
+	Query: "ranas" ; Times: 2
+	Query: ""picoides borealis"" ; Times: 2
+	Query: "xenus cinereus" ; Times: 2
+	Query: "specificepithet:corax genus:corvus year >= 1990 year <= 2014" ; Times: 2
+	Query: "institutioncode:mvz media:1" ; Times: 4
+	Query: "omnh" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus institutioncode:mvz" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 3
+	Query: "rhipidura (fuliginosa) tissue:1" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) AND (NOT ummz) distance(location,geopoint(33.13755119234614,-119.35546875))<86944" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "guano oregon" ; Times: 3
+	Query: "aegolius" ; Times: 4
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus institutioncode:mvz (study skin) year >= 1930 year <= 2014" ; Times: 1
+	Query: "Quiscalus mexicanus skull" ; Times: 2
+	Query: "spixii" ; Times: 1
+	Query: "dryocopus pileatus" ; Times: 2
+	Query: "specificepithet:nigripes genus:Phoebastria" ; Times: 2
+	Query: "specificepithet:corax genus:corvus" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1980 year <= 2014" ; Times: 1
+	Query: ""OMNH"" ; Times: 1
+	Query: "Zoothera citrina" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "calidris ferruginea" ; Times: 3
+	Query: "france" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 2
+	Query: "Aegolius ridgwayi" ; Times: 3
+	Query: "asthenes" ; Times: 2
+	Query: "genus:Vultur" ; Times: 2
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<100000" ; Times: 1
+	Query: "W. M. Good" ; Times: 2
+	Query: "whale" ; Times: 1
+	Query: "type:specimen genus:Ectopistes" ; Times: 1
+	Query: "(ocuilapa)" ; Times: 1
+	Query: "calidris type:specimen tissue:1" ; Times: 1
+	Query: "genus:puffinus" ; Times: 1
+	Query: "podargus strigoides" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "stateprovince:"california" country:"united states" specificepithet:corax genus:corvus (study skin) distance(location,geopoint(33.97980872872457,-120.157470703125))<146792" ; Times: 1
+	Query: "MVZ 110932" ; Times: 4
+	Query: "mango" ; Times: 1
+	Query: "mvz 770" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "dragonflies" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 437 download events in this period)
+Total number of records downloaded: 12810 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12761
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 18
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-05 ; Times: 2
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 3
+	Date: 2014-07-15 ; Times: 14
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-17 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-29 ; Times: 1
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Didunculus" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Pteroptochos" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "Myrmeciza exsul" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "albatross class:Aves" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:oberholseri genus:Empidonax" ; Times: 1
+	Query: "American Badger" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1115
+Total number of records retrieved from searches: 27941
+Number of download events that retrieved data from the resource: 232
+Total number of records downloaded: 315230
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1115
+Total number of records retrieved from searches: 27941
+Number of download events that retrieved data from the resource: 312
+Total number of records downloaded: 372999
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
