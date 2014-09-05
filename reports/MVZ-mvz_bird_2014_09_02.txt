@@ -1,0 +1,309 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 276
+Number of records retrieved in searches: 6418
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 276
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 9
+	Date: 2014-08-02 ; Times: 1
+	Date: 2014-08-03 ; Times: 4
+	Date: 2014-08-04 ; Times: 3
+	Date: 2014-08-05 ; Times: 34
+	Date: 2014-08-06 ; Times: 2
+	Date: 2014-08-07 ; Times: 3
+	Date: 2014-08-08 ; Times: 16
+	Date: 2014-08-09 ; Times: 2
+	Date: 2014-08-10 ; Times: 14
+	Date: 2014-08-11 ; Times: 17
+	Date: 2014-08-12 ; Times: 15
+	Date: 2014-08-13 ; Times: 11
+	Date: 2014-08-14 ; Times: 3
+	Date: 2014-08-15 ; Times: 4
+	Date: 2014-08-16 ; Times: 3
+	Date: 2014-08-17 ; Times: 2
+	Date: 2014-08-18 ; Times: 14
+	Date: 2014-08-19 ; Times: 6
+	Date: 2014-08-20 ; Times: 4
+	Date: 2014-08-21 ; Times: 7
+	Date: 2014-08-22 ; Times: 11
+	Date: 2014-08-23 ; Times: 3
+	Date: 2014-08-24 ; Times: 6
+	Date: 2014-08-25 ; Times: 3
+	Date: 2014-08-26 ; Times: 14
+	Date: 2014-08-27 ; Times: 18
+	Date: 2014-08-28 ; Times: 34
+	Date: 2014-08-29 ; Times: 6
+	Date: 2014-08-30 ; Times: 1
+	Date: 2014-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "toad mappable:1 tissue:1" ; Times: 1
+	Query: "type:specimen (Ectopistes migratorius)" ; Times: 1
+	Query: ""farallon islands" distance(location,geopoint(37.708269684354526,-122.3221206665039))<99274" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "institutioncode:MVZ" ; Times: 3
+	Query: "San Pablo Creek salt marsh" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides" ; Times: 2
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 12
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "centropus milo type:specimen" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Charadrius alexandrinus nivosus" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:corax genus:corvus tissue:1" ; Times: 1
+	Query: "stateprovince:"Meta" country:"Colombia"" ; Times: 1
+	Query: "catalognumber:74573 institutioncode:mvz" ; Times: 2
+	Query: "Manacus manacus manacus" ; Times: 1
+	Query: "gallus gallus tissue:1" ; Times: 1
+	Query: "country:"suriname" year >= 1900 year <= 2014" ; Times: 2
+	Query: "Buteo jamaicensis country:"Mexico" specificepithet:Buteo jamaicensis genus:Buteo class:Aves" ; Times: 2
+	Query: "Aegotheles" ; Times: 1
+	Query: ""butorides virescens"" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 2
+	Query: "quindio" ; Times: 1
+	Query: "elodea" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:CAS OR MVZ" ; Times: 1
+	Query: "Neocossyphus poensis poensis" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Philemon citreogularis citreogularis" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "Eremophila alpestris actia" ; Times: 1
+	Query: "specificepithet:varia sartorii genus:Strix" ; Times: 1
+	Query: "country:"uganda" class:aves year >= 1906 year <= 1906" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Ardea alba" ; Times: 2
+	Query: "Galbula cyanescens" ; Times: 2
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "type:specimen specificepithet:owstoni genus:Gallirallus year >= 1820" ; Times: 2
+	Query: "Afghanistan" ; Times: 1
+	Query: "merced falls" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "stateprovince:"montana" specificepithet:corax genus:corvus year >= 1950 year <= 2014" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT alaska) tissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "tepic" ; Times: 2
+	Query: "accipiter gentilis atricapillus" ; Times: 3
+	Query: "class:aves year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 3
+	Query: "Corvus corax" ; Times: 1
+	Query: "country:"Mexico" genus:Aquila" ; Times: 1
+	Query: "Oriolus monacha meneliki" ; Times: 1
+	Query: "icterus spurius" ; Times: 1
+	Query: "bleda" ; Times: 1
+	Query: "Cepphus columba columba" ; Times: 3
+	Query: "aegolius acadicus type:specimen tissue:1" ; Times: 2
+	Query: "(quindio)" ; Times: 1
+	Query: "Murina" ; Times: 1
+	Query: "institutioncode:mvz" ; Times: 5
+	Query: "Falco mexicanus" ; Times: 2
+	Query: "recordedby:k* year >= 1953 year <= 1953" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 14
+	Query: "class:aves catalognumber:1 institutioncode:mvz" ; Times: 2
+	Query: "french Guiana" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT sound NOT churchill)" ; Times: 1
+	Query: "Manacus manacus" ; Times: 2
+	Query: "certhia american" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "class:aves year >= 1866 year <= 1866 NOT Jamaica" ; Times: 2
+	Query: "country:"Pakistan" class:aves year >= 1910 year <= 1925" ; Times: 2
+	Query: "Cepphus columba adianta" ; Times: 2
+	Query: "dryocopus lineatus" ; Times: 1
+	Query: "accipiter gentilis atricapillus alberta" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Passerina versicolor" ; Times: 1
+	Query: "specificepithet:longirostris genus:rallus" ; Times: 1
+	Query: ""farallon islands"" ; Times: 4
+	Query: "class:aves AND (NOT Jamaica) year >= 1866 year <= 1866" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "cow" ; Times: 1
+	Query: "(butorides)" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 2
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "Falco columbarius" ; Times: 2
+	Query: "display" ; Times: 1
+	Query: "class:aves recordedby:primrose year >= 1905 year <= 1920" ; Times: 1
+	Query: "leucosticte tephrocotis" ; Times: 1
+	Query: "type:specimen (Zoothera OR Turdus) AND (NOT abyssinicus NOT albicollis NOT albocinctus NOT amaurochalinus NOT assimilis NOT atrogularis NOT aurantius NOT bewsheri NOT boulboul NOT cardis NOT caucae NOT celaenops NOT chiguanco NOT chrysolaus NOT daguae NOT dissimilis NOT erythropleurus NOT eunomus NOT falcklandii NOT feae NOT flavipes NOT fulviventris NOT fumigatus NOT fuscater NOT grayi NOT haplochrous NOT hauxwelli NOT helleri NOT hortulorum NOT ignobilis NOT iliacus NOT infuscatus NOT jamaicensis NOT lawrencii NOT leucomelas NOT leucops NOT lherminieri NOT libonyana NOT ludoviciae NOT maculirostris NOT maranonicus NOT mareensis NOT maximus NOT menachensis NOT merula NOT migratorius NOT mupinensis NOT naumanni NOT nigrescens NOT nigriceps NOT niveiceps NOT nudigenis NOT obscurus NOT obsoletus NOT olivaceofuscus NOT olivaceus NOT olivater NOT pallidus NOT pelios NOT phaeopygos NOT philomelos NOT pilaris NOT plebejus NOT plumbeus NOT poliocephalus NOT ravidus NOT reevei NOT rubrocanus NOT ruficollis NOT rufitorques NOT rufiventris NOT rufopalliatus NOT seebohmi NOT serranus NOT simillimus NOT smithi NOT subalaris NOT swalesi NOT tephronotus NOT torquatus NOT unicolor NOT vinitinctus NOT viscivorus NOT xanthorhynchus NOT naevia NOT naevius NOT citrinus NOT sibiricus NOT sibirica NOT libonyanus)" ; Times: 1
+	Query: "vole" ; Times: 1
+	Query: "buteo regalis" ; Times: 1
+	Query: "toad tissue:1" ; Times: 1
+	Query: "Chaimarrornis leucocephalus" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 4
+	Query: "specificepithet:nebulosa genus:strix" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 2
+	Query: "country:"indonesia" year >= 1890 year <= 1920" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 2
+	Query: "lizards" ; Times: 2
+	Query: "ayacucho" ; Times: 1
+	Query: "suriname" ; Times: 1
+	Query: "catalognumber:109823 institutioncode:mvz mappable:1" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "bull frog" ; Times: 2
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 3
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "Philemon citreogularis" ; Times: 6
+	Query: "passerina rositae" ; Times: 3
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "zonotrichia leucophrys leucophrys year >= 1990 year <= 2010" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "gallus" ; Times: 1
+	Query: "Colluricincla harmonica" ; Times: 1
+	Query: "Nycticorax nycticorax" ; Times: 1
+	Query: "type:specimen year >= 1840 year <= 1870" ; Times: 1
+	Query: "merced and falls and california" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "dendragapus stateprovince:"arizona"" ; Times: 1
+	Query: "specificepithet:laysanensis genus:Anas" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 2
+	Query: "country:"indonesia" year >= 1909 year <= 1913" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:nebulosa genus:strix" ; Times: 2
+	Query: "Crinifer" ; Times: 1
+	Query: "genus:cinclodes" ; Times: 1
+	Query: "banding class:aves" ; Times: 10
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "Gymnoderus foetidus" ; Times: 1
+	Query: "mvz birds 1" ; Times: 1
+	Query: "ALCIPPE BRUNNEA" ; Times: 2
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "class:aves year >= 1850 year <= 1870" ; Times: 1
+	Query: "angola mvz" ; Times: 2
+	Query: "bird song database" ; Times: 1
+	Query: "country:"malaysia" year >= 1949 year <= 1952" ; Times: 1
+	Query: "type:specimen country:"Mexico" genus:Aquila mappable:1" ; Times: 1
+	Query: "mouse" ; Times: 2
+	Query: "Quiscalus mexicanus skull" ; Times: 1
+	Query: "type:specimen genus:Ectopistes mappable:1" ; Times: 1
+	Query: "type:specimen (Zoothera OR Turdus) AND (NOT abyssinicus NOT albicollis NOT albocinctus NOT amaurochalinus NOT assimilis NOT atrogularis NOT aurantius NOT bewsheri NOT boulboul NOT cardis NOT caucae NOT celaenops NOT chiguanco NOT chrysolaus NOT daguae NOT dissimilis NOT erythropleurus NOT eunomus NOT falcklandii NOT feae NOT flavipes NOT fulviventris NOT fumigatus NOT fuscater NOT grayi NOT haplochrous NOT hauxwelli NOT helleri NOT hortulorum NOT ignobilis NOT iliacus NOT infuscatus NOT jamaicensis NOT lawrencii NOT leucomelas NOT leucops NOT lherminieri NOT libonyana NOT ludoviciae NOT maculirostris NOT maranonicus NOT mareensis NOT maximus NOT menachensis NOT merula NOT migratorius NOT mupinensis NOT naumanni NOT nigrescens NOT nigriceps NOT niveiceps NOT nudigenis NOT obscurus NOT obsoletus NOT olivaceofuscus NOT olivaceus NOT olivater NOT pallidus NOT pelios NOT phaeopygos NOT philomelos NOT pilaris NOT plebejus NOT plumbeus NOT poliocephalus NOT ravidus NOT reevei NOT rubrocanus NOT ruficollis NOT rufitorques NOT rufiventris NOT rufopalliatus NOT seebohmi NOT serranus NOT simillimus NOT smithi NOT subalaris NOT swalesi NOT tephronotus NOT torquatus NOT unicolor NOT vinitinctus NOT viscivorus NOT xanthorhynchus NOT naevia NOT naevius NOT citrinus NOT sibiricus)" ; Times: 1
+	Query: "stateprovince:"utah" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "pica pica" ; Times: 1
+	Query: "Pyrocephalus" ; Times: 1
+	Query: ""farallon islands" distance(location,geopoint(37.708269684354526,-122.3221206665039))<48480" ; Times: 1
+	Query: "county:"humboldt" stateprovince:"california" class:aves" ; Times: 1
+	Query: "stateprovince:"montana" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 2
+	Query: "Zealand" ; Times: 2
+	Query: "country:"Pakistan" year >= 1910 year <= 1925" ; Times: 1
+	Query: "Asio otus" ; Times: 2
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "toad" ; Times: 1
+	Query: "type:specimen (Zoothera OR Turdus) AND (NOT abyssinicus NOT albicollis NOT albocinctus NOT amaurochalinus NOT assimilis NOT atrogularis NOT aurantius NOT bewsheri NOT boulboul NOT cardis NOT caucae NOT celaenops NOT chiguanco NOT chrysolaus NOT daguae NOT dissimilis NOT erythropleurus NOT eunomus NOT falcklandii NOT feae NOT flavipes NOT fulviventris NOT fumigatus NOT fuscater NOT grayi NOT haplochrous NOT hauxwelli NOT helleri NOT hortulorum NOT ignobilis NOT iliacus NOT infuscatus NOT jamaicensis NOT lawrencii NOT leucomelas NOT leucops NOT lherminieri NOT libonyana NOT ludoviciae NOT maculirostris NOT maranonicus NOT mareensis NOT maximus NOT menachensis NOT merula NOT migratorius NOT mupinensis NOT naumanni NOT nigrescens NOT nigriceps NOT niveiceps NOT nudigenis NOT obscurus NOT obsoletus NOT olivaceofuscus NOT olivaceus NOT olivater NOT pallidus NOT pelios NOT phaeopygos NOT philomelos NOT pilaris NOT plebejus NOT plumbeus NOT poliocephalus NOT ravidus NOT reevei NOT rubrocanus NOT ruficollis NOT rufitorques NOT rufiventris NOT rufopalliatus NOT seebohmi NOT serranus NOT simillimus NOT smithi NOT subalaris NOT swalesi NOT tephronotus NOT torquatus NOT unicolor NOT vinitinctus NOT viscivorus NOT xanthorhynchus)" ; Times: 1
+	Query: "fruit" ; Times: 1
+	Query: "egeria" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: ""farallon islands" distance(location,geopoint(37.931200459333716,-123.23638916015625))<100000" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "class:aves catalognumber:162842 institutioncode:mvz" ; Times: 1
+	Query: "class:aves year >= 1840 year <= 1870" ; Times: 1
+	Query: "type:specimen (Zoothera OR Turdus) AND (NOT abyssinicus NOT albicollis NOT albocinctus NOT amaurochalinus NOT assimilis NOT atrogularis NOT aurantius NOT bewsheri NOT boulboul NOT cardis NOT caucae NOT celaenops NOT chiguanco NOT chrysolaus NOT daguae NOT dissimilis NOT erythropleurus NOT eunomus NOT falcklandii NOT feae NOT flavipes NOT fulviventris NOT fumigatus NOT fuscater NOT grayi NOT haplochrous NOT hauxwelli NOT helleri NOT hortulorum NOT ignobilis NOT iliacus NOT infuscatus NOT jamaicensis NOT lawrencii NOT leucomelas NOT leucops NOT lherminieri NOT libonyana NOT ludoviciae NOT maculirostris NOT maranonicus NOT mareensis NOT maximus NOT menachensis NOT merula NOT migratorius NOT mupinensis NOT naumanni NOT nigrescens NOT nigriceps NOT niveiceps NOT nudigenis NOT obscurus NOT obsoletus NOT olivaceofuscus NOT olivaceus NOT olivater NOT pallidus NOT pelios NOT phaeopygos NOT philomelos NOT pilaris NOT plebejus NOT plumbeus NOT poliocephalus NOT ravidus NOT reevei NOT rubrocanus NOT ruficollis NOT rufitorques NOT rufiventris NOT rufopalliatus NOT seebohmi NOT serranus NOT simillimus NOT smithi NOT subalaris NOT swalesi NOT tephronotus NOT torquatus NOT unicolor NOT vinitinctus NOT viscivorus NOT xanthorhynchus NOT naevia NOT naevius NOT citrinus)" ; Times: 1
+	Query: "butorides" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "class:aves year >= 1866 year <= 1866" ; Times: 1
+	Query: "country:"canada" specificepithet:corax genus:corvus year >= 1920 year <= 2014" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "Urocissa" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "country:"indonesia" class:aves year >= 1951 year <= 1951" ; Times: 1
+	Query: "paradoxornis" ; Times: 1
+	Query: ""farallon islands" distance(location,geopoint(37.708269684354526,-122.3221206665039))<100000" ; Times: 1
+	Query: "recordedby:van D" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 273 download events in this period)
+Total number of records downloaded: 7820 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7167
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 1
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 8
+	Date: 2014-08-08 ; Times: 1
+	Date: 2014-08-12 ; Times: 3
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-14 ; Times: 1
+	Date: 2014-08-17 ; Times: 4
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 3
+	Date: 2014-08-20 ; Times: 1
+	Date: 2014-08-21 ; Times: 1
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 3
+	Date: 2014-08-27 ; Times: 3
+	Date: 2014-08-28 ; Times: 7
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 1
+	Query: "ALCIPPE BRUNNEA" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "neotoma fuscipes" ; Times: 2
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "year >= 1866 year <= 1866" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "Sceloporus" ; Times: 4
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "dendragapus stateprovince:"new mexico"" ; Times: 1
+	Query: "forreri" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petechia genus:Dendroica" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza institutioncode:CAS OR MVZ" ; Times: 1
+	Query: "anas laysanensis" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "dendragapus stateprovince:"arizona"" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "county:"Travis" stateprovince:"Texas" year >= 1950 year <= 1955" ; Times: 1
+	Query: "paradoxornis" ; Times: 2
+	Query: "Dipodomys" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1391
+Total number of records retrieved from searches: 34359
+Number of download events that retrieved data from the resource: 276
+Total number of records downloaded: 323050
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1391
+Total number of records retrieved from searches: 34359
+Number of download events that retrieved data from the resource: 356
+Total number of records downloaded: 380819
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
