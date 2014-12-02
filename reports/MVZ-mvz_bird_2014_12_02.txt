@@ -1,0 +1,209 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 3478
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 9
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 7
+	Country: Germany ; Times: 17
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 20
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Philippines ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 78
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 3
+	Date: 2014-11-02 ; Times: 1
+	Date: 2014-11-03 ; Times: 4
+	Date: 2014-11-04 ; Times: 5
+	Date: 2014-11-05 ; Times: 9
+	Date: 2014-11-06 ; Times: 5
+	Date: 2014-11-07 ; Times: 11
+	Date: 2014-11-08 ; Times: 4
+	Date: 2014-11-10 ; Times: 5
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-12 ; Times: 9
+	Date: 2014-11-13 ; Times: 3
+	Date: 2014-11-14 ; Times: 8
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-17 ; Times: 4
+	Date: 2014-11-19 ; Times: 7
+	Date: 2014-11-20 ; Times: 3
+	Date: 2014-11-21 ; Times: 5
+	Date: 2014-11-22 ; Times: 7
+	Date: 2014-11-23 ; Times: 3
+	Date: 2014-11-24 ; Times: 10
+	Date: 2014-11-25 ; Times: 16
+	Date: 2014-11-26 ; Times: 14
+	Date: 2014-11-27 ; Times: 6
+	Date: 2014-11-28 ; Times: 2
+	Date: 2014-11-29 ; Times: 7
+	Date: 2014-11-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "guy 05" ; Times: 1
+	Query: "country:"United States" class:aves catalognumber:10000" ; Times: 1
+	Query: "aratinga" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Paris" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "media:1" ; Times: 1
+	Query: "TACHYMENIS" ; Times: 1
+	Query: "Vireo gilvus victoriae" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Aruba" ; Times: 1
+	Query: "barbados" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina) AND (NOT pusilla)" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina)" ; Times: 1
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "buteo jamaicensis alascensis type:specimen country:"United States"" ; Times: 1
+	Query: "(Rissa) year >= 1600 year <= 2012" ; Times: 2
+	Query: "elaenia chiriquensis" ; Times: 1
+	Query: "gull wings" ; Times: 3
+	Query: "country:"Sweden"" ; Times: 6
+	Query: "Gavia immer" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "stateprovince:"Puebla" country:"Mexico"" ; Times: 5
+	Query: "Callipepla californica canfieldae" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 2
+	Query: "todidae type:specimen" ; Times: 1
+	Query: "parrot" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:marmoratus genus:brachyramphus year >= 1990 year <= 2014" ; Times: 1
+	Query: "type:specimen institutioncode:MVZ mappable:1" ; Times: 1
+	Query: "Tree swallow" ; Times: 1
+	Query: "aves de chihuahua" ; Times: 3
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Henshaw" ; Times: 1
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "country:"United States" class:aves catalognumber:10000 mappable:1" ; Times: 1
+	Query: "Phalacrocorax auritus stateprovince:"Minnesota"" ; Times: 1
+	Query: "abronia lythrochila" ; Times: 2
+	Query: "labradorius" ; Times: 1
+	Query: "country:"Spain"" ; Times: 1
+	Query: "anas type:specimen tissue:1" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 2
+	Query: "mesitornithidae" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "todidae" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "Black scoter" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "bubo institutioncode:mvz" ; Times: 1
+	Query: "xiphorhynchus guttatus tissue:1" ; Times: 1
+	Query: "Agelaius phoeniceus grinnelli" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 2
+	Query: "Somateria mollissima" ; Times: 3
+	Query: "Barnardius" ; Times: 1
+	Query: "Pipra iris" ; Times: 1
+	Query: "pocket gopher" ; Times: 1
+	Query: "Morelia" ; Times: 2
+	Query: "distance(location,geopoint(24.380456829786826,120.9814453125))<100000" ; Times: 1
+	Query: "Molothrus ater artemisiae year <= 1909" ; Times: 1
+	Query: "melanerpes erythrocephalus" ; Times: 2
+	Query: "mellivora" ; Times: 2
+	Query: "Ptilinopus" ; Times: 2
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: "Algeria" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "france" ; Times: 4
+	Query: "cyanocorax maya" ; Times: 1
+	Query: "ireland" ; Times: 1
+	Query: "porphyrio martinica" ; Times: 3
+	Query: "stateprovince:"Puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "the eye of mine" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "aplonis feadensis" ; Times: 4
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "parula tissue" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "MVZ Birds 183104 (tissue)" ; Times: 1
+	Query: "tasmania" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "Anas andium" ; Times: 1
+	Query: "Callipepla californica decolorata" ; Times: 1
+	Query: "Zosterops japonicus tissue:1" ; Times: 1
+	Query: "Somateria mollissima skin" ; Times: 1
+	Query: "MVZ Birds 94811" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "MVZ 39042" ; Times: 2
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Telespiza ultima" ; Times: 7
+	Query: "aegithalos" ; Times: 2
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: "Paris museum" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "parotia" ; Times: 1
+	Query: "Grus americana minnesota" ; Times: 1
+	Query: "Albatross" ; Times: 1
+	Query: "Neochloe brevipennis browni" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "Anas tissue:1" ; Times: 1
+	Query: "pionus" ; Times: 2
+	Query: "distance(location,geopoint(24.380456829786826,120.9814453125))<184009" ; Times: 1
+	Query: "ninox scutulata" ; Times: 1
+	Query: "MVZ Birds 183104" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1937" ; Times: 1
+	Query: "Molothrus aeneus loyei year <= 1934" ; Times: 1
+	Query: "Nepal" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 4
+	Query: "dog" ; Times: 1
+	Query: "Des*" ; Times: 1
+	Query: "distance(location,geopoint(3.4327103454125445,-71.19140625))<100000" ; Times: 1
+	Query: "class:aves institutioncode:mvz" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2084
+Total number of records retrieved from searches: 46008
+Number of download events that retrieved data from the resource: 338
+Total number of records downloaded: 344291
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2084
+Total number of records retrieved from searches: 46008
+Number of download events that retrieved data from the resource: 418
+Total number of records downloaded: 402060
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
