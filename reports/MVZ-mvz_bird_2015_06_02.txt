@@ -1,0 +1,793 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 955
+Number of records retrieved in searches: 10712
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 16
+	Country: Australia ; Times: 10
+	Country: Belgium ; Times: 6
+	Country: Brazil ; Times: 36
+	Country: Canada ; Times: 51
+	Country: Chile ; Times: 19
+	Country: Colombia ; Times: 8
+	Country: Costa Rica ; Times: 4
+	Country: Czech Republic ; Times: 20
+	Country: Germany ; Times: 37
+	Country: India ; Times: 14
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 49
+	Country: Netherlands ; Times: 10
+	Country: Panama ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Russia ; Times: 4
+	Country: Thailand ; Times: 10
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 563
+	Country: Unknown ; Times: 80
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 27
+	Date: 2015-05-06 ; Times: 87
+	Date: 2015-05-07 ; Times: 53
+	Date: 2015-05-08 ; Times: 25
+	Date: 2015-05-09 ; Times: 27
+	Date: 2015-05-10 ; Times: 15
+	Date: 2015-05-11 ; Times: 28
+	Date: 2015-05-12 ; Times: 64
+	Date: 2015-05-13 ; Times: 26
+	Date: 2015-05-14 ; Times: 26
+	Date: 2015-05-15 ; Times: 37
+	Date: 2015-05-16 ; Times: 13
+	Date: 2015-05-17 ; Times: 15
+	Date: 2015-05-18 ; Times: 52
+	Date: 2015-05-19 ; Times: 43
+	Date: 2015-05-20 ; Times: 68
+	Date: 2015-05-21 ; Times: 23
+	Date: 2015-05-22 ; Times: 28
+	Date: 2015-05-23 ; Times: 22
+	Date: 2015-05-24 ; Times: 32
+	Date: 2015-05-25 ; Times: 38
+	Date: 2015-05-26 ; Times: 79
+	Date: 2015-05-27 ; Times: 35
+	Date: 2015-05-28 ; Times: 44
+	Date: 2015-05-29 ; Times: 23
+	Date: 2015-05-30 ; Times: 12
+	Date: 2015-05-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavia pacifica" ; Times: 1
+	Query: "aves Georgia United States Sitta carolinensis" ; Times: 1
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: ""rio blanco" country:"Ecuador" class:Aves" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz)" ; Times: 1
+	Query: "catalognumber:164805 institutioncode:mvz" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "fulica gigantea" ; Times: 1
+	Query: "(Nipissing*)" ; Times: 1
+	Query: "3996" ; Times: 2
+	Query: "accipiter trivirgatus" ; Times: 2
+	Query: "copsychus malabaricus" ; Times: 8
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "hemignathus obscurus SKIN" ; Times: 2
+	Query: "LSUMNS Aves tissue:1" ; Times: 1
+	Query: "Limnodromus griseus" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "Pipra chloromeros" ; Times: 2
+	Query: "Batty" ; Times: 1
+	Query: "Anthus correndera chilensis" ; Times: 1
+	Query: "distance(location,geopoint(34.64766983605625,-82.02612318098545))<57745" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 4
+	Query: "aves Georgia United States Vireo olivaceus" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 1925" ; Times: 1
+	Query: "aves Georgia United States Corvus ossifragus" ; Times: 1
+	Query: "distance(location,geopoint(37.09974768923571,14.56787109375))<100000" ; Times: 1
+	Query: "J.S. Rowley" ; Times: 5
+	Query: "gallicolumba criniger" ; Times: 1
+	Query: "tachymenis peruvianus" ; Times: 1
+	Query: "aves Georgia United States Cyanocitta cristata" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 3
+	Query: "Boucard country:"Mexico"" ; Times: 3
+	Query: "136* specificepithet:melodia" ; Times: 2
+	Query: "institutioncode:MVZ Cistothorus palustris" ; Times: 2
+	Query: "country:"united states" specificepithet:ferruginea genus:calidris" ; Times: 1
+	Query: "aves Georgia United States Troglodytes troglodytes" ; Times: 1
+	Query: "wisconsin horicon marsh" ; Times: 2
+	Query: "stateprovince:"alaska" catalognumber:152 institutioncode:mvz year >= 1907 year <= 1907" ; Times: 1
+	Query: "Psittacidae AND Mexico AND weight" ; Times: 1
+	Query: "649682" ; Times: 1
+	Query: "tuxpan" ; Times: 3
+	Query: "francolinus francolinus" ; Times: 3
+	Query: "412916" ; Times: 1
+	Query: "Onychorhynchus coronatus fraterculus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:paneak year >= 1900 year <= 1978" ; Times: 1
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 3
+	Query: "mussels" ; Times: 1
+	Query: "Microchera albocoronata albocoronata" ; Times: 2
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "16889 specificepithet:melodia" ; Times: 2
+	Query: "ukraine" ; Times: 3
+	Query: "cranioleuca baroni" ; Times: 1
+	Query: "Anthus leucophrys" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1970" ; Times: 1
+	Query: "class:Aves catalognumber:63494 OR 1715 OR 63494 OR 87340 OR 93029 institutioncode:MVZ" ; Times: 1
+	Query: "university of colorado boulder" ; Times: 1
+	Query: "samar" ; Times: 1
+	Query: "vole" ; Times: 1
+	Query: "Nucifraga columbiana Mexico" ; Times: 1
+	Query: "stateprovince:"ohio" class:aves" ; Times: 3
+	Query: "Spizella+pallida+Baja California" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "stateprovince:"maranhao"" ; Times: 1
+	Query: "Miller; Griscom; Richardson class:AVES" ; Times: 1
+	Query: "Tachornis tissue:1" ; Times: 1
+	Query: "red-tailed hawk type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "nana Jamaica" ; Times: 2
+	Query: "cougar" ; Times: 1
+	Query: "barrabandi" ; Times: 1
+	Query: "Chihuahua Spizella pallida" ; Times: 1
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "Pyrocephalus rubinus brazil" ; Times: 2
+	Query: "stateprovince:"Baja" country:"Mexico" (isla OR island) AND (AVES)" ; Times: 1
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 4
+	Query: "Lagopus welchi" ; Times: 8
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 3
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "corapipo altera country:"costa rica"" ; Times: 1
+	Query: "county:"Grays Harbor" year >= 1920 year <= 1930" ; Times: 1
+	Query: "county:"Nipissing" year >= 1920 year <= 2014" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Megascops kennicottii Chihuahua" ; Times: 1
+	Query: "Hirundo andecola" ; Times: 1
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 2
+	Query: "(Nipissing OR Nippissing)" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "recordedby:McGregor year >= 1898 year <= 1898" ; Times: 3
+	Query: "Spizella+pallida+New Mexico" ; Times: 1
+	Query: "W. B. Richardson class:AVES" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "173695 specificepithet:melodia" ; Times: 2
+	Query: "Coracina striata" ; Times: 2
+	Query: "Dryocopus martius country:"China"" ; Times: 1
+	Query: "Tinamotis pentlandii" ; Times: 1
+	Query: "J.H. Batty" ; Times: 4
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 2
+	Query: "platalea minor type:specimen" ; Times: 1
+	Query: "(Nipissing OR Nippising OR Nippising OR Nippissing)" ; Times: 3
+	Query: "branta canadensis leucopareia" ; Times: 1
+	Query: "Contopus sordidulus saturatus" ; Times: 1
+	Query: "Cordova" ; Times: 1
+	Query: "MVZ 186744" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Buteo" ; Times: 1
+	Query: "falco sparverius road type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "60354 OR 92916 OR 541 OR 5446 OR 5450 specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Electron" ; Times: 1
+	Query: "Leucosticte Leucosticte atrata type:specimen (Nevada)" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "aves Georgia United States Poecile carolinensis" ; Times: 1
+	Query: "aves Georgia United States Cistothorus palustris" ; Times: 1
+	Query: "J. S. Rowley" ; Times: 1
+	Query: "sycamore canyon stateprovince:"arizona" class:aves year >= 1950 year <= 1965" ; Times: 1
+	Query: "Spizella pallida United States New Mexico" ; Times: 1
+	Query: "distance(location,geopoint(21.652109963642037,-102.21908580511808))<22137" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 2
+	Query: "Pyrocephalus rubinus type:specimen (egg)" ; Times: 1
+	Query: "Megalaima australis SKIN" ; Times: 1
+	Query: "Pachyramphus aglaiae gravis" ; Times: 1
+	Query: "aves Georgia United States Certhia americana" ; Times: 1
+	Query: "coregonus" ; Times: 1
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 6
+	Query: "Heloderma" ; Times: 2
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "Alticola" ; Times: 1
+	Query: "selasphorus rufus type:specimen" ; Times: 2
+	Query: "aves Georgia United States Vireo solitarius" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "aves Georgia United States Eremophila alpestris" ; Times: 1
+	Query: "dendroica occidentalis Chihuahua" ; Times: 1
+	Query: "Oceanodroma willetti" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "Lagopus gabrielsoni" ; Times: 2
+	Query: "Tringa guttifer" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga tissue:1" ; Times: 1
+	Query: "Aeronautes saxatalis Chihuahua" ; Times: 1
+	Query: "tolmomyias sulphurescens" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "Poicephalus nyiro" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta" ; Times: 1
+	Query: "stateprovince:"Baja" country:"Mexico" class:AVES (isla OR island)" ; Times: 2
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 6
+	Query: "449605" ; Times: 1
+	Query: "Spiza americana Chihuahua" ; Times: 1
+	Query: "stateprovince:"alaska" (sitkensis) year >= 1907 year <= 1907" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 2
+	Query: "W. W. Brown country:"Guatemala" mappable:1" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "phylloscopus fuscatus" ; Times: 2
+	Query: "barros" ; Times: 1
+	Query: "Knipolegus cyanirostris brazil" ; Times: 2
+	Query: "platyrinchus mystaceus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Phoebastria immutabilis type:specimen" ; Times: 1
+	Query: "Rynchops niger intercedens" ; Times: 1
+	Query: ""j. claire wood" stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 2
+	Query: "cuculus canorus" ; Times: 2
+	Query: "strigiformes stateprovince:"tabasco" country:"Mexico" year >= 1970 year <= 2015 mappable:1" ; Times: 1
+	Query: ""Chen caerulescens" stateprovince:"Alaska"" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:Petrochelidon institutioncode:MVZ" ; Times: 2
+	Query: "grus antigone" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1950" ; Times: 1
+	Query: "Aquila chrysaetos AND (california) mappable:1" ; Times: 2
+	Query: "cinclidae" ; Times: 1
+	Query: "Spizella pallida+New Mexico" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 3
+	Query: "county:"Nipissing County" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 2
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 2
+	Query: "class:aves recordedby:paneak" ; Times: 1
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "catalognumber:63494 institutioncode:MVZ" ; Times: 2
+	Query: "monte verde" ; Times: 1
+	Query: "tolmomyias sulphurescens country:"colombia"" ; Times: 1
+	Query: ""Passer domesticus" type:specimen tissue:1" ; Times: 1
+	Query: "aves Georgia United States Tyrannus tyrannus" ; Times: 1
+	Query: "grandiflora" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(18.879144428351363,-69.4182332418859))<100000" ; Times: 1
+	Query: "Eremophila alpestris hoyti" ; Times: 1
+	Query: "MVZ 40941" ; Times: 1
+	Query: "pterocles indicus" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "vireo flavoviridis" ; Times: 1
+	Query: "Sonora Spizella pallida" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: ""j. claire wood" year >= 1900 year <= 1900" ; Times: 1
+	Query: "A. W. Anthony" ; Times: 1
+	Query: "zarcero" ; Times: 3
+	Query: "Psittacula" ; Times: 4
+	Query: "MVZ 6041" ; Times: 4
+	Query: "Pachyramphus castaneus" ; Times: 2
+	Query: "syria" ; Times: 1
+	Query: "selasphorus tissue:1" ; Times: 1
+	Query: "LSU Aves tissue:1" ; Times: 1
+	Query: "MVZ 147661" ; Times: 1
+	Query: "Motacilla alba" ; Times: 4
+	Query: ""j. claire wood" year >= 1891 year <= 1891" ; Times: 1
+	Query: ""j. claire wood" year >= 1895 year <= 1895" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "LSU Aves Louisiana tissue:1" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "river otter" ; Times: 2
+	Query: "Megalaima australis australis SKIN" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "(Nipissing OR Nippissing OR Nipising OR nipissing)" ; Times: 2
+	Query: "monkey" ; Times: 1
+	Query: "piranga flava tissue:1" ; Times: 1
+	Query: "(Nipissing OR Nippissing OR Nipising OR "Nipissing District")" ; Times: 1
+	Query: "distance(location,geopoint(34.56689376389315,-82.001953125))<61229" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sonora" country:"Mexico"" ; Times: 2
+	Query: "Turdus assimilis" ; Times: 3
+	Query: "Oceanodroma willetti year >= 1913 year <= 1913" ; Times: 1
+	Query: "class:aves recordedby:nicholson year >= 1918 year <= 1922" ; Times: 1
+	Query: "white-crowned" ; Times: 1
+	Query: "water snake" ; Times: 1
+	Query: "Passerella iliaca institutioncode:MVZ tissue:1" ; Times: 5
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "clamator coromandus" ; Times: 3
+	Query: "Tolmomyias assimilis brazil" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "Troglodytes chilensis" ; Times: 2
+	Query: "Ara militaris" ; Times: 1
+	Query: "county:"wayne" stateprovince:"michigan" year >= 1893 year <= 1893" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "meleagris gallopavo" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Spizella pallida New Mexico" ; Times: 1
+	Query: "ficedula albicilla" ; Times: 1
+	Query: "aves Georgia United States bewickii" ; Times: 1
+	Query: "Todirostrum maculatum brazil" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:Petrochelidon institutioncode:MVZ" ; Times: 1
+	Query: "10270" ; Times: 2
+	Query: "cistothorus platensis distance(location,geopoint(51.19770732628986,-96.416015625))<100000" ; Times: 1
+	Query: "chipmunk" ; Times: 2
+	Query: ""j. claire wood" year >= 1893 year <= 1893" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "aves Georgia United States Hirundo rustica" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1920 year <= 2015 mappable:1" ; Times: 1
+	Query: "catalognumber:132967 institutioncode:mvz" ; Times: 1
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "catalognumber:63494 OR 1715 OR 67280 OR 87340 OR 93029 institutioncode:MVZ" ; Times: 1
+	Query: "guapi" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:americanus genus:coccyzus year >= 1915 year <= 1915" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 1
+	Query: "Agelaius phoeniceus tissue:1" ; Times: 2
+	Query: "412916 A" ; Times: 2
+	Query: "caprimulgus nigrescens" ; Times: 5
+	Query: "odontophorus stellatus" ; Times: 1
+	Query: "nana Jamaica weight" ; Times: 2
+	Query: "arachnothera" ; Times: 4
+	Query: ""j. claire wood" year >= 1898 year <= 1898" ; Times: 1
+	Query: "Cnipodectes subbrunneus" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 3
+	Query: "todirostrum chrysocrotaphum" ; Times: 2
+	Query: "salpornis" ; Times: 1
+	Query: "MVZ 163293" ; Times: 3
+	Query: "cisticola exilis" ; Times: 2
+	Query: "Ni*" ; Times: 1
+	Query: "519698" ; Times: 1
+	Query: "Hemitriccus diops brazil" ; Times: 1
+	Query: "dendroica petechia (tissue)" ; Times: 2
+	Query: "masius chrysopterus bellus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1965" ; Times: 1
+	Query: "porzana porzana" ; Times: 1
+	Query: "aves nias" ; Times: 2
+	Query: "Boucard" ; Times: 1
+	Query: "skunk" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Terpsiphone viridis ferreti" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:peyton year >= 1961 year <= 1961" ; Times: 1
+	Query: "turdoides" ; Times: 2
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "poecilotriccus sylvia" ; Times: 4
+	Query: ""Coracina striata"" ; Times: 8
+	Query: "Spizella pallida+Sonora" ; Times: 1
+	Query: "country:"Argentina" class:aves year <= 2014 tissue:1" ; Times: 1
+	Query: "Leucosticte Leucosticte tephrocotis littoralis type:specimen (Nevada)" ; Times: 1
+	Query: "W. W. Brown stateprovince:"Arizona" country:"United States"" ; Times: 2
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Loxia grinnelli year >= 1919 year <= 1919" ; Times: 1
+	Query: "Microchera albocoronata type:specimen" ; Times: 1
+	Query: "Pterocles alchata" ; Times: 10
+	Query: ""branta bernicla" stateprovince:"Alaska"" ; Times: 4
+	Query: "otus sunia" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "beach station stateprovince:"illinois"" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1980" ; Times: 1
+	Query: "Brant" ; Times: 1
+	Query: "ptilogonys caudatus" ; Times: 1
+	Query: "aves Georgia United States Vireo philadelphicus" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 4
+	Query: "Megalaima rubricapilla SKIN" ; Times: 1
+	Query: "stateprovince:"arizona" class:aves year >= 1905 year <= 1905" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "icterotis" ; Times: 1
+	Query: "Nipissing" ; Times: 2
+	Query: "egg Pyrocephalus rubinus type:specimen AND (bird)" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "106472 specificepithet:melodia" ; Times: 3
+	Query: ""table rock" stateprovince:"Oregon"" ; Times: 1
+	Query: "Spizella pallida+Baja California" ; Times: 2
+	Query: "54847" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "lanius collurio" ; Times: 3
+	Query: "class:aves catalognumber:163573 institutioncode:mvz" ; Times: 1
+	Query: "Aegolius year >= 1936 year <= 1936" ; Times: 1
+	Query: "vireo bellii california san bernardino" ; Times: 1
+	Query: "piranga tissue:1" ; Times: 2
+	Query: ""myrmoborus" tissue:1" ; Times: 2
+	Query: "R 184443" ; Times: 1
+	Query: "francolinus pictus type:specimen" ; Times: 1
+	Query: "columba fasciata testes" ; Times: 1
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 2
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" mappable:1" ; Times: 1
+	Query: "lizard skeletons" ; Times: 2
+	Query: "catalognumber:168016 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "montello" ; Times: 1
+	Query: "calypte anna tissue:1" ; Times: 2
+	Query: "Picus viridis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 1
+	Query: "catalognumber:150267 institutioncode:mvz" ; Times: 1
+	Query: "Neochmia phaeton country:"Australia"" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1940" ; Times: 1
+	Query: "MVZ 164266" ; Times: 2
+	Query: "Megalaima skin India" ; Times: 3
+	Query: "locustella certhiola" ; Times: 13
+	Query: "Dendragapus obscurus year >= 1800 year <= 1910" ; Times: 1
+	Query: "garter snake" ; Times: 3
+	Query: "Chaetura fumosa type:specimen" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1938" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1936" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1937" ; Times: 1
+	Query: "Battle Creek recordedby:McGregor year >= 1898 year <= 1898" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Aechmophorus" ; Times: 3
+	Query: "Falco hypoleucos" ; Times: 4
+	Query: "lanius isabellinus" ; Times: 5
+	Query: "acrocephalus dumetorum" ; Times: 16
+	Query: "Euscarthmus meloryphus brazil" ; Times: 1
+	Query: "condor year >= 1850 year <= 1950" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "Turdus poliocephalus vanikorensis" ; Times: 1
+	Query: "Tinamotis pentlandii country:"Chile" mappable:1" ; Times: 3
+	Query: "Richardson country:"Nicaragua"" ; Times: 4
+	Query: "aves nias 1950" ; Times: 1
+	Query: "cuculus sparverioides" ; Times: 1
+	Query: "Rwanda Aves" ; Times: 1
+	Query: "bees" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 1
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1950 year <= 2015" ; Times: 1
+	Query: "condor stateprovince:"california" year >= 1850 year <= 1950" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "white-crowned sparrow" ; Times: 3
+	Query: "Spizella pallida Baja California" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "Miller; Griscom; Richardson" ; Times: 3
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "(Nipissing)" ; Times: 2
+	Query: "country:"Mexico" (Cordova)" ; Times: 2
+	Query: "catalognumber:40941 institutioncode:mvz" ; Times: 1
+	Query: "aves Georgia United States Progne subis" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1950" ; Times: 3
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "hemignathus SKIN" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "pterocles exustus" ; Times: 3
+	Query: "Strix fulvescens" ; Times: 1
+	Query: "Phoenicoparrus andinus country:"Chile" mappable:1" ; Times: 2
+	Query: "Chordeiles minor neotropicalis" ; Times: 1
+	Query: "mionectes oleagineus tissue:1" ; Times: 3
+	Query: "Cathartes aura" ; Times: 2
+	Query: "Euphonia chlorotica" ; Times: 2
+	Query: ""j. claire wood" year >= 1892 year <= 1892" ; Times: 1
+	Query: "Cistothorus palustris tissue:1" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 3
+	Query: "Sitta carolinensis year >= 1886 year <= 1886" ; Times: 1
+	Query: "catalognumber:170329 institutioncode:mvz" ; Times: 2
+	Query: "catalognumber:60354 institutioncode:MVZ" ; Times: 1
+	Query: "Calamospiza Chihuahua" ; Times: 1
+	Query: "mvz 78772" ; Times: 3
+	Query: "Cistothorus palustris type:specimen tissue:1" ; Times: 2
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "aves Georgia United States Passerella iliaca" ; Times: 1
+	Query: "buteo jamaicensis highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria catalognumber:60354 OR 92916" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "Spizella+pallida+United States+California" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1940 year <= 2015 mappable:1" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 3
+	Query: "Otidiphaps nobilis" ; Times: 6
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "169828" ; Times: 1
+	Query: "520547" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "san carlos costa rica" ; Times: 2
+	Query: "Spizella pallida Mexico Chihuahua" ; Times: 1
+	Query: "lanius cristatus lucionensis" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 5
+	Query: "Terenotriccus erythrurus brazil" ; Times: 1
+	Query: "Motacilla alba type:specimen" ; Times: 8
+	Query: "stateprovince:"california" specificepithet:americanus genus:coccyzus year >= 1911 year <= 1911" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(34.785235705210994,-82.606201171875))<43123.8717736951" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(34.73973169734456,-82.7655029296875))<27757.199217340065" ; Times: 1
+	Query: "R-184488" ; Times: 1
+	Query: ""Limnodromus griseus" year >= 1924 year <= 1924" ; Times: 1
+	Query: "coereba flaveola" ; Times: 2
+	Query: "122533" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "motacilla alba" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1910" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "specificepithet:bahamensis genus:anas" ; Times: 1
+	Query: "distance(location,geopoint(21.651684524523013,-102.22057342529297))<4571" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 5
+	Query: "catalognumber:52033 institutioncode:MVZ" ; Times: 1
+	Query: "vireo bellii california" ; Times: 2
+	Query: "Chalcophaps indica sandwichensis" ; Times: 1
+	Query: "country:"netherlands" year <= 2015" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1960 year <= 2015 mappable:1" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "scolopax rusticola" ; Times: 7
+	Query: "tolmomyias flaviventris Amazonas Brazil" ; Times: 1
+	Query: "Platyrinchus mystaceus brazil" ; Times: 1
+	Query: "j. claire wood stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 3
+	Query: "psittacula eupatria" ; Times: 2
+	Query: "san vito" ; Times: 4
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "egg Pyrocephalus rubinus type:specimen" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "turdus obscurus" ; Times: 1
+	Query: "Dendragapus obscurus COLORADO year >= 1800 year <= 1910" ; Times: 1
+	Query: "MVZ 176257" ; Times: 2
+	Query: "Sialia sialis California" ; Times: 1
+	Query: "Leptopogon superciliaris tissue:1" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1990" ; Times: 1
+	Query: "gallicolumba criniger skin" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: "spizella wortheni chihuahua" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "abronia" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 4
+	Query: "Madison Wisconsin" ; Times: 2
+	Query: "(Nipissing OR Nippissing OR Nipising)" ; Times: 2
+	Query: "52375" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "distance(location,geopoint(34.73973169734456,-82.7655029296875))<34541" ; Times: 1
+	Query: "samar aves" ; Times: 4
+	Query: "PATAGONA GIGAS year >= 1800 year <= 1900" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 4
+	Query: "49339" ; Times: 3
+	Query: "hypsipetes madagascariensis" ; Times: 1
+	Query: "tolmomyias flaviventris amazonas" ; Times: 1
+	Query: "class:aves recordedby:olsen" ; Times: 1
+	Query: "apus apus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hendee AND (NOT dmns NOT dmnh)" ; Times: 1
+	Query: "Dendragapus obscurus" ; Times: 1
+	Query: "B431" ; Times: 1
+	Query: "distance(location,geopoint(21.651684524523013,-102.22057342529297))<3843" ; Times: 1
+	Query: "4206 specificepithet:melodia" ; Times: 2
+	Query: "Tolmomyias flaviventris brazil" ; Times: 1
+	Query: "Loxia grinnelli" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "distance(location,geopoint(21.651684524523013,-102.22057342529297))<6791" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "tolmomyias flaviventris amazonas Brazil" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1930 year <= 2015 mappable:1" ; Times: 1
+	Query: "red-tailed hawk" ; Times: 1
+	Query: "Ixobrychus exilis brazil" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "county:"wayne" stateprovince:"michigan" genus:ammodramus year >= 1888 year <= 1922" ; Times: 1
+	Query: "country:"Argentina" class:aves tissue:1" ; Times: 1
+	Query: "Lurocalis semitorquatus" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 1
+	Query: "Pyrocephalus rubinus egg" ; Times: 2
+	Query: "(Nip OR Nipissing)" ; Times: 1
+	Query: "pulsatrix institutioncode:MVZ" ; Times: 6
+	Query: "stateprovince:"michigan" genus:ammodramus" ; Times: 4
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "coleoptera" ; Times: 2
+	Query: "pulsatrix" ; Times: 20
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 1
+	Query: "Megapodius laperouse senex" ; Times: 3
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 3
+	Query: "thraupis" ; Times: 1
+	Query: "Empidonax traillii (San Bernardino) mappable:1" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1923" ; Times: 1
+	Query: "Psittacidae Mexico weight" ; Times: 1
+	Query: "klages year >= 1920" ; Times: 1
+	Query: "catalognumber:132973 institutioncode:mvz" ; Times: 1
+	Query: "Grays Harbor 1927" ; Times: 1
+	Query: "Calidris mauri year >= 1830 year <= 1866" ; Times: 1
+	Query: "pionus sordidus" ; Times: 1
+	Query: "Todirostrum cinereum brazil" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1000 year <= 2015" ; Times: 1
+	Query: "bocagei" ; Times: 1
+	Query: "Monias benschi" ; Times: 2
+	Query: "megapodius" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "falco sparverius highway type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1980 year <= 2015" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Aquila chrysaetos AND (California) mappable:1" ; Times: 1
+	Query: "Spizella pallida United States California" ; Times: 2
+	Query: "Nucifraga columbiana" ; Times: 6
+	Query: ""dendroica petechia" tissue:1" ; Times: 1
+	Query: "amphispiza belli" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla 18" ; Times: 1
+	Query: "terenotriccus erythrurus tissue:1" ; Times: 1
+	Query: "anthus lutescens" ; Times: 2
+	Query: "strigiformes stateprovince:"aguascalientes" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Alticola tissue:1" ; Times: 3
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "Terenotriccus erythrurus signatus" ; Times: 2
+	Query: "dicaeum ignipectus" ; Times: 1
+	Query: "B 431" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 3
+	Query: "Megascops barbarus" ; Times: 2
+	Query: "Terenotriccus erythrurus tissue:1" ; Times: 1
+	Query: "Cistothorus palustris Los Angeles" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 7
+	Query: "dicaeum trigonostigma" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 2
+	Query: "myrmoborus lugubris" ; Times: 3
+	Query: "seicercus burkii" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Todirostrum poliocephalum brazil" ; Times: 1
+	Query: "8524" ; Times: 1
+	Query: "cistothorus platensis distance(location,geopoint(45.21816366718811,-93.97705078125))<306641" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "(clemson)" ; Times: 1
+	Query: "class:aves catalognumber:163575 institutioncode:mvz" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 1
+	Query: "distance(location,geopoint(34.47637607846852,-81.73828125))<55137" ; Times: 1
+	Query: "calidris melanotos" ; Times: 1
+	Query: "Phapitreron leucotis brevirostris" ; Times: 1
+	Query: "class:aves catalognumber:163574" ; Times: 2
+	Query: "9255" ; Times: 1
+	Query: "funereus SKIN" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Pipra" ; Times: 1
+	Query: "zoothera dauma" ; Times: 3
+	Query: "Madeira" ; Times: 2
+	Query: "chalcites xanthorhynchus" ; Times: 2
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "escudo de veraguas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 976 download events in this period)
+Total number of records downloaded: 83271 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 39895
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 4
+	Country: Germany ; Times: 1
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 57
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 8
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 6
+	Date: 2015-05-13 ; Times: 8
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 3
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 23
+	Date: 2015-05-19 ; Times: 36
+	Date: 2015-05-20 ; Times: 5
+	Date: 2015-05-21 ; Times: 4
+	Date: 2015-05-22 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 7
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-26 ; Times: 1
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Motacilla alba type:specimen mappable:1" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:Petrochelidon institutioncode:MVZ" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Falco hypoleucos" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "Tinamotis pentlandii country:"Chile" mappable:1" ; Times: 2
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "nana Jamaica" ; Times: 1
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "J. S. Rowley" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "60354 OR 92916 OR 541 OR 5446 OR 5450 specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "samar aves" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "cranioleuca baroni" ; Times: 1
+	Query: "Pyrocephalus rubinus brazil" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "catalognumber:52033 institutioncode:MVZ" ; Times: 1
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: ""Passer domesticus" type:specimen tissue:1" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "arachnothera" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "specificepithet:occidentalis institutioncode:MVZ year >= 1950 year <= 1960" ; Times: 1
+	Query: "catalognumber:40941 institutioncode:mvz" ; Times: 1
+	Query: "j. claire wood stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "platyrinchus mystaceus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "W. B. Richardson" ; Times: 1
+	Query: "Phoenicoparrus andinus country:"Chile" mappable:1" ; Times: 2
+	Query: "Cachar" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Rynchops niger intercedens" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "escudo de veraguas" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4326
+Total number of records retrieved from searches: 83093
+Number of download events that retrieved data from the resource: 315
+Total number of records downloaded: 152173
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4919
+Total number of records retrieved from searches: 93647
+Number of download events that retrieved data from the resource: 797
+Total number of records downloaded: 573006
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
