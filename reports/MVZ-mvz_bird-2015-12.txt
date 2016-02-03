@@ -1,0 +1,509 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 494
+Number of records retrieved in searches: 8201
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 63
+	Country: Brazil ; Times: 33
+	Country: Russia ; Times: 33
+	Country: Netherlands ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 13
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 281
+	Country: Germany ; Times: 17
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Puerto Rico ; Times: 10
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: New Zealand ; Times: 3
+	Country: Denmark ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 22
+	Date: 2015-12-08 ; Times: 25
+	Date: 2015-12-03 ; Times: 19
+	Date: 2015-12-02 ; Times: 32
+	Date: 2015-12-01 ; Times: 38
+	Date: 2015-12-07 ; Times: 27
+	Date: 2015-12-06 ; Times: 8
+	Date: 2015-12-05 ; Times: 9
+	Date: 2015-12-04 ; Times: 42
+	Date: 2015-12-21 ; Times: 10
+	Date: 2015-12-20 ; Times: 7
+	Date: 2015-12-23 ; Times: 18
+	Date: 2015-12-22 ; Times: 10
+	Date: 2015-12-25 ; Times: 2
+	Date: 2015-12-24 ; Times: 10
+	Date: 2015-12-27 ; Times: 18
+	Date: 2015-12-26 ; Times: 5
+	Date: 2015-12-29 ; Times: 6
+	Date: 2015-12-28 ; Times: 16
+	Date: 2015-12-31 ; Times: 26
+	Date: 2015-12-16 ; Times: 12
+	Date: 2015-12-14 ; Times: 18
+	Date: 2015-12-15 ; Times: 28
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-17 ; Times: 13
+	Date: 2015-12-10 ; Times: 14
+	Date: 2015-12-11 ; Times: 14
+	Date: 2015-12-12 ; Times: 14
+	Date: 2015-12-13 ; Times: 5
+	Date: 2015-12-18 ; Times: 8
+	Date: 2015-12-19 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammodramus henslowii (Virginia) AND (NOT West)" ; Times: 1
+	Query: "Cinclus cinclus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "mvz 182097" ; Times: 1
+	Query: "arachnothera longirostra" ; Times: 1
+	Query: "genus:leucosticte tissue:1" ; Times: 1
+	Query: "12522" ; Times: 2
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "acutus" ; Times: 1
+	Query: "155633" ; Times: 1
+	Query: "Lanius ludovicianus (Virginia)" ; Times: 1
+	Query: "empidonax difficilis cineritius" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "type:specimen genus:xolmis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Anas country:&#34;Japan&#34;" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 2
+	Query: "candida" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 7
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "collocalia vanuatu" ; Times: 1
+	Query: "Melanerpes erythrocephalus" ; Times: 1
+	Query: "Phalaropus lobatus" ; Times: 2
+	Query: "Williams 1955-03-27" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Putumayo&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:canicularis genus:aratinga" ; Times: 1
+	Query: "mergus serrator mexico" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "specificepithet:fluminea family:rallidae preparations:skin" ; Times: 1
+	Query: "monster" ; Times: 10
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 2
+	Query: "pulsatrix tissue:1" ; Times: 3
+	Query: "rhipidura fuliginosa" ; Times: 1
+	Query: "black-chinned" ; Times: 1
+	Query: "guttatus maryland" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 1
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "riparia riparia" ; Times: 1
+	Query: "Calliphlox type:specimen mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "mitu" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 3
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "agilis stateprovince:&#34;California&#34; (oporornis OR oporonis)" ; Times: 1
+	Query: "Margarornis squamiger type:specimen" ; Times: 1
+	Query: "type:specimen family:TYRANNIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(34.00428898114395,-119.39271926879883))&lt;681" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 2
+	Query: "MV" ; Times: 2
+	Query: "ptilorrhoa" ; Times: 1
+	Query: "wilsonia pusilla chryseola" ; Times: 1
+	Query: "Pachyramphus albogriseus albogriseus" ; Times: 2
+	Query: "genus:tympanuchus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Coluber British Columbia" ; Times: 2
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "Mitu mitu" ; Times: 1
+	Query: "type:specimen genus:Cyanocorax class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "California Gull" ; Times: 2
+	Query: "Numenius borealis" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "113810" ; Times: 1
+	Query: "distance(location,geopoint(34.00428898114395,-119.39271926879883))&lt;308.2706940291087" ; Times: 1
+	Query: "lagopus leucurus" ; Times: 1
+	Query: "Loriculus philippensis" ; Times: 3
+	Query: "piculus leucolaemus" ; Times: 3
+	Query: "Salpinctes obsoletus exsul" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 1
+	Query: "pachyramphus albogriseus salvini" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Buteo jamaicensis (los angeles county ) year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "Epimachus meyeri preparations:skin" ; Times: 1
+	Query: "specificepithet:sinaloa genus:Thryothorus institutioncode:MVZ" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 4
+	Query: "specificepithet:calopterus family:rallidae preparations:skin" ; Times: 1
+	Query: "leucosticte australis" ; Times: 2
+	Query: "ammodramus nelsoni" ; Times: 3
+	Query: "Syrmaticus ellioti preparations:skin" ; Times: 1
+	Query: "aves type:specimen country:&#34;thailand&#34;" ; Times: 1
+	Query: "kreffti" ; Times: 1
+	Query: "osburn" ; Times: 1
+	Query: "Parotia lawesii preparations:skin" ; Times: 1
+	Query: "tachyeres" ; Times: 1
+	Query: "cissa thalassina" ; Times: 3
+	Query: "type:specimen genus:dacnis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leptopogon taczanowskii type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;21009.736004959068" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 3
+	Query: "type:specimen genus:ammodramus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Seiurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mus massachusetts" ; Times: 1
+	Query: "106669" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "Psittacidae Chihuahua" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "phylloscopus inornatus month &gt;= 2 month &lt;= 7" ; Times: 1
+	Query: "Coccothraustes egg" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "grallaria rufula" ; Times: 1
+	Query: "Jackson 1889-09-19" ; Times: 1
+	Query: "type:specimen specificepithet:picumnus genus:Dendrocolaptes" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker year &gt;= 1900 year &lt;= 1930 institutioncode:MVZ" ; Times: 2
+	Query: "Pheucticus melanocephalus year &gt;= 1982 year &lt;= 1982" ; Times: 1
+	Query: "Thamnophilus ruficapillus type:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker" ; Times: 1
+	Query: "melanitta nigra type:specimen (california )" ; Times: 1
+	Query: "Calidris alpina type:specimen year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "cissa" ; Times: 1
+	Query: "distance(location,geopoint(24.56710835257599,-75.662841796875))&lt;100000" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "threskiornis strictipennis" ; Times: 1
+	Query: "pulsatrix institutioncode:MVZ" ; Times: 2
+	Query: "Pterodroma cookii" ; Times: 3
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Sheda Morshed" ; Times: 1
+	Query: "Aethopyga" ; Times: 2
+	Query: "Oceanodroma homochroa Cruz" ; Times: 1
+	Query: "mounted type:specimen year &lt;= 1930" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker alex" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "circus cyaneus (california) year &gt;= 1910 year &lt;= 1912" ; Times: 1
+	Query: "class:aves recordedby:harris year &gt;= 1895 year &lt;= 1899" ; Times: 1
+	Query: "striata stateprovince:&#34;California&#34; (dendroica)" ; Times: 1
+	Query: "Paradisaea apoda preparations:skin" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi" ; Times: 1
+	Query: "Chordeiles minor" ; Times: 1
+	Query: "Myioborus melanocephalus type:specimen" ; Times: 1
+	Query: "mvz 9458" ; Times: 1
+	Query: "Lophura erythrophthalma preparations:skin" ; Times: 1
+	Query: "Paradisaea raggiana preparations:skin" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "Psittacidae Arizona" ; Times: 2
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "basileuterus rufifrons type:specimen" ; Times: 1
+	Query: "passer domesticus continent:asia" ; Times: 1
+	Query: "Rhipidura rufifrons tissue:1" ; Times: 2
+	Query: "Chlorospingus" ; Times: 1
+	Query: "cerulea stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "nudipes" ; Times: 1
+	Query: "Ammodramus henslowii (Virginia)" ; Times: 1
+	Query: "type:specimen family:Corvidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Atthis type:specimen mappable:1" ; Times: 2
+	Query: "Buteo swainsoni (los angeles county )" ; Times: 1
+	Query: "passerina versicolor stateprovince:&#34;Baja california&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "547 Zonotrichia" ; Times: 1
+	Query: "melanitta nigra (california )" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 4
+	Query: "type:specimen genus:Myiarchus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Olaus Murie (Murie) year &gt;= 1920 year &lt;= 1990" ; Times: 1
+	Query: "Diphyllodes magnificus preparations:skin" ; Times: 1
+	Query: "Monhegan" ; Times: 3
+	Query: "rhipidura fuliginosa tissue:1" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "Lanius ludovicianus anthonyi year &gt;= 1897 year &lt;= 1898" ; Times: 1
+	Query: "DENDROCITTA VAGABUNDA" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 3
+	Query: "basileuterus culicivorus tissue:1" ; Times: 1
+	Query: "pHRYGILUS UNICOLOR" ; Times: 1
+	Query: "Ptiloris intercedens preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (krameri)" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "gyps fulvus" ; Times: 1
+	Query: "bracteatus" ; Times: 2
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "dendrocitta vagabunda" ; Times: 3
+	Query: "gbifdatasetid:e3b959d6-fcbe-4a28-a166-e4a807c340a0" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "type:specimen specificepithet:humeralis class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:viridis family:Cuculidae" ; Times: 1
+	Query: "SPHENISCUS HUMBOLDTI" ; Times: 1
+	Query: "catalognumber:149007 institutioncode:MVZ" ; Times: 1
+	Query: "Buteo swainsoni (los angeles county)" ; Times: 1
+	Query: "specificepithet:difficilis genus:empidonax stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker AND (NOT wfvz NOT usnm) year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "Zonotrichia leucophrys year &gt;= 1930 year &lt;= 1930 month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "Arborophila gingica family:Phasianidae preparations:skin" ; Times: 1
+	Query: "dinornithidae" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "Ramphocelus flammigerus" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 2
+	Query: "huallagae preparations:skin" ; Times: 1
+	Query: "specificepithet:semiplumbeus family:rallidae preparations:skin" ; Times: 1
+	Query: "Pachyramphus albogriseus salvini" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "sialia currucoides (california) year &gt;= 1908 year &lt;= 1909" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "catalognumber:95527 institutioncode:MVZ" ; Times: 4
+	Query: "mvz gymnogyps california" ; Times: 3
+	Query: "155921" ; Times: 1
+	Query: "Xolmis country:&#34;Argentina&#34;" ; Times: 1
+	Query: "empidonax difficilis (mexico)" ; Times: 1
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "country:&#34;thailand&#34; (arachnothera)" ; Times: 1
+	Query: "Oceanodroma homochroa Santa Cruz" ; Times: 1
+	Query: "Cicinnurus regius preparations:skin" ; Times: 1
+	Query: "Gavia adamsii" ; Times: 1
+	Query: "type:specimen family:Thraupidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:walker year &gt;= 1900 year &lt;= 1930 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 169412" ; Times: 4
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34; year &gt;= 1925 year &lt;= 1950" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "Parotia carolae preparations:skin" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 3
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "specificepithet:saturatus family:Cuculidae preparations:skin" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "passer domesticus continent:asia year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "mvz 13860" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 3
+	Query: "Synallaxis subpudica" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "Williams 1955" ; Times: 3
+	Query: "tachuris rubrigastra" ; Times: 1
+	Query: "Crypsirina temia" ; Times: 3
+	Query: "gray wolf" ; Times: 1
+	Query: "Lophura diardi preparations:skin" ; Times: 1
+	Query: "moth" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "demon" ; Times: 12
+	Query: "class:aves locality:mojave desert mappable:1" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Icteria virens" ; Times: 1
+	Query: "class:aves stateprovince:&#34;galapagos&#34; recordedby:harris" ; Times: 1
+	Query: "Parotia lawesii type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "calypte anna type:specimen (Santa Cruz Island )" ; Times: 1
+	Query: "Caprimulgus vociferus" ; Times: 1
+	Query: "type:specimen genus:Agapornis order:Psittaciformes continent:Africa (taranta)" ; Times: 1
+	Query: "locality:Charlotte harbor" ; Times: 1
+	Query: "Dodoma" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus platycercus type:specimen tissue:1" ; Times: 1
+	Query: "wilsonia pusilla (washington) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "francolinus francolinus india" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "megarhynchus" ; Times: 1
+	Query: "rollandia microptera" ; Times: 1
+	Query: "wilsonia pusilla (california) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Pinus contorta" ; Times: 6
+	Query: "Monarcha cinerascens" ; Times: 1
+	Query: "sialia mexicana year &gt;= 1908 year &lt;= 1909" ; Times: 2
+	Query: "Pachycephala olivacea" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "Chondestes grammacus strigatus year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (cyanocephala)" ; Times: 1
+	Query: "Contopus virens" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 3
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "Chlorospingus ophthalmicus" ; Times: 1
+	Query: "type:specimen genus:Opisthocomus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "type:specimen genus:Tyrannus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "*pipra mentalis" ; Times: 2
+	Query: "calypte anna type:specimen (Santa Catalina Island )" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker AND (NOT wfvz NOT usnm) year &gt;= 1900 year &lt;= 1930 institutioncode:MVZ" ; Times: 1
+	Query: "stateprovince:&#34;Putumayo&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "macrophyllum macrophyllum" ; Times: 3
+	Query: "Ptiloris intercedens type:specimen preparations:skin AND (NOT CLO)" ; Times: 1
+	Query: "Tyto alba (california) year &gt;= 1900 year &lt;= 1920" ; Times: 2
+	Query: "sphyrapicus varius year &gt;= 1999 year &lt;= 2000" ; Times: 1
+	Query: "aves country:&#34;North Korea&#34;" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "pyrrhocorax graculus" ; Times: 8
+	Query: "thailand aves" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "sialia mexicana (california) year &gt;= 1908 year &lt;= 1909" ; Times: 2
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Galapagos&#34; recordedby:harris" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Buteo jamaicensis (los angeles county )" ; Times: 1
+	Query: "Tryngites subruficollis" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "wilsonia pusilla (alaska) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Pyrrhocorax graculus" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 2
+	Query: "catalognumber:155836 institutioncode:MVZ" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "castanea stateprovince:&#34;California&#34; (setophaga OR dendroica)" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "Sterna forsteri" ; Times: 1
+	Query: "acrocephalus arundinaceus afghanistan" ; Times: 1
+	Query: "Pteroglossus sanguineus" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "neotoma institutioncode:MVZ" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "type:specimen family:parulidae class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:dacnis class:Aves stateprovince:&#34;mato grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "MVZ 161435" ; Times: 2
+	Query: "american pipit" ; Times: 1
+	Query: "specificepithet:lagopus genus:Buteo class:aves stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "loveland aves" ; Times: 1
+	Query: "Trogon massena" ; Times: 1
+	Query: "N. Gilmore" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "catalognumber:100000 institutioncode:MVZ" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Contopus cooperi" ; Times: 1
+	Query: "Sturnella magna" ; Times: 3
+	Query: "catalognumber:139065 institutioncode:MVZ" ; Times: 1
+	Query: "colinus cristatus" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Pycnonotus cyaniventris" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "Dendrocolaptidae" ; Times: 1
+	Query: "basileuterus rufifrons" ; Times: 2
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "Paradisaea minor preparations:skin" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "type:specimen genus:pyrocephalus class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caprimulgus macrurus" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "type:specimen family:TYRANNIDAE class:Aves stateprovince:&#34;Mato Grosso&#34; country:&#34;Brazil&#34; AND (NOT Descalvados)" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Pipreola riefferii type:specimen" ; Times: 1
+	Query: "(Murie) year &gt;= 1920 year &lt;= 1990" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 889 download events in this period)
+Total number of records downloaded: 8654
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 4
+	Country: United States ; Times: 50
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-08 ; Times: 5
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-02 ; Times: 3
+	Date: 2015-12-01 ; Times: 4
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-23 ; Times: 8
+	Date: 2015-12-05 ; Times: 2
+	Date: 2015-12-04 ; Times: 8
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-17 ; Times: 2
+	Date: 2015-12-13 ; Times: 3
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 4
+	Date: 2015-12-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:sordidulus genus:contopus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "minnesota egg type:specimen" ; Times: 1
+	Query: "Empidonax occidentalis tissue:1" ; Times: 1
+	Query: "chloropipo unicolor" ; Times: 2
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "Selasphorus sasin type:specimen tissue:1" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (california) year &lt;= 1979 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "specificepithet:sordidulus genus:contopus country:&#34;mexico&#34; month &gt;= 10 month &lt;= 12" ; Times: 1
+	Query: "Pueblo Colorado Aves" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:walker year &gt;= 1900 year &lt;= 1930 institutioncode:MVZ" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "wilsonia pusilla (oregon) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Calcarius mccownii" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "wilsonia pusilla type:specimen (colorado) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Selasphorus rufus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta tissue:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "vireo cassinii baja california" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Archilochus type:specimen mappable:1" ; Times: 1
+	Query: "Arremon brunneinucha type:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:walker year &gt;= 1900 year &lt;= 1930 institutioncode:MVZ" ; Times: 4
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "James L. Patton Iran" ; Times: 1
+	Query: "Ochthoeca frontalis type:specimen" ; Times: 1
+	Query: "Calothorax type:specimen mappable:1" ; Times: 1
+	Query: "Seiurus stateprovince:&#34;California&#34; (aurocapilla OR aurocapillus)" ; Times: 1
+	Query: "Selasphorus type:specimen mappable:1" ; Times: 2
+	Query: "wilsonia pusilla (washington) month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:frantzii genus:Elaenia" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "passer domesticus" ; Times: 1
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Stellula calliope type:specimen tissue:1" ; Times: 1
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leptopogon superciliaris type:specimen" ; Times: 1
+	Query: "terpsiphone year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "monarcha year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Sheda Morshed" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;India&#34; distance(location,geopoint(11.393879232967398,78.233642578125))&lt;580001" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
