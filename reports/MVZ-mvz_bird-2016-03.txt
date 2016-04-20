@@ -1,0 +1,260 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 192
+Number of records retrieved in searches: 2266
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 10
+	Country: Australia ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 26
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 102
+	Country: Netherlands ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Russia ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 6
+	Date: 2016-03-11 ; Times: 16
+	Date: 2016-03-03 ; Times: 11
+	Date: 2016-03-01 ; Times: 17
+	Date: 2016-03-08 ; Times: 28
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 9
+	Date: 2016-03-14 ; Times: 13
+	Date: 2016-03-04 ; Times: 18
+	Date: 2016-03-05 ; Times: 9
+	Date: 2016-03-02 ; Times: 19
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-13 ; Times: 18
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "McCarty AZ type:specimen" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;distrito federal&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;jalisco&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Rollo Beck" ; Times: 5
+	Query: "11054" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 1
+	Query: "Diglossa plumbea" ; Times: 3
+	Query: "Limnodromus griseus (British Columbia)" ; Times: 2
+	Query: "calvert" ; Times: 1
+	Query: "sittasomus mappable:1" ; Times: 1
+	Query: "Zosterops japonicus (bill)" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "95588" ; Times: 1
+	Query: "clo" ; Times: 1
+	Query: "catalognumber:39083 institutioncode:MVZ" ; Times: 2
+	Query: "archbold" ; Times: 1
+	Query: "Trochilus polytmus (bill)" ; Times: 1
+	Query: "merops leschenaulti" ; Times: 1
+	Query: "N. McIntyre" ; Times: 1
+	Query: "calothorax lucifer mexico" ; Times: 1
+	Query: "MVZ 248401" ; Times: 2
+	Query: "Aves Upucerthia (Bolivia)" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 3
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "Hylocharis leucotis (tarsus)" ; Times: 1
+	Query: "PB 47" ; Times: 1
+	Query: "alcedo" ; Times: 1
+	Query: "Colton Well" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "locality:Ceres stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "tiaris obscura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "Tachybaptus dominicus bangsi" ; Times: 1
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "monterrey" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "Porzana palmeri" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34; year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "catalognumber:39084 institutioncode:MVZ" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Psittacula" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "distance(location,geopoint(35.9602229692967,-117.61962890625))&lt;11889" ; Times: 2
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "aves distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;195452" ; Times: 1
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;tlaxcala&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Falco sparverius (Alaska OR Yukon ) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1939" ; Times: 1
+	Query: "elaenia" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "parvus mappable:1 tissue:1" ; Times: 2
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "catharus guttatus tissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "golden eagle" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:Passer (clutch OR egg OR eggs)" ; Times: 2
+	Query: "egg type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Indian Canyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "diglossa plumbea" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 3
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 2
+	Query: "dendragapus obscurus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "Nevado de Colima" ; Times: 1
+	Query: "parvus AND (parvus) mappable:1 tissue:1" ; Times: 1
+	Query: "xema sabini (British Columbia)" ; Times: 1
+	Query: "237 stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Aves (Bolivia)" ; Times: 1
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;aguascalientes&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 2
+	Query: "troglodytes helleri" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 1
+	Query: "Passerculus sandwichensis (bill)" ; Times: 2
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "haematopus bachmani (British Columbia)" ; Times: 2
+	Query: "2229" ; Times: 1
+	Query: "diglossa sittoides" ; Times: 4
+	Query: "Canada Goose" ; Times: 1
+	Query: "killdeer" ; Times: 2
+	Query: "endangered" ; Times: 1
+	Query: "Passerculus sandwichensis (adult)" ; Times: 1
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "falco mexicanus" ; Times: 2
+	Query: "dendragapus obscurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Campephilus robustus brazil" ; Times: 1
+	Query: "class:Aves county:&#34;Oswego&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Tringa solitaria (British Columbia)" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "Tuxtla stateprovince:&#34;Veracruz&#34; institutioncode:MVZ mappable:1" ; Times: 2
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1876 year &lt;= 1890" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "Pinus contorta" ; Times: 5
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "otus tissue:1" ; Times: 1
+	Query: "genus:Carpodacus stateprovince:&#34;durango&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "type:specimen recordedby:mccarty" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 3
+	Query: "Limnodromus scolopaceus (British Columbia)" ; Times: 1
+	Query: "golden trout" ; Times: 1
+	Query: "witch institutioncode:MVZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 230 download events in this period)
+Total number of records downloaded: 476136
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-10 ; Times: 15
+	Date: 2016-03-01 ; Times: 7
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1949" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "genus:Carpodacus stateprovince:&#34;aguascalientes&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "blue- winged teal" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Strix varia type:specimen country:&#34;Mexico&#34; (Strix) AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "dendragapus obscurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "&#34;Amazilia violiceps&#34; AND weight" ; Times: 1
+	Query: "class:Aves county:&#34;Onondaga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
