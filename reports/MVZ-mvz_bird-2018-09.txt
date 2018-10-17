@@ -1,0 +1,944 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1572
+Number of records retrieved in searches: 9565
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 35
+	Country: Brazil ; Times: 75
+	Country: Italy ; Times: 5
+	Country: Ireland ; Times: 4
+	Country: Unknown ; Times: 12
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Norway ; Times: 8
+	Country: Ecuador ; Times: 9
+	Country: Australia ; Times: 2
+	Country: Iran ; Times: 9
+	Country: Iceland ; Times: 1
+	Country: China ; Times: 12
+	Country: Germany ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 24
+	Country: Turkey ; Times: 7
+	Country: Finland ; Times: 3
+	Country: United States ; Times: 1055
+	Country: Sweden ; Times: 5
+	Country: Russia ; Times: 5
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 235
+	Country: India ; Times: 17
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 16
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 30
+	Date: 2018-09-23 ; Times: 29
+	Date: 2018-09-02 ; Times: 9
+	Date: 2018-09-03 ; Times: 16
+	Date: 2018-09-26 ; Times: 207
+	Date: 2018-09-01 ; Times: 20
+	Date: 2018-09-20 ; Times: 85
+	Date: 2018-09-21 ; Times: 47
+	Date: 2018-09-22 ; Times: 8
+	Date: 2018-09-05 ; Times: 49
+	Date: 2018-09-08 ; Times: 10
+	Date: 2018-09-09 ; Times: 182
+	Date: 2018-09-28 ; Times: 12
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-30 ; Times: 5
+	Date: 2018-09-11 ; Times: 24
+	Date: 2018-09-10 ; Times: 382
+	Date: 2018-09-13 ; Times: 17
+	Date: 2018-09-12 ; Times: 24
+	Date: 2018-09-15 ; Times: 20
+	Date: 2018-09-14 ; Times: 22
+	Date: 2018-09-17 ; Times: 64
+	Date: 2018-09-16 ; Times: 9
+	Date: 2018-09-19 ; Times: 47
+	Date: 2018-09-18 ; Times: 44
+	Date: 2018-09-24 ; Times: 75
+	Date: 2018-09-25 ; Times: 45
+	Date: 2018-09-27 ; Times: 37
+	Date: 2018-09-06 ; Times: 25
+	Date: 2018-09-07 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:174006" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102612" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:174004" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:174005" ; Times: 3
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "spiders" ; Times: 1
+	Query: "class:aves recordedby:mearns" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165718" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;puebla&#34;" ; Times: 1
+	Query: "white-winged scoter" ; Times: 1
+	Query: "Silas" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:habia" ; Times: 1
+	Query: "MVZ 67738" ; Times: 1
+	Query: "specificepithet:gutturalis genus:habia" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus hastissue:1" ; Times: 1
+	Query: "Lamprolaima" ; Times: 3
+	Query: "Pterophanes" ; Times: 4
+	Query: "MVZ 67736" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163218" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163217" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19502" ; Times: 3
+	Query: "MVZ 201390" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "pipreola riefferii occidentalis" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 1
+	Query: "specificepithet:tahitica genus:hirundo class:aves" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160768" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160769" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160767" ; Times: 3
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102726" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102727" ; Times: 3
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:133192" ; Times: 3
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "MVZ 86320" ; Times: 1
+	Query: "Krutzsch p" ; Times: 6
+	Query: "Steve Campbell" ; Times: 1
+	Query: "recordedby:Attwater" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 3
+	Query: "westermanni" ; Times: 1
+	Query: "specificepithet:stricklandi genus:Picoides" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus" ; Times: 1
+	Query: "anodorhynchus hyacinthinus skeleton" ; Times: 1
+	Query: "phaethornis longirostris" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:3667" ; Times: 2
+	Query: "Nonnula rubecula vntype:specimen" ; Times: 1
+	Query: "vntype:specimen (Psittirostra)" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; hastissue:1" ; Times: 1
+	Query: "cyanocitta stelleri country:&#34;Mexico&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "genus:Ailuroedus hastissue:1" ; Times: 2
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:158332" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:158333" ; Times: 3
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;mexico&#34; hasmass:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:158337" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:158334" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:158335" ; Times: 3
+	Query: "red wolf" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "MVZ 154711" ; Times: 1
+	Query: "epinecrophylla pyrrhonota" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22708" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162727" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162729" ; Times: 3
+	Query: "Zosterops japonicus hastissue:1" ; Times: 2
+	Query: "specificepithet:bocagei genus:cossypha" ; Times: 1
+	Query: "genus:Pseudonestor class:Aves" ; Times: 2
+	Query: "CAS 4977" ; Times: 2
+	Query: "vntype:specimen specificepithet:azarae genus:Synallaxis" ; Times: 2
+	Query: "genus:rhipidura class:aves (manus) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;orange&#34; stateprovince:&#34;California&#34; year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "genus:Phoebastria specificepithet:nigripes " ; Times: 1
+	Query: "family:apodidae continent:Africa" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "passerina chiapensis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165409" ; Times: 2
+	Query: "specificepithet:haematogaster genus:northiella hasmass:1" ; Times: 1
+	Query: "demon" ; Times: 2
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120124" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120125" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120127" ; Times: 3
+	Query: "calcarius pictus" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Henicorhina hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165405" ; Times: 2
+	Query: "epinecrophylla haematonota" ; Times: 1
+	Query: "MVZ Diglossa Honduras" ; Times: 1
+	Query: "MVZ 3482" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19488" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19487" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19486" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19484" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19483" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19482" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19481" ; Times: 3
+	Query: "oriolus chinensis" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169359" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169358" ; Times: 1
+	Query: "harris hawk" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177001" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Borell year &gt;= 1925 year &lt;= 1925 month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:zenaida class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 23
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:132295" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:132294" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64583" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64581" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:180089" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64587" ; Times: 3
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:180084" ; Times: 3
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "99925" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:57430" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:57431" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:57432" ; Times: 3
+	Query: "specificepithet:vociferans genus:lipaugus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102604" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163216" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102608" ; Times: 3
+	Query: "43935" ; Times: 1
+	Query: "diomedeidae skeleton" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102593" ; Times: 3
+	Query: "locality:serdze country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102594" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102596" ; Times: 3
+	Query: "capito niger" ; Times: 2
+	Query: "vntype:specimen county:&#34;Jim hogg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rat skull" ; Times: 1
+	Query: "coracina nisoria" ; Times: 1
+	Query: "specificepithet:difficilis genus:Empidonax year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "copsychus saularis" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:180088" ; Times: 3
+	Query: "specificepithet:leucorhoa genus:oceanodroma hasmass:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 4
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165718" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:69184" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:69181" ; Times: 3
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "specificepithet:stictothorax genus:synallaxis" ; Times: 1
+	Query: "specificepithet:stricklandii genus:Gallinago" ; Times: 2
+	Query: "Thurber Baja" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160777" ; Times: 3
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160773" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:160772" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:166913" ; Times: 3
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:3479" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:166915" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:3471" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:3472" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:3473" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162699" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64593" ; Times: 3
+	Query: "skeleton vntype:specimen genus:peltops" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162691" ; Times: 3
+	Query: "specificepithet:crissalis genus:melozone" ; Times: 2
+	Query: "country:&#34;Mexico&#34; recordedby:Lamb year &gt;= 1927 year &lt;= 1927 month &gt;= 1 month &lt;= 1" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165729" ; Times: 3
+	Query: "22579" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165720" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:65513" ; Times: 3
+	Query: "sterna dougallii" ; Times: 2
+	Query: "specificepithet:dumontii genus:mino" ; Times: 1
+	Query: "gerygone amalia" ; Times: 1
+	Query: "specificepithet:frantzii genus:catharus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanomelas genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Progne modesta" ; Times: 5
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "Thurber" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "snakes" ; Times: 3
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Strecker Texas" ; Times: 2
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "catalognumber:146948 institutioncode:MVZ" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170065" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170064" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170067" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170066" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170069" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170068" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170180" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120329" ; Times: 3
+	Query: "Goodwin" ; Times: 1
+	Query: "MVZ 86322" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:macroura class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:57441" ; Times: 3
+	Query: "specificepithet:varius genus:sittiparus hasmass:1" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163176" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163177" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163175" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:67608" ; Times: 3
+	Query: "monster" ; Times: 6
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163179" ; Times: 3
+	Query: "Strecker" ; Times: 4
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "CAMPEPHILUS PRINCIPALIS" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Chapman" ; Times: 1
+	Query: "Zosterops japonicus" ; Times: 1
+	Query: "malacoptila" ; Times: 1
+	Query: "genus:Arachnothera" ; Times: 1
+	Query: "hylonomus" ; Times: 1
+	Query: "molokai" ; Times: 2
+	Query: "Dendrocitta vagabunda" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177000" ; Times: 1
+	Query: "juninensis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120133" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120132" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120131" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:65511" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165724" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165725" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165726" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165720" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165721" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165722" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165723" ; Times: 1
+	Query: "kobe" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "ancient" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:19496" ; Times: 3
+	Query: "catalognumber:157329 institutioncode:MVZ" ; Times: 2
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:33529" ; Times: 2
+	Query: "sula leucogaster" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:24550" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29155" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29153" ; Times: 2
+	Query: "24094" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171837" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171836" ; Times: 1
+	Query: "mvz 97345" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171839" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171838" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 4
+	Query: "accipiter bicolor" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64678" ; Times: 3
+	Query: "Acridotheres tristis" ; Times: 4
+	Query: "cyanocitta stelleri year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:58402" ; Times: 3
+	Query: "Empidonax albigularis" ; Times: 2
+	Query: "megarynchus tardiusculus" ; Times: 1
+	Query: "genus:Phodilus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "luteoviridis" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "Psittirostra" ; Times: 1
+	Query: "117622" ; Times: 1
+	Query: "ciconia ciconia" ; Times: 1
+	Query: "catalognumber:13612 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:serripennis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "Aphelocoma 166923 institutioncode:MVZ" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:82394" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:82393" ; Times: 3
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163242" ; Times: 3
+	Query: "haslifestage:1 hassex:1 hasmass:1 haslength:1 distance(location,geopoint(38.377305289415474,-121.01827660558115))&lt;72225" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22714" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163243" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 54
+	Query: "159797" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163234" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163237" ; Times: 3
+	Query: "selasphorus rufus year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162730" ; Times: 3
+	Query: "MVZ 174432" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163239" ; Times: 3
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:poospiza" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 2
+	Query: "malacoptila fusca" ; Times: 5
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "melospiza melodia sanaka" ; Times: 1
+	Query: "sitta europaea" ; Times: 2
+	Query: "specificepithet:nitidissima genus:chlorochrysa" ; Times: 1
+	Query: "pachyramphus australis" ; Times: 1
+	Query: "genus:Amblyornis hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163219" ; Times: 3
+	Query: "specificepithet:nigrorufa genus:poospiza" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171637" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171636" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171635" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171634" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171633" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171632" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171631" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171630" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "specificepithet:albofrenatus genus:Atlapetes" ; Times: 2
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "order:passeriformes (asia minor)" ; Times: 1
+	Query: "Telespiza" ; Times: 2
+	Query: "MVZ 57589" ; Times: 1
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "cougar" ; Times: 1
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165408" ; Times: 2
+	Query: "malacoptila semicincta" ; Times: 2
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "country:&#34;Mexico&#34; recordedby:lamb year &gt;= 1927 year &lt;= 1927 month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165406" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165400" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165401" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165402" ; Times: 3
+	Query: "coopers hawk" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163220" ; Times: 3
+	Query: "oriturus superciliosus stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "Motacilla flava lutea" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Pachycephala Guadalcanal" ; Times: 3
+	Query: "specificepithet:lugubris genus:quiscalus" ; Times: 2
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus" ; Times: 1
+	Query: "Hypothymis" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "institutioncode:mvz paso robles" ; Times: 1
+	Query: "capito aurovirens" ; Times: 55
+	Query: "116390" ; Times: 2
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "distance(location,geopoint(38.377305289415474,-121.01827660558115))&lt;13742" ; Times: 2
+	Query: "barn owl" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177010" ; Times: 3
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "lake erie" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164450" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165411" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164452" ; Times: 3
+	Query: "county:&#34;san bernardino&#34; recordedby:palmer" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164454" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164457" ; Times: 3
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "catalognumber:159445 institutioncode:MVZ" ; Times: 1
+	Query: "Hypothymis azurea" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163249" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162708" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165410" ; Times: 3
+	Query: "halcyon smyrnensis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162704" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163247" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162702" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162703" ; Times: 3
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162701" ; Times: 3
+	Query: "lepidothrix caelestipileata" ; Times: 1
+	Query: "vntype:specimen specificepithet:dorbignyi genus:Asthenes" ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1900 year &lt;= 1919" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 3
+	Query: "Pavo cristatus" ; Times: 35
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "pine snake" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 6
+	Query: "mvz 122801" ; Times: 2
+	Query: "Dendrocincla" ; Times: 1
+	Query: "recordedby:Koren" ; Times: 1
+	Query: "snow bunting" ; Times: 1
+	Query: "poecile palustris" ; Times: 2
+	Query: "mvz 28776" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170177" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170176" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165396" ; Times: 3
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34; hasmass:1" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170172" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170171" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170170" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165398" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170179" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170775" ; Times: 1
+	Query: "turdus merula" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170777" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170776" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170771" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170770" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170773" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170772" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170076" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170077" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170074" ; Times: 1
+	Query: "catalognumber:45584 institutioncode:MVZ" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170174" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162689" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165717" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162687" ; Times: 3
+	Query: "witch" ; Times: 10
+	Query: "vntype:specimen genus:cyanocitta stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170083" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170082" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170081" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170080" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170086" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170085" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170084" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170175" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 4
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "Progne elegans" ; Times: 2
+	Query: "specificepithet:stelleri genus:cyanocitta hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165400" ; Times: 1
+	Query: "corvus corax" ; Times: 12
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102600" ; Times: 3
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170785" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170178" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163251" ; Times: 3
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177002" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163180" ; Times: 3
+	Query: "avian" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170787" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170173" ; Times: 1
+	Query: "amazilia tzacatl" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170774" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1972 year &lt;= 1972" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170796" ; Times: 1
+	Query: "Zosterops japonicus vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170794" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170793" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170792" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170791" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170790" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102623" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165713" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165712" ; Times: 1
+	Query: "brown bear" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165730" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165717" ; Times: 1
+	Query: "specificepithet:passerina genus:Spizella hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165719" ; Times: 1
+	Query: "coyote skull" ; Times: 1
+	Query: "calypte anna year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90359" ; Times: 3
+	Query: "calliope year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170078" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:42658" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:42659" ; Times: 3
+	Query: "Progne murphyi" ; Times: 1
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "MVZ 13188" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164441" ; Times: 3
+	Query: "148623" ; Times: 1
+	Query: "MVZ 169483" ; Times: 2
+	Query: "MVZ 169482" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170075" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "Mus Guadalupe Island" ; Times: 4
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170778" ; Times: 1
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy County&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 2
+	Query: "specificepithet:militaris genus:sturnella" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170543" ; Times: 1
+	Query: "tree swallow" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170071" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171629" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90619" ; Times: 3
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta" ; Times: 1
+	Query: "Guadalupe Island 1895" ; Times: 1
+	Query: "Guadalupe Island 1896" ; Times: 1
+	Query: "genus:Lophospingus" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102601" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:116808" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:116809" ; Times: 3
+	Query: "myiopsitta" ; Times: 2
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:82368" ; Times: 3
+	Query: "palmas" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:134098" ; Times: 3
+	Query: "Arroyo Seco class:Aves locality:Pasadena county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:nivalis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1899 year &lt;= 1899" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:ruficollis class:aves stateprovince:&#34;alaska&#34; year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162686" ; Times: 3
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29170" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163250" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1850" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29166" ; Times: 2
+	Query: "16088" ; Times: 1
+	Query: "Pinus contorta" ; Times: 47
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29169" ; Times: 2
+	Query: "Accipiter chilensis" ; Times: 1
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "specificepithet:frantzii genus:catharus" ; Times: 1
+	Query: "specificepithet:simplex genus:Pycnonotus country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "&#34;pipreola riefferii riefferii&#34;" ; Times: 1
+	Query: "Calidris pusilla" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164447" ; Times: 3
+	Query: "sterna dougallii vntype:specimen" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:140817" ; Times: 3
+	Query: "orochelidon" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "MVZ 234059" ; Times: 1
+	Query: "Halcyon coromanda" ; Times: 1
+	Query: "class:Aves recordedby:Dean" ; Times: 1
+	Query: "Queensland gymnorhina" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162726" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90365" ; Times: 3
+	Query: "specificepithet:amboinensis genus:macropygia hasmass:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22709" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90361" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90360" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:90362" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177006" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177005" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177004" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177003" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "MVZ 86318" ; Times: 1
+	Query: "MVZ 86319" ; Times: 1
+	Query: "MVZ 86316" ; Times: 1
+	Query: "MVZ 86317" ; Times: 1
+	Query: "MVZ 86314" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164443" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:177009" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:164445" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171628" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 1
+	Query: "Leucosticte dawsoni" ; Times: 7
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:82381" ; Times: 3
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Georgia Southern University" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "zonotrichia leucophrys Churchill" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta" ; Times: 2
+	Query: "pharomachrus mocinno" ; Times: 21
+	Query: "169483 class:Aves institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:69178" ; Times: 3
+	Query: "stateprovince:&#34;california&#34; recordedby:kimball year &gt;= 1890 year &lt;= 1910" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "mvz 47148" ; Times: 1
+	Query: "Rodent" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22727" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22720" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22721" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22722" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22729" ; Times: 3
+	Query: "specificepithet:fusca genus:setophaga" ; Times: 2
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "periparus ater -skin" ; Times: 1
+	Query: "MVZ 174439" ; Times: 1
+	Query: "psittacula" ; Times: 1
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "catalognumber:101158 institutioncode:MVZ" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "vntype:specimen country:&#34;Bolivia&#34; family:Furnariidae" ; Times: 1
+	Query: "sterna dougallii institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 4
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22724" ; Times: 3
+	Query: "specificepithet:obscurus genus:turdus class:aves stateprovince:&#34;alaska&#34; year &gt;= 1971 year &lt;= 1971" ; Times: 1
+	Query: "setophaga occidentalis" ; Times: 1
+	Query: "caurina specificepithet:occidentalis genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sittiparus varius" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165395" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165394" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165397" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165396" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165393" ; Times: 1
+	Query: "dixiphia pipra" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165399" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:165398" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22502" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "117643" ; Times: 2
+	Query: "14042" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "genus:Xenus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:vitiensis genus:clytorhynchus" ; Times: 1
+	Query: "Diglossa Honduras" ; Times: 3
+	Query: "sylvia atricapilla" ; Times: 2
+	Query: "vntype:specimen specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "Eugene Law stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:46851" ; Times: 3
+	Query: "passer hispaniolensis" ; Times: 4
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:46853" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165417" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165416" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165415" ; Times: 3
+	Query: "san fransisco" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:165419" ; Times: 1
+	Query: "brazos station" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 2
+	Query: "27792" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170079" ; Times: 1
+	Query: "Falco severus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170164" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170165" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170166" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170167" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170779" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170162" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170163" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170168" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170169" ; Times: 1
+	Query: "amblyornis macgregoriae" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170763" ; Times: 1
+	Query: "country:&#34;FInland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170766" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170767" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170764" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170765" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170768" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170769" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169360" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169361" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169362" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169363" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169364" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169365" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169366" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:169367" ; Times: 1
+	Query: "caprimulgus decussatus" ; Times: 11
+	Query: "specificepithet:lawesii genus:parotia" ; Times: 1
+	Query: "specificepithet:tinnunculus genus:falco hasmass:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64579" ; Times: 3
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22719" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:163254" ; Times: 3
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "60204 class:Aves" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22711" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:22710" ; Times: 1
+	Query: "pseudocolopteryx flaviventris" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162700" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:162711" ; Times: 3
+	Query: "melanodera melanodera" ; Times: 1
+	Query: "specificepithet:simplex genus:Pycnonotus country:&#34;Malaysia&#34; year &gt;= 1920 year &lt;= 1930" ; Times: 1
+	Query: "vntype:specimen specificepithet:pyrrhophia genus:Cranioleuca" ; Times: 1
+	Query: "cinclus" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "catalognumber:5967 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:176999" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170063" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1908 year &lt;= 1919" ; Times: 1
+	Query: "golden eagle" ; Times: 2
+	Query: "white shark" ; Times: 13
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170788" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170789" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170784" ; Times: 1
+	Query: "Farallon 1903" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170786" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170780" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170781" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170782" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170783" ; Times: 1
+	Query: "specificepithet:rufivertex genus:iridosornis" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170072" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "MVZ 173952" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170542" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:67701" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170540" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170541" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170544" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:134099" ; Times: 3
+	Query: "corvus splendens" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29177" ; Times: 2
+	Query: "melanodera xanthogramma" ; Times: 1
+	Query: "bubulcus ibis" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29172" ; Times: 2
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:29173" ; Times: 2
+	Query: "specificepithet:flavopectus genus:chlorospingus hastissue:1" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170797" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:134250" ; Times: 3
+	Query: "genus:Phodilus preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170795" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "specificepithet:trichroa genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170539" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170538" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170537" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170536" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170535" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170534" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170533" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170532" ; Times: 1
+	Query: "specificepithet:torquata genus:poospiza" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:170070" ; Times: 1
+	Query: "specificepithet:ater genus:Periparus" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102614" ; Times: 3
+	Query: "ara macao" ; Times: 26
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64590" ; Times: 3
+	Query: "cyanocitta stelleri year &gt;= 1990 year &lt;= 2018" ; Times: 4
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64592" ; Times: 3
+	Query: "33106" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:120330" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:64599" ; Times: 3
+	Query: "trinitatus" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 7
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:180090" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171844" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia" ; Times: 3
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102610" ; Times: 3
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171840" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171841" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171842" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila catalognumber:171843" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "Pipra pipra vntype:specimen country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "specificepithet:alpestris institutioncode:MVZ catalognumber:102618" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 846 download events in this period)
+Total number of records downloaded: 47859
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 39
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Norway ; Times: 8
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 6
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-27 ; Times: 4
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-24 ; Times: 8
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-21 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 7
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &gt;= 1700 year &lt;= 1950 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Zosterops japonicus hastissue:1" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "calypte costa year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "minnesota fred barker" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:brunneinucha genus:arremon hastissue:1" ; Times: 1
+	Query: "pithecophaga jefferyi" ; Times: 2
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "ArcGis" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "A. robert country:&#34;brazil&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:lamb year &gt;= 1927 year &lt;= 1927 month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:brown year &gt;= 1906 year &lt;= 1906 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "archilochus alexandri year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Gymnogyps californianus preparations:skeleton" ; Times: 1
+	Query: "recordedby:Koren" ; Times: 1
+	Query: "Sierra Nevada de Santa Marta" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "locality:serdze country:&#34;Russia&#34; year &lt;= 1920" ; Times: 1
+	Query: "recordedby:John Koran year &gt;= 1850 year &lt;= 1910" ; Times: 1
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "sterna dougallii vntype:specimen country:&#34;United States&#34; continent:America year &gt;= 1880 year &lt;= 1940 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Progne elegans" ; Times: 1
+	Query: "class:aves stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus hastissue:1" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Henicorhina hastissue:1" ; Times: 1
+	Query: "carlsbad caverns" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "recordedby:John Koran year &gt;= 1910 year &lt;= 1912" ; Times: 1
+	Query: "Progne murphyi" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+	Query: "specificepithet:pygmeus genus:Eurynorhynchus year &gt;= 1908 year &lt;= 1919" ; Times: 1
+
+
+End of report.
