@@ -1,0 +1,1663 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2104
+Number of records retrieved in searches: 15935
+Number of different countries where searches have been originated: 33
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 31
+	Country: Brazil ; Times: 43
+	Country: Ireland ; Times: 3
+	Country: Unknown ; Times: 37
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 9
+	Country: Peru ; Times: 24
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 102
+	Country: Iran ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: China ; Times: 9
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 20
+	Country: Germany ; Times: 13
+	Country: Spain ; Times: 6
+	Country: India ; Times: 6
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 1712
+	Country: Sweden ; Times: 14
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Honduras ; Times: 13
+	Country: Mexico ; Times: 31
+	Country: Egypt ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Serbia ; Times: 2
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Japan ; Times: 3
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 54
+	Date: 2018-10-04 ; Times: 33
+	Date: 2018-10-05 ; Times: 13
+	Date: 2018-10-06 ; Times: 5
+	Date: 2018-10-07 ; Times: 5
+	Date: 2018-10-01 ; Times: 32
+	Date: 2018-10-02 ; Times: 28
+	Date: 2018-10-03 ; Times: 72
+	Date: 2018-10-30 ; Times: 57
+	Date: 2018-10-22 ; Times: 69
+	Date: 2018-10-23 ; Times: 82
+	Date: 2018-10-20 ; Times: 17
+	Date: 2018-10-21 ; Times: 15
+	Date: 2018-10-26 ; Times: 113
+	Date: 2018-10-27 ; Times: 33
+	Date: 2018-10-24 ; Times: 139
+	Date: 2018-10-25 ; Times: 32
+	Date: 2018-10-28 ; Times: 6
+	Date: 2018-10-29 ; Times: 46
+	Date: 2018-10-08 ; Times: 27
+	Date: 2018-10-09 ; Times: 875
+	Date: 2018-10-19 ; Times: 65
+	Date: 2018-10-18 ; Times: 26
+	Date: 2018-10-13 ; Times: 9
+	Date: 2018-10-12 ; Times: 80
+	Date: 2018-10-11 ; Times: 21
+	Date: 2018-10-10 ; Times: 40
+	Date: 2018-10-17 ; Times: 41
+	Date: 2018-10-16 ; Times: 25
+	Date: 2018-10-15 ; Times: 33
+	Date: 2018-10-14 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177179" ; Times: 1
+	Query: "genus:Habia hastissue:1" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106382" ; Times: 3
+	Query: "vntype:specimen specificepithet:macgregoriae genus:Amblyornis" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174101" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174100" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174103" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174102" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179472" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174104" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179470" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179471" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174109" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174108" ; Times: 1
+	Query: "vntype:specimen genus:Amblyornis" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "Gallirallus torquatus specimen" ; Times: 1
+	Query: "catalognumber:139113 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pongo" ; Times: 1
+	Query: "Leucosticte wallowa" ; Times: 3
+	Query: "Cyanerpes Lucidus" ; Times: 1
+	Query: "specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tyrannidae country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:66667" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179065" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179064" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179067" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179066" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179061" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179060" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179063" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179062" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179068" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178019" ; Times: 1
+	Query: "genus:Passerella class:aves year &gt;= 1910 year &lt;= 1910" ; Times: 3
+	Query: "Aerodramus spodiopygius" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174105" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174107" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174106" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177427" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:129428" ; Times: 3
+	Query: "catalognumber:138882 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179089" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179088" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179087" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179086" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179085" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179084" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179082" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179081" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179080" ; Times: 1
+	Query: "MVZ 167948" ; Times: 1
+	Query: "mountain beaver" ; Times: 1
+	Query: "MVZ 167946" ; Times: 1
+	Query: "MVZ 167947" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "university of nevada las vegas class:aves" ; Times: 1
+	Query: "catalognumber:31734 institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; recordedby:Richard D. Sage" ; Times: 1
+	Query: "Furnarius cinnamomeus" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177131" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177130" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177133" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176449" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177135" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177134" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177136" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176442" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176443" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176440" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176441" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176446" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176447" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:83135" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176445" ; Times: 1
+	Query: "Crypturellus brevirostris" ; Times: 4
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Aix sponsa" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177621" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177620" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:69483" ; Times: 1
+	Query: "Myiarchus tyrannulus hastissue:1" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina hastissue:1" ; Times: 1
+	Query: "specificepithet:(iliaca) megarhyncha genus:Passerella class:aves year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178040" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178041" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178042" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178043" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178044" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178045" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178046" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178047" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178048" ; Times: 1
+	Query: "vntype:specimen specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;California&#34; year &gt;= 1899 year &lt;= 2006 month &gt;= 3 month &lt;= 6 hastissue:1" ; Times: 2
+	Query: "Molothrus bonariensis hastissue:1 country:paraguay" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2006 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177319" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177318" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177311" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177310" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177313" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177312" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177315" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177314" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177317" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106395" ; Times: 3
+	Query: "Sicalis raimondii" ; Times: 1
+	Query: "specificepithet:difficilis genus:geospiza" ; Times: 1
+	Query: "Chaetura fumosa" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108086" ; Times: 4
+	Query: "River otter" ; Times: 1
+	Query: "mvz 8497" ; Times: 1
+	Query: "class:aves locality:noatak stateprovince:&#34;alaska&#34; year &gt;= 1960 year &lt;= 1961" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "locality:Lago Sandoval" ; Times: 1
+	Query: "nucifraga multipunctata" ; Times: 9
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "ploceus sakalava" ; Times: 3
+	Query: "catalognumber:141721 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174113" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174110" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174111" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "gazelle" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:euphonia country:&#34;ecuador&#34;" ; Times: 1
+	Query: "catalognumber:138127 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Leucosticte dawsoni Inyo" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:city stateprovince:&#34;mexico&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Nothoprocta ornata" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183619" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183618" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183617" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183615" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183614" ; Times: 1
+	Query: "Melanodera melanodera" ; Times: 1
+	Query: "leistes militaris" ; Times: 3
+	Query: "blue jay" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179073" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179070" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179071" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179076" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179077" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179074" ; Times: 1
+	Query: "myiopsitta monachus hasmass:1" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179078" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179079" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177357" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177356" ; Times: 1
+	Query: "catalognumber:18034 institutioncode:MVZ" ; Times: 2
+	Query: "77807" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177350" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:74135" ; Times: 3
+	Query: "Empidonax albigularis" ; Times: 11
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177353" ; Times: 1
+	Query: "Myiodynastes maculatus hastissue:1 country:peru" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:74138" ; Times: 3
+	Query: "genus:selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "amazilia lichtensteini" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "rodents" ; Times: 1
+	Query: "genus:ptyonoprogne country:&#34;Ethiopia&#34;" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "streptoprocne semicollaris" ; Times: 1
+	Query: "MVZ 36507" ; Times: 2
+	Query: "class:Aves recordedby:Rossignol" ; Times: 1
+	Query: "Dendragapus obscurus hastissue:1" ; Times: 1
+	Query: "MVZ-13010" ; Times: 1
+	Query: "Colibri thalassinus vntype:specimen country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187842" ; Times: 1
+	Query: "malacoptila semicincta" ; Times: 1
+	Query: "specificepithet:acuticaudata genus:aratinga" ; Times: 1
+	Query: "mvz Angola" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:49733" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:485" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72257" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177128" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177129" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177126" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177127" ; Times: 1
+	Query: "bird bones" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177125" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177122" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177123" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177120" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177121" ; Times: 1
+	Query: "hirundo tahitica" ; Times: 1
+	Query: "tickelli" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106365" ; Times: 4
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106364" ; Times: 4
+	Query: "specificepithet:melanocephalus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "sturnella magna argutula hastissue:1" ; Times: 2
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:84624" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:84621" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179419" ; Times: 1
+	Query: "145401" ; Times: 2
+	Query: "189392" ; Times: 2
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 3
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "aves apus" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 2
+	Query: "catalognumber:138382 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187838" ; Times: 1
+	Query: "Aerodramus vanikorensis" ; Times: 2
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "MVZ 18997" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "genus:Asthenes stateprovince:&#34;Junín&#34;" ; Times: 1
+	Query: "Thamnophilus bernardi" ; Times: 1
+	Query: "MVZ-21988" ; Times: 1
+	Query: "class:Aves recordedby:Gaylord year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:36226" ; Times: 4
+	Query: "specificepithet:aureoventris genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:breweri genus:Spizella class:aves year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:feadensis genus:aplonis" ; Times: 3
+	Query: "sturnella magna hastissue:1" ; Times: 1
+	Query: "catalognumber:101641" ; Times: 1
+	Query: "Apus apus" ; Times: 1
+	Query: "Myiodynastes bairdii" ; Times: 5
+	Query: "locality:Isla Santa Margarita stateprovince:&#34;Baja California Sur&#34;" ; Times: 2
+	Query: "catalognumber:138075 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:167953" ; Times: 2
+	Query: "Shasta County pipilo maculatus" ; Times: 1
+	Query: "class:aves recordedby:F.J. Smith year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "Chaetura cinereiventris" ; Times: 2
+	Query: "MVZ 19029" ; Times: 2
+	Query: "specificepithet:parellina genus:Cyanocompsa hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187860" ; Times: 1
+	Query: "MVZ 22932" ; Times: 2
+	Query: "Leucosticte dawsoni" ; Times: 14
+	Query: "basileuterus clarus" ; Times: 1
+	Query: "apus" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180115" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180114" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180116" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180111" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180110" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180113" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180112" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177209" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177208" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177207" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177206" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177205" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177204" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177203" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177202" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177201" ; Times: 1
+	Query: "limosa lapponica baueri" ; Times: 1
+	Query: "Contopus punensis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:496" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:495" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:494" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:493" ; Times: 2
+	Query: "specificepithet:australis genus:Apteryx" ; Times: 1
+	Query: "Tinamus major" ; Times: 3
+	Query: "specificepithet:morio genus:psilorhinus" ; Times: 1
+	Query: "genus:Eutoxeres hastissue:1" ; Times: 3
+	Query: "locality:Rancho redondo country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177372" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177370" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177377" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177376" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177375" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177374" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177378" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106379" ; Times: 3
+	Query: "catalognumber:138115 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "multipunctata" ; Times: 1
+	Query: "egg pipilo mass" ; Times: 1
+	Query: "&#34;lanius excubitor&#34;" ; Times: 1
+	Query: "genus:Geositta stateprovince:&#34;Junin&#34;" ; Times: 1
+	Query: "county:&#34;Okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179520" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179521" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179429" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179428" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179425" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179424" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179427" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177200" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179421" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179420" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179423" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179422" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179083" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178031" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179529" ; Times: 1
+	Query: "Catamenia analis hastissue:1 country:peru" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:134509" ; Times: 3
+	Query: "MVZ-11354" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2010" ; Times: 2
+	Query: "17776" ; Times: 1
+	Query: "694507" ; Times: 1
+	Query: "catalognumber:73123 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:27382" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:27380" ; Times: 3
+	Query: "specificepithet:nelsoni genus:Ammodramus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:punensis genus:phrygilus" ; Times: 3
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "catalognumber:121143" ; Times: 2
+	Query: "53280" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:74119" ; Times: 2
+	Query: "MVZ 25702" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180102" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180100" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180101" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180106" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180107" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180104" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180105" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180108" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180109" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:167942" ; Times: 2
+	Query: "catalognumber:143532 institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 137790" ; Times: 1
+	Query: "tolmomyias subsimilis" ; Times: 1
+	Query: "crustacean" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177360" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177361" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177362" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177363" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177364" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177365" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177366" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177367" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177368" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177369" ; Times: 1
+	Query: "Mecocerculus calopterus" ; Times: 17
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106372" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106373" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177074" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:85480" ; Times: 4
+	Query: "witch" ; Times: 5
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:85484" ; Times: 4
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:85486" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187855" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187854" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187857" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187856" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187851" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187850" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187853" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187852" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187859" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187858" ; Times: 1
+	Query: "locality:Escondido county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Manacus manacus" ; Times: 2
+	Query: "Icterus cayanensis hastissue:1 country:paraguay" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179432" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179433" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179430" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179431" ; Times: 1
+	Query: "MVZ 31828" ; Times: 2
+	Query: "genus:Cyanoloxia" ; Times: 1
+	Query: "110998" ; Times: 2
+	Query: "recordedby:bates" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176438" ; Times: 1
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177218" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177219" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177214" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177216" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177217" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177210" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177211" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177212" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177213" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:83880" ; Times: 2
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:&#34;egypt&#34;" ; Times: 1
+	Query: "specificepithet:goeldii genus:Akletos hasmass:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "bird bones museum" ; Times: 1
+	Query: "capito niger" ; Times: 20
+	Query: "furnarius leucopus" ; Times: 1
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174093" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174092" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174091" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174097" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174096" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174095" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174094" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174099" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174098" ; Times: 1
+	Query: "specificepithet:grandis genus:aplonis" ; Times: 3
+	Query: "22838" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "Hirundapus caudacutus" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:184704" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176448" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:184706" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177132" ; Times: 1
+	Query: "geospiza fortis" ; Times: 3
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "Cyanerpes lucidus" ; Times: 2
+	Query: "53793" ; Times: 1
+	Query: "MVZ-31867" ; Times: 1
+	Query: "MVZ 149367" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183626" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183627" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183624" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183625" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183622" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176444" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183620" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183621" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183628" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177683" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177682" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177681" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177687" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177686" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177685" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177684" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177689" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177688" ; Times: 1
+	Query: "MVZ 137787" ; Times: 2
+	Query: "MVZ 137786" ; Times: 2
+	Query: "123456" ; Times: 2
+	Query: "MVZ 137789" ; Times: 2
+	Query: "MVZ 137788" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177175" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187843" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187840" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177171" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177170" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187844" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177172" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187848" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187849" ; Times: 1
+	Query: "locality:aleutian stateprovince:&#34;alaska&#34;" ; Times: 9
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177178" ; Times: 1
+	Query: "genus:Habia" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:9666" ; Times: 2
+	Query: "catalognumber:71040 institutioncode:MVZ" ; Times: 2
+	Query: "catalognumber:26666 institutioncode:MVZ" ; Times: 1
+	Query: "Asthenes arequipae" ; Times: 1
+	Query: "mvz angola" ; Times: 1
+	Query: "specificepithet:magna genus:sturnella country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Scenopoeetes hastissue:1" ; Times: 1
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "genus:Calidris sex:female (Oviduct OR ova OR gravid OR follicle OR egg)" ; Times: 2
+	Query: "ff" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177221" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177220" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177223" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177222" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177225" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177224" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177227" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177226" ; Times: 1
+	Query: "vntype:specimen genus:Eurocephalus" ; Times: 2
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177359" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177358" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177429" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177428" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177355" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177426" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177425" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177424" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177423" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177422" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177421" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177420" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177199" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177198" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177195" ; Times: 1
+	Query: "Phoebastria immutabilis" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177190" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179426" ; Times: 1
+	Query: "class:aves recordedby:F.J. Smith" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72253" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177748" ; Times: 1
+	Query: "Pseudelaenia leucospodia" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72258" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:84618" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:84616" ; Times: 3
+	Query: "genus:Geositta stateprovince:&#34;Junín&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177745" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177742" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia hastissue:1" ; Times: 1
+	Query: "ara macao vntype:specimen" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:184705" ; Times: 1
+	Query: "genus:aplonis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174080" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174081" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174082" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174083" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174084" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174085" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174086" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174087" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174088" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174089" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; (mole) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:aves year &gt;= 1895 year &lt;= 1895" ; Times: 1
+	Query: "Chalybura" ; Times: 2
+	Query: "Progne elegans" ; Times: 1
+	Query: "genus:Amblyornis hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177991" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "catalognumber:71037 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177999" ; Times: 1
+	Query: "acrocephalus arundinaceus asia" ; Times: 3
+	Query: "monarcha browni" ; Times: 1
+	Query: "passer persicus" ; Times: 1
+	Query: "MVZ 18984" ; Times: 2
+	Query: "Oceanodroma leucorhoa chapmani" ; Times: 2
+	Query: "MVZ 18985" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174071" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173995" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174070" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174073" ; Times: 1
+	Query: "catalognumber:71050 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174072" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174075" ; Times: 1
+	Query: "aratinga erythrogenys vntype:specimen hasmass:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173999" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174074" ; Times: 1
+	Query: "MVZ 27851" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179540" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178018" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178017" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174078" ; Times: 1
+	Query: "specificepithet:cardinalis carneus genus:Cardinalis" ; Times: 1
+	Query: "atlapetes albiceps" ; Times: 28
+	Query: "H. Bergman (Bergman)" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Apurimac" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 5
+	Query: "specificepithet:cyanocephala genus:euphonia country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173993" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173992" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173991" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173990" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173997" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173996" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173994" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173998" ; Times: 1
+	Query: "Colaptes auratus borealis" ; Times: 1
+	Query: "specificepithet:mystacalis genus:cyanocorax" ; Times: 1
+	Query: "Agriornis andicola" ; Times: 1
+	Query: "forpus coelestis" ; Times: 2
+	Query: "Turdus reevei" ; Times: 5
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177189" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177185" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177186" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177187" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177180" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177354" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177182" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177183" ; Times: 1
+	Query: "Streptopelia tropica" ; Times: 1
+	Query: "MVZ-25702" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177690" ; Times: 1
+	Query: "Sterna antillarum athalassos" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177692" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177693" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177694" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177695" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177696" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177697" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177698" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177699" ; Times: 1
+	Query: "(H. Bergman)" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173519" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177162" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177163" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177166" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177167" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177164" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177165" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177168" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177169" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177764" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177765" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177760" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177761" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177762" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177763" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "Baeolophus atricristatus sennetti x Baeolophus bicolor" ; Times: 1
+	Query: "MVZ 21988" ; Times: 2
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72247" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72246" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:72248" ; Times: 2
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177352" ; Times: 1
+	Query: "genus:Chlorothraupis" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177316" ; Times: 1
+	Query: "class:Aves country:&#34;Panama&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177437" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177351" ; Times: 1
+	Query: "pycnonotus melanicterus" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177348" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177349" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177438" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177439" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177434" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177435" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177340" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177430" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177431" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177432" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177433" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "american badger" ; Times: 1
+	Query: "Falco columbarius suckleyi" ; Times: 2
+	Query: "Geospiza fortis" ; Times: 4
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "Campylorhynchus zonatus mappable:1" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:50178" ; Times: 3
+	Query: "nyctibius" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173740" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177028" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177181" ; Times: 1
+	Query: "specificepithet:esculenta genus:collocalia" ; Times: 2
+	Query: "20614" ; Times: 2
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "MVZ-21123" ; Times: 2
+	Query: "elephant bird" ; Times: 1
+	Query: "catalognumber:138093 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borealis genus:phylloscopus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177412" ; Times: 1
+	Query: "campephilus" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177989" ; Times: 1
+	Query: "psophia obscura" ; Times: 1
+	Query: "catalognumber:73115 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:rustica genus:hirundo locality:barrow stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "catalognumber:84509 institutioncode:MVZ" ; Times: 1
+	Query: "cypseloides OR streptoprocne rutila" ; Times: 1
+	Query: "genus:Amaurospiza" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177751" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177750" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177753" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177752" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177755" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177754" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177757" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177756" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177759" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177758" ; Times: 1
+	Query: "genus:gyps" ; Times: 1
+	Query: "specificepithet:unicolor genus:Aphelocoma" ; Times: 1
+	Query: "catalognumber:68913 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:canadensis genus:Perisoreus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173980" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173981" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173982" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173983" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173984" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173985" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173986" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173987" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173988" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173989" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173517" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177691" ; Times: 1
+	Query: "specificepithet:blanfordi genus:pycnonotus hasmass:1" ; Times: 1
+	Query: "catalognumber:138069 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177409" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177408" ; Times: 1
+	Query: "locality:spring valley county:&#34;san diego&#34; year &gt;= 1850 year &lt;= 1932" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177401" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177400" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177403" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177402" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177405" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177404" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177407" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177406" ; Times: 1
+	Query: "leistes" ; Times: 1
+	Query: "vntype:specimen specificepithet:otus genus:asio institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "ara macao" ; Times: 5
+	Query: "american toad" ; Times: 1
+	Query: "145612" ; Times: 1
+	Query: "specificepithet:panayensis genus:aplonis" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177593" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177592" ; Times: 1
+	Query: "vntype:specimen class:Aves (Maximilian)" ; Times: 1
+	Query: "specificepithet:esculenta genus:collocalia hasmass:1" ; Times: 2
+	Query: "Campephilus principalis" ; Times: 21
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:81178" ; Times: 4
+	Query: "amazona viridigenalis vntype:specimen hasmass:1" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:87737" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:31257" ; Times: 3
+	Query: "hidden valley" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:148014" ; Times: 3
+	Query: "recordedby:Keith L. Dixon" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183070" ; Times: 1
+	Query: "Machaeropterus" ; Times: 1
+	Query: "genus:Baeolophus recordedby:&#34;Keith L. Dixon&#34;" ; Times: 2
+	Query: "specificepithet:cyanea genus:chlorophonia country:&#34;colombia&#34;" ; Times: 2
+	Query: "university of puget sound" ; Times: 1
+	Query: "genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "Thryothorus sinaloa" ; Times: 2
+	Query: "catalognumber:179194" ; Times: 1
+	Query: "catalognumber:179196" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180103" ; Times: 1
+	Query: "genus:heliornis" ; Times: 2
+	Query: "Diglossa baritula MVZ 86322" ; Times: 2
+	Query: "mvz 17162" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 2
+	Query: "vntype:specimen genus:Megascops institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176439" ; Times: 1
+	Query: "harris hawk" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176437" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176436" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176435" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176434" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176433" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176432" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174000" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179562" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174001" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174058" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179517" ; Times: 1
+	Query: "gallirallus torquatus skeleton" ; Times: 1
+	Query: "129020" ; Times: 2
+	Query: "specificepithet:macgregoriae genus:Amblyornis" ; Times: 4
+	Query: "MVZ-5866" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173531" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173530" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173533" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173532" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173537" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173536" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173539" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173538" ; Times: 1
+	Query: "Sierra Nevada vntype:specimen year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Caloenas" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:83148" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177749" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177746" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177747" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177744" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "MVZ 38986" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177743" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177740" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177741" ; Times: 1
+	Query: "catalognumber:65435 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:46378" ; Times: 4
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:46379" ; Times: 4
+	Query: "american crow" ; Times: 2
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "Hirundapus cochinchinensis" ; Times: 1
+	Query: "vntype:specimen family:Apodidae hastissue:1" ; Times: 2
+	Query: "acrocephalus arundinaceus china" ; Times: 1
+	Query: "Aerodramus pelewensis" ; Times: 1
+	Query: "specificepithet:jamaicensis stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Gallirallus torquatus" ; Times: 2
+	Query: "malaccensis" ; Times: 1
+	Query: "recordedby:&#34;Keith L. Dixon&#34;" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:30445" ; Times: 3
+	Query: "myiopsitta monachus vntype:specimen hasmass:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177417" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177414" ; Times: 1
+	Query: "Progne modesta" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177413" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177410" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177411" ; Times: 1
+	Query: "pulsatrix perspicillata pulsatrix" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177418" ; Times: 1
+	Query: "Hirundo rustica hastissue:1" ; Times: 2
+	Query: "locality:romero institutioncode:MVZ" ; Times: 1
+	Query: "Apus niansae" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177373" ; Times: 1
+	Query: "hylia prasina" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174057" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174056" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174055" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174054" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174053" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174052" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174051" ; Times: 1
+	Query: "specificepithet:macgregoriae" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179564" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179565" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179566" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179567" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179560" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179561" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174059" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179563" ; Times: 1
+	Query: "catalognumber:87573" ; Times: 1
+	Query: "Apus pacificus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Texas&#34; recordedby:Keith L. Dixon" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179009" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:9670" ; Times: 2
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis preparations:skin" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34; recordedby:Keith L. Dixon" ; Times: 2
+	Query: "Apus affinis" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:36151" ; Times: 3
+	Query: "cantwell minnesota" ; Times: 4
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108090" ; Times: 3
+	Query: "specificepithet:alba genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108094" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "specificepithet:borealis genus:phylloscopus stateprovince:&#34;alaska&#34; year &gt;= 1954 year &lt;= 1956" ; Times: 1
+	Query: "155817" ; Times: 2
+	Query: "chivi vireo" ; Times: 21
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177739" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177738" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177733" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177732" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177731" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177730" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177737" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177736" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177735" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177734" ; Times: 1
+	Query: "ortalis vetula" ; Times: 1
+	Query: "MVZ-16724" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177342" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177343" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177436" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179072" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177341" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177346" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177347" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177344" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177345" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177069" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177068" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177067" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179075" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "genus:Ptilonorhynchus hastissue:1" ; Times: 1
+	Query: "brotogeris sanctithomae hasmass:1" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:85479" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177391" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177390" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177393" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177392" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177395" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177394" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177397" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177396" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177399" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177398" ; Times: 1
+	Query: "Ridgwayia" ; Times: 1
+	Query: "recordedby:Dixon Keith L." ; Times: 1
+	Query: "procellariiformes (plastic)" ; Times: 2
+	Query: "Philydor" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177085" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177081" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177083" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173528" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173527" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173520" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173521" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179559" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179558" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179551" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179550" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179553" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179552" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179555" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179554" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179557" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179556" ; Times: 1
+	Query: "(Bergman)" ; Times: 1
+	Query: "149290" ; Times: 2
+	Query: "snow bunting" ; Times: 3
+	Query: "A-26050" ; Times: 1
+	Query: "geospiza difficilis" ; Times: 2
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "Lampornis country:&#34;Costa Rica&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:138114 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Camarhynchus" ; Times: 4
+	Query: "lizards" ; Times: 2
+	Query: "32087" ; Times: 1
+	Query: "catalognumber:90913" ; Times: 1
+	Query: "country:&#34;Finland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "swinhoe" ; Times: 1
+	Query: "Alfonso" ; Times: 1
+	Query: "MVZ 18906" ; Times: 5
+	Query: "Rostrhamus" ; Times: 1
+	Query: "demon" ; Times: 4
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "recordnumber:684 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 34232" ; Times: 5
+	Query: "Crustacea" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108088" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108089" ; Times: 3
+	Query: "myiopsitta" ; Times: 2
+	Query: "recordedby:Keith Dixon" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108084" ; Times: 3
+	Query: "specificepithet:stelleri genus:Cyanocitta year &gt;= 1980 year &lt;= 2018 institutioncode:MVZ hastissue:1" ; Times: 6
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:108087" ; Times: 3
+	Query: "elaenia flavogaster" ; Times: 3
+	Query: "class:Aves country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aplonis metallica" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179010" ; Times: 1
+	Query: "145505" ; Times: 1
+	Query: "specificepithet:mystacalis genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:olivacea genus:Chlorothraupis" ; Times: 1
+	Query: "class:aves recordedby:audubon" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177092" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177093" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177090" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177091" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177097" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177094" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177095" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177098" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177099" ; Times: 1
+	Query: "B Arnold" ; Times: 4
+	Query: "genus:Parus institutioncode:MVZ" ; Times: 1
+	Query: "tringa guttifer" ; Times: 10
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177728" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177729" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177898" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177899" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177462" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177720" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177721" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177722" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177723" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177725" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177726" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177727" ; Times: 1
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina hastissue:1" ; Times: 2
+	Query: "specificepithet:ludoviciana genus:Piranga county:&#34;San Diego&#34;" ; Times: 1
+	Query: "vntype:specimen locality:Carlsbad Caverns county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 1
+	Query: "recordedby:K. Dixon" ; Times: 2
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177078" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177079" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177075" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177076" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177077" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177070" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177071" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177072" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177073" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo hasmass:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178009" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177388" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177389" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177386" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177387" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177384" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177385" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177382" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177383" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177380" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177381" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178006" ; Times: 1
+	Query: "aves 1891 Bay County" ; Times: 1
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "red deer" ; Times: 4
+	Query: "specificepithet:arborea class:aves stateprovince:&#34;alaska&#34; year &gt;= 1919 year &lt;= 1919 month &gt;= 1 month &lt;= 1" ; Times: 1
+	Query: "Pipreola" ; Times: 1
+	Query: "furnarius cinnamomeus" ; Times: 1
+	Query: "specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179546" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179547" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179544" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179545" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179542" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179543" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174077" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174076" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174079" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178016" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178015" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178014" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178013" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178012" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179548" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179549" ; Times: 1
+	Query: "ara macao hasmass:1" ; Times: 1
+	Query: "specificepithet:californica genus:Callipepla hasmass:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella class:Aves year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179021" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179020" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179025" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179026" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 3
+	Query: "specificepithet:poliogaster genus:Caryothraustes hastissue:1" ; Times: 1
+	Query: "Forpus coelestis" ; Times: 3
+	Query: "myiopsitta monachus" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:133361" ; Times: 3
+	Query: "pagophila" ; Times: 1
+	Query: "Diglossa baritula MVZ 86319" ; Times: 1
+	Query: "Diglossa baritula MVZ 86316" ; Times: 1
+	Query: "Diglossa baritula MVZ 86314" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177719" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "MVZ 144200" ; Times: 2
+	Query: "MVZ 144205" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "ave mimidae" ; Times: 2
+	Query: "glaucidium peruanum" ; Times: 3
+	Query: "callipepla decolorata" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "129014" ; Times: 1
+	Query: "county:&#34;San Bernardino&#34; year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 2010 month &gt;= 3 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173760" ; Times: 1
+	Query: "specificepithet:columbiana genus:nucifraga recordedby:clark" ; Times: 1
+	Query: "sturnella hastissue:1" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177449" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177448" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177445" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177444" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177447" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177446" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177441" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177440" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177443" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177442" ; Times: 1
+	Query: "northern pine snake" ; Times: 1
+	Query: "trogon mesurus" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "class:aves recordedby:Brewer" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173540" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173542" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173543" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173544" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173545" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173546" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173547" ; Times: 1
+	Query: "Hinds" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174068" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174069" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174066" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174067" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174064" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174065" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174062" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174063" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174060" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174061" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179532" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179531" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179530" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179537" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179536" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179535" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179534" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34; year &gt;= 1880 year &lt;= 1970" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178005" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179539" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179538" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178001" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178002" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178003" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177460" ; Times: 1
+	Query: "Nectarinia jugularis" ; Times: 3
+	Query: "coragyps atratus" ; Times: 1
+	Query: "Megascops trichopsis hastissue:1" ; Times: 1
+	Query: "specificepithet:maritimus mirabilis genus:Ammodramus" ; Times: 1
+	Query: "cantwell minnesota garrulus" ; Times: 1
+	Query: "atthis margarethae" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177176" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 1
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "ara ararauna vntype:specimen hasmass:1" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Pheucticus" ; Times: 2
+	Query: "procellariiformes plastic" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179449" ; Times: 1
+	Query: "Cypseloides niger mexico" ; Times: 1
+	Query: "canada thistle" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "collocalia uropygialis" ; Times: 1
+	Query: "streptoprocne zonaris" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta stateprovince:&#34;British columbia&#34; country:&#34;canada&#34; hastissue:1" ; Times: 1
+	Query: "ptiloris" ; Times: 5
+	Query: "MVZ 189267" ; Times: 3
+	Query: "MVZ 189266" ; Times: 2
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173979" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177912" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177911" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177910" ; Times: 1
+	Query: "167947" ; Times: 1
+	Query: "catalognumber:138881 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "brotogeris tirica vntype:specimen" ; Times: 2
+	Query: "calidris tenuirostris" ; Times: 5
+	Query: "17713" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179039" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179036" ; Times: 1
+	Query: "specificepithet:umbellus genus:Bonasa hasmass:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179034" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179035" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179032" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179033" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179031" ; Times: 1
+	Query: "Tangara arthus" ; Times: 2
+	Query: "genus:Sphyrapicus stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177124" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176473" ; Times: 1
+	Query: "otago" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180093" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180094" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180095" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180096" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180097" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180098" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:180099" ; Times: 1
+	Query: "Puget Sound museum" ; Times: 2
+	Query: "limosa fedoa baja" ; Times: 1
+	Query: "MVZ 33499" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177702" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177703" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177700" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177708" ; Times: 1
+	Query: "sitta tephronota" ; Times: 1
+	Query: "Tangara gyrola" ; Times: 3
+	Query: "Upucerthia ruficaudus" ; Times: 2
+	Query: "lost hills" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:106363" ; Times: 3
+	Query: "specificepithet:virginianus genus:Bubo family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "MVZ 22977" ; Times: 1
+	Query: "specificepithet:unicolor genus:aphelocoma" ; Times: 1
+	Query: "sula leucogaster" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173759" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173758" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173755" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173754" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173757" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173756" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173751" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173750" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173753" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173752" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177458" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177459" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177452" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177453" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177450" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177451" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177456" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177457" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177454" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177455" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187837" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187835" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187834" ; Times: 1
+	Query: "genus:Phytotoma class:Aves country:&#34;Peru&#34; year &gt;= 1880 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187831" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187830" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187839" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "class:Aves recordedby:Peabody year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "Oreomanes fraseri" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179459" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179454" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179450" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179451" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179452" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179453" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:67157" ; Times: 3
+	Query: "Hirundo nigrorufa" ; Times: 2
+	Query: "22061" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178039" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178038" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179522" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179523" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179524" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179525" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179526" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179527" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179528" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178030" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178033" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178032" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178035" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178034" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178037" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178036" ; Times: 1
+	Query: "Hirundapus giganteus" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "Thamnophilus caerulescens hastissue:1" ; Times: 1
+	Query: "catalognumber:141768 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:148042" ; Times: 3
+	Query: "aves lynn massachusetts" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179049" ; Times: 1
+	Query: "MVZ 23859" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179043" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179042" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179041" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179040" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179047" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179046" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179045" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179044" ; Times: 1
+	Query: "specificepithet:rustica locality:pitmegea stateprovince:&#34;alaska&#34; year &gt;= 1959 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:128557" ; Times: 4
+	Query: "catalognumber:4371 institutioncode:MVZ" ; Times: 2
+	Query: "class:Aves recordedby:Keith L. Dixon" ; Times: 2
+	Query: "catalognumber:138094 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 7
+	Query: "megascops kennicottii hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:184696" ; Times: 10
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:184697" ; Times: 3
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:166730" ; Times: 4
+	Query: "Sporophila caerulescens hastissue:1 country:paraguay" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 2
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "county:&#34;san diego&#34; recordedby:mautz" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177908" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177909" ; Times: 1
+	Query: "campephilus principalis" ; Times: 4
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177904" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177905" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177906" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177907" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177900" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177901" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177902" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177903" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173748" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173749" ; Times: 1
+	Query: "aves brookville indiana" ; Times: 1
+	Query: "locality:New York City stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173742" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173743" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177029" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173741" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173746" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173747" ; Times: 1
+	Query: "Baeolophus bicolor x Baeolophus atricristatus sennetti" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173745" ; Times: 1
+	Query: "genus:Granatellus" ; Times: 1
+	Query: "MVZ 36534" ; Times: 2
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177117" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177116" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177115" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177114" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177113" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177112" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177111" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177110" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177119" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177118" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176460" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176461" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176462" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176463" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176464" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176465" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176466" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176467" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176468" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177599" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177598" ; Times: 1
+	Query: "family:Gaviidae locality:Kodiak" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173298" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:173299" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177591" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177590" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177597" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177596" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177595" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177609" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177608" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177601" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177600" ; Times: 1
+	Query: "Panyptila sanctihieronymi" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 5
+	Query: "furcifer" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179519" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179518" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179515" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179514" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:174002" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179516" ; Times: 1
+	Query: "aves lynn" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178026" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178027" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178024" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178025" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178022" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178023" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178020" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178021" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178028" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:178029" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177339" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177338" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177337" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177336" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177335" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177334" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177333" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177332" ; Times: 1
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves" ; Times: 1
+	Query: "Pinus contorta" ; Times: 41
+	Query: "collocalia esculenta" ; Times: 1
+	Query: "Phytotoma raimondii" ; Times: 5
+	Query: "specificepithet:tibialis genus:Pheucticus" ; Times: 1
+	Query: "catalognumber:176158 institutioncode:MVZ" ; Times: 1
+	Query: "Leucosticte dawsoni White" ; Times: 1
+	Query: "(stomach gut contents)" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "specificepithet:americana genus:Spiza hastissue:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177461" ; Times: 1
+	Query: "nesomimus hulli" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179469" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179468" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179461" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179460" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179463" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179462" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179465" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179467" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179466" ; Times: 1
+	Query: "MVZ 128948" ; Times: 2
+	Query: "specificepithet:stelleri genus:cyanocitta year &gt;= 2000 year &lt;= 2018 institutioncode:MVZ hastissue:1" ; Times: 6
+	Query: "MVZ 128947" ; Times: 2
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:128562" ; Times: 4
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "Apus caffer" ; Times: 1
+	Query: "Trogon mesurus" ; Times: 5
+	Query: "12394" ; Times: 1
+	Query: "thraupidae" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:166585" ; Times: 4
+	Query: "Heliomaster" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:183623" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179058" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179059" ; Times: 1
+	Query: "catalognumber:73117 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179541" ; Times: 1
+	Query: "specificepithet:iliaca institutioncode:MVZ catalognumber:87738" ; Times: 3
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179050" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179051" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179052" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179053" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179054" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179055" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179056" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:179057" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus" ; Times: 3
+	Query: "sicalis raimondii" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177588" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177589" ; Times: 1
+	Query: "Alcippe Hueti" ; Times: 1
+	Query: "class:Aves recordedby:Richard D. Sage" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177618" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177619" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177610" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177611" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177612" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177613" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177614" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177615" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177616" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177617" ; Times: 1
+	Query: "MVZ 19011" ; Times: 2
+	Query: "melanodera melanodera" ; Times: 4
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "catalognumber:56092 institutioncode:MVZ" ; Times: 1
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177324" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177325" ; Times: 1
+	Query: "188537" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177320" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177321" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177322" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177323" ; Times: 1
+	Query: "stateprovince:&#34;Jammu and Kashmir&#34; country:&#34;India&#34;" ; Times: 4
+	Query: "MVZ 137627" ; Times: 2
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176459" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176458" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177030" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177031" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177032" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177033" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177034" ; Times: 1
+	Query: "MVZ-12330" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177036" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177177" ; Times: 1
+	Query: "catalognumber:71036 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187841" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187846" ; Times: 1
+	Query: "Cyanolyca nana" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187847" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177108" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:187845" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177109" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177104" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177105" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177106" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177107" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177100" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177101" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177102" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:177103" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176455" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176454" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176457" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176456" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176451" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176450" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176453" ; Times: 1
+	Query: "specificepithet:maculatus genus:pipilo institutioncode:MVZ catalognumber:176452" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 1300 download events in this period)
+Total number of records downloaded: 15230
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Egypt ; Times: 1
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Iran ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-04 ; Times: 3
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 10
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 6
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-24 ; Times: 10
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-09 ; Times: 3
+	Date: 2018-10-19 ; Times: 4
+	Date: 2018-10-18 ; Times: 4
+	Date: 2018-10-12 ; Times: 7
+	Date: 2018-10-11 ; Times: 2
+	Date: 2018-10-17 ; Times: 10
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "genus:Baeolophus class:Aves stateprovince:&#34;Texas&#34; recordedby:Keith L. Dixon" ; Times: 1
+	Query: "atlapetes albiceps" ; Times: 2
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Contopus punensis" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Texas&#34; recordedby:Keith L. Dixon" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 2
+	Query: "glaucidium peruanum" ; Times: 1
+	Query: "Glaucidium peruanum" ; Times: 5
+	Query: "Carlsbad Caverns vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Amblyornis" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myiodynastes bairdii" ; Times: 4
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "geospiza fortis" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "locality:Rancho redondo country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Mecocerculus calopterus" ; Times: 2
+	Query: "county:&#34;san diego&#34; recordedby:mautz" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "furnarius cinnamomeus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "barred owl institutioncode:MVZ" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Ridgwayia" ; Times: 4
+	Query: "Cyanolyca nana" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "trogon mesurus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+	Query: "country:&#34;egypt&#34;" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Furnarius cinnamomeus" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "Aquila heliaca" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+
+
+End of report.
