@@ -1,0 +1,842 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1275
+Number of records retrieved in searches: 6256
+Number of different countries where searches have been originated: 36
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 32
+	Country: Brazil ; Times: 25
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 45
+	Country: Unknown ; Times: 37
+	Country: France ; Times: 9
+	Country: Ireland ; Times: 18
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 16
+	Country: Ecuador ; Times: 30
+	Country: Bangladesh ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 14
+	Country: Philippines ; Times: 7
+	Country: United States ; Times: 458
+	Country: Sweden ; Times: 10
+	Country: New Zealand ; Times: 1
+	Country: Pakistan ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 96
+	Country: Uruguay ; Times: 5
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 10
+	Country: Malaysia ; Times: 2
+	Country: Austria ; Times: 4
+	Country: Colombia ; Times: 411
+	Country: Paraguay ; Times: 2
+	Country: Japan ; Times: 1
+	Country: South Korea ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 12
+	Date: 2020-07-08 ; Times: 19
+	Date: 2020-07-21 ; Times: 65
+	Date: 2020-07-20 ; Times: 23
+	Date: 2020-07-27 ; Times: 25
+	Date: 2020-07-26 ; Times: 17
+	Date: 2020-07-25 ; Times: 5
+	Date: 2020-07-22 ; Times: 54
+	Date: 2020-07-01 ; Times: 16
+	Date: 2020-07-03 ; Times: 16
+	Date: 2020-07-02 ; Times: 19
+	Date: 2020-07-05 ; Times: 6
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 17
+	Date: 2020-07-06 ; Times: 39
+	Date: 2020-07-24 ; Times: 25
+	Date: 2020-07-23 ; Times: 8
+	Date: 2020-07-29 ; Times: 32
+	Date: 2020-07-18 ; Times: 91
+	Date: 2020-07-19 ; Times: 5
+	Date: 2020-07-12 ; Times: 8
+	Date: 2020-07-13 ; Times: 16
+	Date: 2020-07-10 ; Times: 19
+	Date: 2020-07-11 ; Times: 17
+	Date: 2020-07-16 ; Times: 156
+	Date: 2020-07-31 ; Times: 269
+	Date: 2020-07-14 ; Times: 150
+	Date: 2020-07-17 ; Times: 18
+	Date: 2020-07-15 ; Times: 77
+	Date: 2020-07-28 ; Times: 34
+	Date: 2020-07-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "MVZ 138190" ; Times: 2
+	Query: "buteo harlani colorado" ; Times: 1
+	Query: "MVZ 138827" ; Times: 2
+	Query: "MVZ 138826" ; Times: 2
+	Query: "MVZ 138825" ; Times: 2
+	Query: "MVZ 138824" ; Times: 2
+	Query: "MVZ 138829" ; Times: 2
+	Query: "West Indies Dominica I." ; Times: 1
+	Query: "catalognumber:177625 institutioncode:MVZ" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 5
+	Query: "motacilla maderaspatensis" ; Times: 4
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "genus:Passerella catalognumber:166743 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 138750" ; Times: 2
+	Query: "Aprosmictus erythropterus" ; Times: 1
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "specificepithet:occidentalis locality:Onion" ; Times: 1
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "81530" ; Times: 1
+	Query: "Costa Rica Buenos Aires" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Peru&#34;" ; Times: 2
+	Query: "california condor" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 3
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga flava" ; Times: 2
+	Query: "genus:Passerella catalognumber:170461 institutioncode:MVZ" ; Times: 6
+	Query: "catalognumber:47000 institutioncode:MVZ" ; Times: 4
+	Query: "101647" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "MVZ 93859" ; Times: 3
+	Query: "MVZ 154704" ; Times: 2
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:153745 institutioncode:MVZ" ; Times: 2
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "catalognumber:182119 institutioncode:MVZ" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon armstrongi" ; Times: 1
+	Query: "MVZ 120562" ; Times: 2
+	Query: "MVZ 120561" ; Times: 2
+	Query: "MVZ 120560" ; Times: 2
+	Query: "MVZ 93736" ; Times: 2
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "101357" ; Times: 1
+	Query: "Contopus virens Colombia" ; Times: 2
+	Query: "11614" ; Times: 1
+	Query: "Cooper AND Island" ; Times: 1
+	Query: "genus:Passerella catalognumber:167932 institutioncode:MVZ" ; Times: 6
+	Query: "country:&#34;Colombia&#34; Pheucticus ludovicianus" ; Times: 1
+	Query: "catalognumber:16611 institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 154659" ; Times: 3
+	Query: "apple" ; Times: 1
+	Query: "MVZ 93706" ; Times: 2
+	Query: "MVZ 154650" ; Times: 2
+	Query: "MVZ 154651" ; Times: 2
+	Query: "MVZ 154657" ; Times: 2
+	Query: "austria" ; Times: 1
+	Query: "MVZ 120490" ; Times: 2
+	Query: "MVZ 138828" ; Times: 2
+	Query: "47000" ; Times: 2
+	Query: "MVZ 82419" ; Times: 2
+	Query: "specificepithet:gingica order:galliformes" ; Times: 2
+	Query: "MVZ 82415" ; Times: 3
+	Query: "catalognumber:190081 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 82417" ; Times: 2
+	Query: "MVZ 120627" ; Times: 2
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "buteo jamaicensis harlani atlin" ; Times: 1
+	Query: "specificepithet:elegans genus:Trogon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "MVZ 161877" ; Times: 1
+	Query: "parus major ovary" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "catalognumber:190090 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:Elegans county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "MVZ 138816" ; Times: 2
+	Query: "MVZ 138817" ; Times: 2
+	Query: "MVZ 138815" ; Times: 2
+	Query: "ceratopipra mentalis" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Oreothlypis peregrina" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "64731 aves" ; Times: 1
+	Query: "genus:Passerella catalognumber:182545 institutioncode:MVZ" ; Times: 6
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "MVZ 139017" ; Times: 2
+	Query: "ranas" ; Times: 1
+	Query: "catalognumber:184713 institutioncode:MVZ" ; Times: 1
+	Query: "scan" ; Times: 2
+	Query: "MVZ 152500" ; Times: 2
+	Query: "MVZ 152501" ; Times: 2
+	Query: "MVZ 152502" ; Times: 3
+	Query: "MVZ 152503" ; Times: 4
+	Query: "MVZ 152504" ; Times: 5
+	Query: "catalognumber:181876 institutioncode:MVZ" ; Times: 1
+	Query: "hypocnemis peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "specificepithet:gustavi genus:anthus country:&#34;philippines&#34;" ; Times: 2
+	Query: "94277" ; Times: 1
+	Query: "Cayenne guiana" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Buteo harlani" ; Times: 2
+	Query: "42543" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pericrocotus solaris" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 3
+	Query: "megaceryle alcyon" ; Times: 1
+	Query: "MVZ 154471" ; Times: 2
+	Query: "MVZ 154477" ; Times: 2
+	Query: "Valle Tumbaco" ; Times: 1
+	Query: "genus:Passerella catalognumber:170100 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 120489" ; Times: 2
+	Query: "117361" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "MVZ 138077" ; Times: 2
+	Query: "Symposiachrus 2019 hastissue:1" ; Times: 2
+	Query: "21099" ; Times: 1
+	Query: "MVZ 93963" ; Times: 3
+	Query: "MVZ 93962" ; Times: 2
+	Query: "MVZ 93961" ; Times: 2
+	Query: "MVZ 138671" ; Times: 2
+	Query: "catalognumber:146353 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 93966" ; Times: 2
+	Query: "MVZ 93964" ; Times: 2
+	Query: "catalognumber:180558 institutioncode:MVZ" ; Times: 1
+	Query: "West Indies Barbuda" ; Times: 1
+	Query: "locality:pANACA" ; Times: 1
+	Query: "101467" ; Times: 1
+	Query: "Euphonia cyanocephala" ; Times: 2
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Pseudasthenes" ; Times: 1
+	Query: "MVZ 93793" ; Times: 2
+	Query: "mvz 150009" ; Times: 1
+	Query: "mvz 150008" ; Times: 1
+	Query: "Cooper AND Catalina AND 1861" ; Times: 1
+	Query: "Cooper AND Catalina AND 1863" ; Times: 1
+	Query: "specificepithet:erythrops genus:neocrex" ; Times: 2
+	Query: "Buteo harlani Henry" ; Times: 1
+	Query: "MVZ 154584" ; Times: 2
+	Query: "MVZ 154585" ; Times: 2
+	Query: "genus:Passerella catalognumber:167934 institutioncode:MVZ" ; Times: 6
+	Query: "demon" ; Times: 4
+	Query: "aegithalos concinnus" ; Times: 6
+	Query: "10347" ; Times: 1
+	Query: "RIBS" ; Times: 2
+	Query: "aerodramus bartschi" ; Times: 1
+	Query: "134064?" ; Times: 1
+	Query: "MVZ 154574" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "catalognumber:158434" ; Times: 1
+	Query: "remiz coronatus" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "MVZ 138580" ; Times: 2
+	Query: "MVZ 138581" ; Times: 2
+	Query: "MVZ 138582" ; Times: 1
+	Query: "MVZ 138583" ; Times: 2
+	Query: "Colaptes pitius" ; Times: 5
+	Query: "calliope Christopher institutioncode:MVZ" ; Times: 1
+	Query: "Greenland" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Jasper County Missouri" ; Times: 1
+	Query: "HIRUNDAPUS cochinchinensis" ; Times: 1
+	Query: "sporophila minuta" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "Accipiter rufitorques" ; Times: 1
+	Query: "MVZ 93748" ; Times: 2
+	Query: "MVZ 82446" ; Times: 2
+	Query: "MVZ 82447" ; Times: 1
+	Query: "MVZ 93743" ; Times: 2
+	Query: "MVZ 93742" ; Times: 2
+	Query: "MVZ 138090" ; Times: 2
+	Query: "nothoprocta pentlandii" ; Times: 1
+	Query: "MVZ 93747" ; Times: 2
+	Query: "MVZ 93746" ; Times: 2
+	Query: "MVZ 93745" ; Times: 2
+	Query: "MVZ 93744" ; Times: 2
+	Query: "MVZ 154472" ; Times: 2
+	Query: "Figgins class:Aves year &gt;= 1895 year &lt;= 1896" ; Times: 1
+	Query: "MVZ 152384" ; Times: 2
+	Query: "(Norway)" ; Times: 3
+	Query: "genus:Passerella catalognumber:170098 institutioncode:MVZ" ; Times: 6
+	Query: "(abernathy)" ; Times: 1
+	Query: "MVZ 152471" ; Times: 2
+	Query: "MVZ 152472" ; Times: 2
+	Query: "78438" ; Times: 1
+	Query: "MVZ 152474" ; Times: 2
+	Query: "image j" ; Times: 3
+	Query: "parus cinereus" ; Times: 2
+	Query: "Apus nipalensis" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "5867 aves" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "MVZ 120677" ; Times: 2
+	Query: "MVZ 120676" ; Times: 2
+	Query: "MVZ 120675" ; Times: 2
+	Query: "Paramaribo" ; Times: 1
+	Query: "MVZ 152499" ; Times: 2
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "county:&#34;Autauga&#34;" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "101430" ; Times: 1
+	Query: "apus nipalensis" ; Times: 2
+	Query: "Tamuin San Luis Potosi" ; Times: 1
+	Query: "Boquete chiriqui" ; Times: 1
+	Query: "catalognumber:177623 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 3
+	Query: "MVZ 94009" ; Times: 2
+	Query: "MVZ 94008" ; Times: 2
+	Query: "azul RIVER COSTA RICA" ; Times: 1
+	Query: "MVZ 52384" ; Times: 1
+	Query: "MVZ 154661" ; Times: 2
+	Query: "matagalpa nicaragua" ; Times: 1
+	Query: "Macroagelaius" ; Times: 1
+	Query: "specificepithet:leucotos genus:Dendrocopos country:&#34;korea&#34;" ; Times: 4
+	Query: "carrillo costa rica" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "genus:falco class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "aegithalos caudatus" ; Times: 2
+	Query: "habia peruviana" ; Times: 1
+	Query: "MVZ 154660" ; Times: 2
+	Query: "Tricholaema hirsuta" ; Times: 1
+	Query: "catalognumber:190082 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Passerella catalognumber:178294 institutioncode:MVZ" ; Times: 6
+	Query: "Balaeniceps" ; Times: 2
+	Query: "J. Cooper AND Island AND California" ; Times: 1
+	Query: "MVZ 154649" ; Times: 2
+	Query: "MVZ 138672" ; Times: 2
+	Query: "MVZ 138894" ; Times: 2
+	Query: "MVZ 154645" ; Times: 2
+	Query: "MVZ 138670" ; Times: 2
+	Query: "MVZ 154647" ; Times: 2
+	Query: "MVZ 154646" ; Times: 2
+	Query: "fratercula arctica" ; Times: 1
+	Query: "West Indies St. Lucia" ; Times: 1
+	Query: "MVZ 93967" ; Times: 2
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "genus:Passerella catalognumber:170105 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 138113" ; Times: 2
+	Query: "MVZ 138112" ; Times: 2
+	Query: "12348" ; Times: 1
+	Query: "San Jose cauca" ; Times: 1
+	Query: "merida venezuela" ; Times: 1
+	Query: "genus:Passerella catalognumber:166744 institutioncode:MVZ" ; Times: 6
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 2
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Boquete Chiriqui" ; Times: 1
+	Query: "catalognumber:179004 institutioncode:MVZ" ; Times: 1
+	Query: "Tichodroma muraria" ; Times: 1
+	Query: "Halcyon OR Todiramphus locality:Tutuila" ; Times: 1
+	Query: "Sternula lorata" ; Times: 1
+	Query: "MVZ 138808" ; Times: 2
+	Query: "catalognumber:183686 institutioncode:MVZ" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "MVZ 138807" ; Times: 2
+	Query: "MVZ 138550" ; Times: 2
+	Query: "calocitta formosa" ; Times: 1
+	Query: "Almirante" ; Times: 1
+	Query: "hirundapus cochinchinensis" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 2
+	Query: "MVZ 152335" ; Times: 2
+	Query: "Noanamá" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Contopus virens" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "genus:Passerella catalognumber:170457 institutioncode:MVZ" ; Times: 6
+	Query: "limnodromus griseus caurinus" ; Times: 8
+	Query: "genus:Passerella catalognumber:182547 institutioncode:MVZ" ; Times: 6
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "MVZ 152512" ; Times: 1
+	Query: "MVZ 82136" ; Times: 2
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "Zapotlan" ; Times: 1
+	Query: "Cardellina egg" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "13627" ; Times: 1
+	Query: "psittacara holochlorus brewsteri" ; Times: 1
+	Query: "NRM" ; Times: 1
+	Query: "2006 aves ecuador" ; Times: 1
+	Query: "MVZ 93889" ; Times: 2
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "fasciatus costa rica" ; Times: 2
+	Query: "genus:Passerella catalognumber:170101 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 154463" ; Times: 2
+	Query: "MVZ 154464" ; Times: 2
+	Query: "Costa Rica Boruca" ; Times: 2
+	Query: "Ecuador El Oro Santa Rosa" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "Bonilla costa rica" ; Times: 1
+	Query: "MVZ 120642" ; Times: 2
+	Query: "genus:Passerella catalognumber:170405 institutioncode:MVZ" ; Times: 6
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "MVZ 120644" ; Times: 2
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "13364" ; Times: 1
+	Query: "Rabor specimens" ; Times: 2
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 10
+	Query: "MVZ 93879" ; Times: 2
+	Query: "MVZ 138667" ; Times: 2
+	Query: "MVZ 138669" ; Times: 2
+	Query: "MVZ 138668" ; Times: 2
+	Query: "MVZ 93877" ; Times: 2
+	Query: "Amazilia candida" ; Times: 3
+	Query: "MVZ 93873" ; Times: 2
+	Query: "MVZ 139019" ; Times: 2
+	Query: "MVZ 139018" ; Times: 2
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:183683 institutioncode:MVZ" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "sylvia melanocephala" ; Times: 1
+	Query: "MVZ 139016" ; Times: 1
+	Query: "lobo" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 2
+	Query: "173311" ; Times: 1
+	Query: "catalognumber:180583 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Passerella catalognumber:170447 institutioncode:MVZ" ; Times: 6
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "369897" ; Times: 1
+	Query: "genus:Passerella catalognumber:167927 institutioncode:MVZ" ; Times: 6
+	Query: "genus:Passerella catalognumber:170408 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 199654" ; Times: 1
+	Query: "MVZ 154698" ; Times: 2
+	Query: "MVZ 154699" ; Times: 2
+	Query: "MVZ 154696" ; Times: 2
+	Query: "MVZ 154697" ; Times: 2
+	Query: "MVZ 154694" ; Times: 2
+	Query: "MVZ 154695" ; Times: 2
+	Query: "genus:Passerella catalognumber:167936 institutioncode:MVZ" ; Times: 6
+	Query: "hypocnemis cantator" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "MVZ 120493" ; Times: 2
+	Query: "MVZ 120492" ; Times: 2
+	Query: "MVZ 120491" ; Times: 3
+	Query: "Zosterops rendovae" ; Times: 2
+	Query: "catalognumber:181786 institutioncode:MVZ" ; Times: 1
+	Query: "calliope institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cooper AND 1861" ; Times: 1
+	Query: "recordedby:bristow" ; Times: 1
+	Query: "mvz 171487" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Geothlypis philadelphia" ; Times: 1
+	Query: "catalognumber:190080 institutioncode:MVZ" ; Times: 1
+	Query: "continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 2
+	Query: "A-101483" ; Times: 1
+	Query: "genus:Passerella catalognumber:182310 institutioncode:MVZ" ; Times: 6
+	Query: "country:&#34;Colombia&#34; Vireo olivaceus" ; Times: 4
+	Query: "A-117563" ; Times: 1
+	Query: "mvz AND gymnogyps AND california" ; Times: 1
+	Query: "MVZ 138126" ; Times: 2
+	Query: "MVZ 138122" ; Times: 3
+	Query: "MVZ 93874" ; Times: 2
+	Query: "MVZ 138121" ; Times: 2
+	Query: "91859" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "MVZ 93750" ; Times: 2
+	Query: "MVZ 93751" ; Times: 2
+	Query: "catalognumber:180586 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 152412" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "MVZ 152410" ; Times: 2
+	Query: "MVZ 152411" ; Times: 2
+	Query: "Halcyon OR Todiramphus OR Todirhamphus locality:Tutuila" ; Times: 1
+	Query: "MVZ 152413" ; Times: 3
+	Query: "Colombia Cauca San Antonio" ; Times: 1
+	Query: "dysithamnus tambillanus" ; Times: 1
+	Query: "mvz gymnogyps california" ; Times: 1
+	Query: "MAR 8559" ; Times: 1
+	Query: "catalognumber:181867 institutioncode:MVZ" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "Rio Seco" ; Times: 1
+	Query: "campephilus principalis" ; Times: 16
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "MVZ 138568" ; Times: 2
+	Query: "MVZ 138569" ; Times: 2
+	Query: "mana" ; Times: 1
+	Query: "&#34;Walker River&#34;" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "grus canadensis tabida" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Laterallus" ; Times: 3
+	Query: "Timalia pileata" ; Times: 3
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "ceratopipra chloromeros" ; Times: 2
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "MVZ 120602" ; Times: 2
+	Query: "genus:Passerella catalognumber:170449 institutioncode:MVZ" ; Times: 6
+	Query: "country:&#34;Colombia&#34; Setophaga ruticilla" ; Times: 1
+	Query: "Conirostrum rufum" ; Times: 1
+	Query: "genus:Passerella catalognumber:170446 institutioncode:MVZ" ; Times: 6
+	Query: "85227" ; Times: 1
+	Query: "specificepithet:mystacalis genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "mvz 79608" ; Times: 2
+	Query: "Todiramphus chloris" ; Times: 1
+	Query: "catalognumber:158021 institutioncode:MVZ" ; Times: 2
+	Query: "Tricholaema ansorgii" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hierococcyx sparverioides" ; Times: 1
+	Query: "MVZ 94010" ; Times: 2
+	Query: "pipra mentalis" ; Times: 1
+	Query: "fratercula corniculata" ; Times: 1
+	Query: "MVZ 93895" ; Times: 2
+	Query: "19825" ; Times: 1
+	Query: "Todiramphus chloris Vanuatu" ; Times: 1
+	Query: "nothoprocta ornata" ; Times: 1
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+	Query: "Halcyon chloris Vanuatu" ; Times: 1
+	Query: "catalognumber:187962 institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 138751" ; Times: 2
+	Query: "genus:Passerella catalognumber:170455 institutioncode:MVZ" ; Times: 6
+	Query: "117348" ; Times: 1
+	Query: "MVZ 138752" ; Times: 2
+	Query: "112728" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "MVZ 93944" ; Times: 3
+	Query: "MVZ 155015" ; Times: 1
+	Query: "MVZ 155014" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "specificepithet:huttoni genus:Vireo county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 154575" ; Times: 2
+	Query: "101352" ; Times: 2
+	Query: "umbagog" ; Times: 1
+	Query: "MVZ 154775" ; Times: 2
+	Query: "class:Aves country:&#34;Greenland&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "Aerodramus bartschi" ; Times: 4
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "piranga flava" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Contopus cooperi" ; Times: 1
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "Schulze vntype:specimen country:&#34;Paraguay&#34; year &gt;= 1940 year &lt;= 1945" ; Times: 1
+	Query: "genus:Passerella catalognumber:170104 institutioncode:MVZ" ; Times: 6
+	Query: "21252" ; Times: 1
+	Query: "176298" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "FMNH 1886" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "javanensis" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "39186" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Setophaga striata" ; Times: 1
+	Query: "genus:Passerella catalognumber:182315 institutioncode:MVZ" ; Times: 6
+	Query: "Larus vegae" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "catalognumber:173452 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Passerella catalognumber:166742 institutioncode:MVZ" ; Times: 6
+	Query: "genus:Passerella catalognumber:166748 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 138830" ; Times: 2
+	Query: "MVZ 138831" ; Times: 2
+	Query: "genus:Passerella catalognumber:170102 institutioncode:MVZ" ; Times: 6
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "genus:Passerella catalognumber:182548 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 93956" ; Times: 2
+	Query: "copsychus" ; Times: 1
+	Query: "catalognumber:181851 institutioncode:MVZ" ; Times: 1
+	Query: "locality:shady valley county:&#34;johnson&#34; stateprovince:&#34;tennessee&#34;" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "87481" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "102105" ; Times: 1
+	Query: "genus:Passerella catalognumber:170103 institutioncode:MVZ" ; Times: 6
+	Query: "Colibri thalassinus" ; Times: 16
+	Query: "MVZ 154658" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Tyrannus savana" ; Times: 1
+	Query: "MVZ 93953" ; Times: 2
+	Query: "rodent" ; Times: 1
+	Query: "MVZ 154710" ; Times: 5
+	Query: "MVZ 218671" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 3
+	Query: "american bullfrog" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "catalognumber:137745 institutioncode:MVZ" ; Times: 3
+	Query: "101273" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "MVZ 93880" ; Times: 2
+	Query: "12348 aves" ; Times: 2
+	Query: "Lake Mead National Recreation Area" ; Times: 1
+	Query: "buteogallus" ; Times: 1
+	Query: "Buteo harlani Arizona" ; Times: 1
+	Query: "buteo harlani california" ; Times: 1
+	Query: "Cooper AND Island AND California" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "genus:Passerella catalognumber:166741 institutioncode:MVZ" ; Times: 6
+	Query: "boxer" ; Times: 1
+	Query: "Rabor specimens MVZ" ; Times: 2
+	Query: "buteo jamaicensis harlani" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "catalognumber:190089 institutioncode:MVZ" ; Times: 2
+	Query: "Irazú" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "pipra chloromeros" ; Times: 1
+	Query: "MVZ 139024" ; Times: 3
+	Query: "MVZ 139025" ; Times: 2
+	Query: "MVZ 139020" ; Times: 2
+	Query: "MVZ 139021" ; Times: 2
+	Query: "MVZ 139022" ; Times: 2
+	Query: "MVZ 139023" ; Times: 2
+	Query: "Thalasseus acuflavidus" ; Times: 3
+	Query: "catalognumber:12545 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 93774" ; Times: 2
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:180565 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 120473" ; Times: 2
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 2
+	Query: "MVZ 120570" ; Times: 2
+	Query: "MVZ 120571" ; Times: 2
+	Query: "Euphorbia" ; Times: 1
+	Query: "MVZ 93773" ; Times: 2
+	Query: "542129" ; Times: 2
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "catalognumber:179884 institutioncode:MVZ" ; Times: 1
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "MVZ 93749" ; Times: 3
+	Query: "ct scan" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "141136" ; Times: 1
+	Query: "102990" ; Times: 1
+	Query: "MVZ 154708" ; Times: 2
+	Query: "MVZ 154709" ; Times: 3
+	Query: "usac" ; Times: 2
+	Query: "MVZ 154705" ; Times: 2
+	Query: "MVZ 154706" ; Times: 2
+	Query: "MVZ 154707" ; Times: 2
+	Query: "MVZ 154700" ; Times: 2
+	Query: "MVZ 154702" ; Times: 3
+	Query: "MVZ 154703" ; Times: 2
+	Query: "class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "Thalasseus bergii" ; Times: 2
+	Query: "mvz 150050" ; Times: 1
+	Query: "genus:Passerella catalognumber:178293 institutioncode:MVZ" ; Times: 9
+	Query: "genus:Passerella catalognumber:170448 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 138096" ; Times: 2
+	Query: "MVZ 138097" ; Times: 2
+	Query: "country:&#34;Colombia&#34; piranga flava" ; Times: 2
+	Query: "genus:dicrurus country:&#34;philippines&#34;" ; Times: 3
+	Query: "dryocopus javensis" ; Times: 1
+	Query: "Mionectes assimilis" ; Times: 1
+	Query: "A 117563" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "MVZ 152409" ; Times: 2
+	Query: "MVZ 152408" ; Times: 2
+	Query: "geocerthia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:172049" ; Times: 1
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "MVZ 107493" ; Times: 2
+	Query: "Matagalpa" ; Times: 2
+	Query: "MVZ 138571" ; Times: 2
+	Query: "MVZ 138570" ; Times: 3
+	Query: "country:&#34;Colombia&#34; Catharus minimus" ; Times: 1
+	Query: "MVZ 138572" ; Times: 2
+	Query: "MVZ 138579" ; Times: 2
+	Query: "MVZ 138578" ; Times: 2
+	Query: "stateprovince:&#34;New Jersey&#34; ovary" ; Times: 1
+	Query: "genus:Passerella catalognumber:170099 institutioncode:MVZ" ; Times: 6
+	Query: "genus:Passerella catalognumber:170445 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 82425" ; Times: 2
+	Query: "genus:quelea" ; Times: 1
+	Query: "153035" ; Times: 1
+	Query: "Buteo harlani Colorado" ; Times: 1
+	Query: "mico" ; Times: 1
+	Query: "genus:Passerella catalognumber:182543 institutioncode:MVZ" ; Times: 6
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "catalognumber:179754 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:181581 institutioncode:MVZ" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "genus:Passerella catalognumber:182317 institutioncode:MVZ" ; Times: 7
+	Query: "88053" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leucophaeus fuliginosus" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "calliope institutioncode:MVZ" ; Times: 2
+	Query: "locality:Matagalpa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "MVZ 93881" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Tyrannus dominicensis" ; Times: 1
+	Query: "specificepithet:maforensis genus:Phylloscopus class:Aves" ; Times: 1
+	Query: "mvz 137064" ; Times: 2
+	Query: "MVZ 93888" ; Times: 2
+	Query: "Rukia" ; Times: 1
+	Query: "numenius arquata" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus country:&#34;Peru&#34; hastissue:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Setophaga petechia" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "genus:Passerella catalognumber:182316 institutioncode:MVZ" ; Times: 6
+	Query: "turtle data" ; Times: 1
+	Query: "catalognumber:173838 institutioncode:MVZ" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pygochelidon cyanoleuca" ; Times: 5
+	Query: "MVZ 138764" ; Times: 2
+	Query: "MVZ 138765" ; Times: 2
+	Query: "MVZ 138766" ; Times: 2
+	Query: "MVZ 138767" ; Times: 2
+	Query: "MVZ 138763" ; Times: 2
+	Query: "Todiramphus farquhari" ; Times: 1
+	Query: "MVZ 93957" ; Times: 2
+	Query: "MVZ 93954" ; Times: 2
+	Query: "MVZ 93955" ; Times: 2
+	Query: "MVZ 93952" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla basisofrecord:PreservedSpecimen hassex:1" ; Times: 2
+	Query: "Megazosterops" ; Times: 1
+	Query: "catalognumber:179750 institutioncode:MVZ" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "Sterna lorata" ; Times: 2
+	Query: "Halcyon OR Todiramphus Fiji" ; Times: 1
+	Query: "Artemisia" ; Times: 1
+	Query: "Oenanthe deserti" ; Times: 1
+	Query: "MVZ 154663" ; Times: 2
+	Query: "MVZ 154662" ; Times: 3
+	Query: "stat" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "MVZ 93772" ; Times: 2
+	Query: "MVZ 194378" ; Times: 3
+	Query: "genus:Passerella catalognumber:182544 institutioncode:MVZ" ; Times: 6
+	Query: "mvz 150010" ; Times: 3
+	Query: "mvz 150011" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "catalognumber:190079 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:46505 institutioncode:MVZ" ; Times: 4
+	Query: "78725" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "specificepithet:plateni country:&#34;philippines&#34;" ; Times: 1
+	Query: "catalognumber:181859 institutioncode:MVZ" ; Times: 1
+	Query: "hastypestatus:1 inornatus" ; Times: 1
+	Query: "MVZ 82423" ; Times: 2
+	Query: "genus:Psarisomus preparations:skeleton" ; Times: 1
+	Query: "corvus splendens" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 1
+	Query: "genus:Passerella catalognumber:170406 institutioncode:MVZ" ; Times: 6
+	Query: "MVZ 172650" ; Times: 1
+	Query: "MVZ 175317" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 940 download events in this period)
+Total number of records downloaded: 5106
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Philippines ; Times: 1
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 3
+	Country: Peru ; Times: 7
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-27 ; Times: 4
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:MVZ" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:cumingii order:galliformes" ; Times: 1
+	Query: "genus:falco class:aves country:&#34;somalia&#34; recordedby:archer" ; Times: 1
+	Query: "catalognumber:47000 institutioncode:MVZ" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Neocrex erythrops" ; Times: 3
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:layardi order:galliformes" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rabor specimens MVZ" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:urumutum order:galliformes" ; Times: 1
+	Query: "specificepithet:gingica order:galliformes" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:californicus genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 2
+	Query: "Euphagus carolinus" ; Times: 1
+
+
+End of report.
