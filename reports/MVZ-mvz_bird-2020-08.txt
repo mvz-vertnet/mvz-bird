@@ -1,0 +1,1373 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1763
+Number of records retrieved in searches: 18660
+Number of different countries where searches have been originated: 37
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Canada ; Times: 21
+	Country: Italy ; Times: 6
+	Country: Peru ; Times: 82
+	Country: Unknown ; Times: 8
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 12
+	Country: Ireland ; Times: 23
+	Country: Argentina ; Times: 4
+	Country: Bolivia ; Times: 2
+	Country: Ecuador ; Times: 14
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 138
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 30
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 886
+	Country: Sweden ; Times: 7
+	Country: Vietnam ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 217
+	Country: Mexico ; Times: 23
+	Country: United Arab Emirates ; Times: 1
+	Country: Uruguay ; Times: 2
+	Country: India ; Times: 6
+	Country: South Africa ; Times: 4
+	Country: United Kingdom ; Times: 200
+	Country: Austria ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Paraguay ; Times: 3
+	Country: Japan ; Times: 5
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 16
+	Date: 2020-08-29 ; Times: 9
+	Date: 2020-08-17 ; Times: 52
+	Date: 2020-08-16 ; Times: 14
+	Date: 2020-08-15 ; Times: 5
+	Date: 2020-08-14 ; Times: 140
+	Date: 2020-08-13 ; Times: 13
+	Date: 2020-08-12 ; Times: 69
+	Date: 2020-08-11 ; Times: 53
+	Date: 2020-08-10 ; Times: 665
+	Date: 2020-08-31 ; Times: 31
+	Date: 2020-08-30 ; Times: 7
+	Date: 2020-08-19 ; Times: 17
+	Date: 2020-08-18 ; Times: 36
+	Date: 2020-08-08 ; Times: 8
+	Date: 2020-08-01 ; Times: 6
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 18
+	Date: 2020-08-04 ; Times: 22
+	Date: 2020-08-05 ; Times: 25
+	Date: 2020-08-06 ; Times: 42
+	Date: 2020-08-07 ; Times: 20
+	Date: 2020-08-26 ; Times: 52
+	Date: 2020-08-27 ; Times: 26
+	Date: 2020-08-24 ; Times: 43
+	Date: 2020-08-25 ; Times: 48
+	Date: 2020-08-22 ; Times: 14
+	Date: 2020-08-23 ; Times: 44
+	Date: 2020-08-20 ; Times: 11
+	Date: 2020-08-21 ; Times: 255
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Eremophila catalognumber:170162 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:sandwichensis genus:Passerculus stateprovince:&#34;Alaska&#34; institutioncode:MVZ" ; Times: 3
+	Query: "locality:san nicolas county:&#34;ventura&#34;" ; Times: 1
+	Query: "134043" ; Times: 1
+	Query: "mappable:1 scientificname:Phoeniculus purpureus" ; Times: 1
+	Query: "class:aves county:&#34;clark&#34; stateprovince:&#34;nevada&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170535 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:165396 institutioncode:MVZ" ; Times: 3
+	Query: "133795" ; Times: 6
+	Query: "Vanellus resplendens" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170078 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Anas flavirostris" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia guttata" ; Times: 1
+	Query: "specificepithet:rubinoides genus:Heliodoxa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Estrilda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170763 institutioncode:MVZ" ; Times: 3
+	Query: "Eurillas virens" ; Times: 1
+	Query: "Dumetella carolinensis ws OR wingspan OR wing+span" ; Times: 1
+	Query: "genus:Anthracothorax prevostii country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Vidua macroura" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "Thryothorus ludovicianus hasmass:1" ; Times: 1
+	Query: "Anthus rufulus" ; Times: 1
+	Query: "Poecile montanus" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus jocosus" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "Psittacula krameri California" ; Times: 1
+	Query: "MVZ 82454" ; Times: 1
+	Query: "mappable:1 scientificname:Pionites melanocephala" ; Times: 1
+	Query: "specificepithet:enucleator stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170782 institutioncode:MVZ" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "133705" ; Times: 1
+	Query: "1663585" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170538 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Lamprotornis caudatus" ; Times: 1
+	Query: "sitta ovary" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170771 institutioncode:MVZ" ; Times: 3
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "mappable:1 scientificname:Megadyptes antipodes" ; Times: 1
+	Query: "80729" ; Times: 5
+	Query: "Randall Alberta" ; Times: 2
+	Query: "vntype:specimen specificepithet:sclateri genus:Cacicus" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes macrourus" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Rabor MVZ" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus atratus" ; Times: 1
+	Query: "recordedby:Krider" ; Times: 3
+	Query: "mappable:1 scientificname:Larus dominicanus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170780 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:fimbriata genus:Amazilia institutioncode:MVZ" ; Times: 1
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171629 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:culicivorus family:parulidae country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "133599" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Cinclus year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170544 institutioncode:MVZ" ; Times: 3
+	Query: "sleep" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "lagopus muta canada" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170175 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Eremophila catalognumber:165724 institutioncode:MVZ" ; Times: 3
+	Query: "Colius striatus" ; Times: 1
+	Query: "374503" ; Times: 1
+	Query: "class:aves catalognumber:71813" ; Times: 1
+	Query: "genus:Lafresnaya institutioncode:MVZ" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "specificepithet:microrhynchum genus:Ramphomicron" ; Times: 1
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "Hirundo nigrita" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Myiodynastes maculatus" ; Times: 2
+	Query: "mappable:1 scientificname:Euodice cantans" ; Times: 1
+	Query: "vntype:specimen specificepithet:xanthogaster genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "vntype:specimen specificepithet:holosericeus genus:Amblycercus" ; Times: 1
+	Query: "Hypsipetes propinquus" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "MVZ 163433" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "genus:Eremophila catalognumber:169361 institutioncode:MVZ" ; Times: 3
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "mappable:1 scientificname:Anas poecilorhyncha" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165393 institutioncode:MVZ" ; Times: 2
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "mappable:1 scientificname:Sturnia malabarica" ; Times: 1
+	Query: "mappable:1 scientificname:Ara chloroptera" ; Times: 1
+	Query: "MVZ 163269" ; Times: 1
+	Query: "specificepithet:prevostii genus:Anthracothorax" ; Times: 1
+	Query: "genus:Ocreatus" ; Times: 1
+	Query: "L. canus" ; Times: 1
+	Query: "genus:Streptoprocne" ; Times: 2
+	Query: "specificepithet:taczanowskii genus:Leptopogon" ; Times: 1
+	Query: "genus:Stephanoxis" ; Times: 1
+	Query: "mappable:1 scientificname:Spermestes cucullata" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis chalybaeus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava amandava" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:amazilia" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "meeki" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170068 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:xanthogaster genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:occidentalis caurina genus:strix basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170065 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:bonapartei genus:Coeligena" ; Times: 6
+	Query: "witch" ; Times: 3
+	Query: "motacilla flava" ; Times: 2
+	Query: "genus:Eremophila catalognumber:165726 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170541 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Hypsipetes leucocephalus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 1
+	Query: "mappable:1 scientificname:Buceros bicornis" ; Times: 1
+	Query: "Gliciphila melanops" ; Times: 1
+	Query: "MVZ 136441" ; Times: 1
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "Tangara chrysotis" ; Times: 1
+	Query: "133805" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Phylloscopus occipitalis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170774 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Amazona amazonica" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171634 institutioncode:MVZ" ; Times: 3
+	Query: "Metztitlan" ; Times: 1
+	Query: "mappable:1 scientificname:Pionites melanocephalus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170174 institutioncode:MVZ" ; Times: 3
+	Query: "65686" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170795 institutioncode:MVZ" ; Times: 3
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:eupogon genus:Metallura" ; Times: 1
+	Query: "genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "mappable:1 scientificname:Muscicapa latirostris" ; Times: 1
+	Query: "125180" ; Times: 1
+	Query: "catalognumber:16611 institutioncode:MVZ" ; Times: 4
+	Query: "genus:pagodroma" ; Times: 1
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "MVZ 139961" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170783 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Amazona albifrons" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170073 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:franciae genus:Amazilia institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:colombica genus:Thalurania country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Quelea quelea" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171636 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus stateprovince:&#34;Alaska&#34; year &gt;= 1950 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "mappable:1 scientificname:Ramphastos sulfuratus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169362 institutioncode:MVZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:violacea genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171630 institutioncode:MVZ" ; Times: 3
+	Query: "Larus marinus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170067 institutioncode:MVZ" ; Times: 2
+	Query: "29224" ; Times: 2
+	Query: "mappable:1 scientificname:Francolinus francolinus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170082 institutioncode:MVZ" ; Times: 3
+	Query: "Sweetwater county:&#34;Mono&#34;" ; Times: 3
+	Query: "specificepithet:helianthea genus:Coeligena" ; Times: 1
+	Query: "MVZ 154784" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "mappable:1 scientificname:Chloephaga picta" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170532 institutioncode:MVZ" ; Times: 5
+	Query: "genus:Eremophila catalognumber:170084 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Colombia&#34;" ; Times: 1
+	Query: "MVZ 154783" ; Times: 1
+	Query: "Chalcomitra senegalensis" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "MVZ 154789" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Coale 1910" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus ruber" ; Times: 1
+	Query: "genus:Sporophila institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "demon" ; Times: 3
+	Query: "genus:Eremophila catalognumber:171844 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Uraeginthus bengalus" ; Times: 1
+	Query: "127745" ; Times: 3
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170542 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170773 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170785 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170790 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Geranoaetus melanoleucus" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes jacksoni" ; Times: 1
+	Query: "133590" ; Times: 2
+	Query: "133593" ; Times: 2
+	Query: "Lalage tricolor" ; Times: 1
+	Query: "133595" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "mappable:1 scientificname:Tyrannus savana" ; Times: 1
+	Query: "133598" ; Times: 2
+	Query: "Xiphorhynchus guttatus" ; Times: 2
+	Query: "Sweetwater county:&#34;Lyon&#34;" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila institutioncode:MVZ hastissue:1" ; Times: 2
+	Query: "170489" ; Times: 1
+	Query: "catalognumber:31023 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Branta sandvicensis" ; Times: 1
+	Query: "genus:cinclodes" ; Times: 1
+	Query: "passerculus sandwichensis anulus" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura oryzivora" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171841 institutioncode:MVZ" ; Times: 3
+	Query: "108252" ; Times: 1
+	Query: "OMNH" ; Times: 1
+	Query: "Spodiopsar cineraceus" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "Seicercus burkii" ; Times: 1
+	Query: "MVZ 116633" ; Times: 1
+	Query: "Netherlands" ; Times: 2
+	Query: "class:aves catalognumber:71997" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "Anas platyrhynchos diazi" ; Times: 1
+	Query: "class:aves catalognumber:71998" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sierra Diablo" ; Times: 1
+	Query: "107662" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170778 institutioncode:MVZ" ; Times: 3
+	Query: "Piranga ludoviciana" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda rhodopyga" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "135140" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "family:Spheniscidae sex:female preparations:skin institutioncode:MVZ" ; Times: 2
+	Query: "133520" ; Times: 3
+	Query: "ficedula albicollis" ; Times: 1
+	Query: "133522" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169359 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Adelomyia" ; Times: 2
+	Query: "specificepithet:auriceps genus:Chlorostilbon" ; Times: 2
+	Query: "Setophaga americana" ; Times: 2
+	Query: "mappable:1 scientificname:Diopsittaca nobilis" ; Times: 1
+	Query: "Zenaida auriculata" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix japonica" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170794 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170793 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:iris genus:Coeligena" ; Times: 2
+	Query: "107663" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "Nandayus nenday California" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165725 institutioncode:MVZ" ; Times: 3
+	Query: "8243" ; Times: 1
+	Query: "recordedby:Koelz month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "specificepithet:cyanifrons genus:Amazilia" ; Times: 2
+	Query: "mappable:1 scientificname:Ara severa" ; Times: 1
+	Query: "Lophophanes dichrous" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 3
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus ruber" ; Times: 1
+	Query: "lanius senator" ; Times: 1
+	Query: "vicinity of Sua amazonas" ; Times: 1
+	Query: "specificepithet:stanleyi genus:Chalcostigma" ; Times: 2
+	Query: "14405" ; Times: 1
+	Query: "mappable:1 scientificname:Eclectus roratus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170764 institutioncode:MVZ" ; Times: 3
+	Query: "MVZ 244366" ; Times: 2
+	Query: "101570" ; Times: 1
+	Query: "F. corniculata" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170179 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Euplectes progne" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 2
+	Query: "mappable:1 scientificname:Lonchura atricapilla" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila county:&#34;ventura&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170085 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:guainumbi" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "mappable:1 scientificname:Psilopsiagon aymara" ; Times: 1
+	Query: "mappable:1 scientificname:Sturnia sinensis" ; Times: 1
+	Query: "43940 aves" ; Times: 3
+	Query: "vntype:specimen specificepithet:angustifrons genus:Psarocolius country:&#34;Colombia&#34;" ; Times: 2
+	Query: "134125" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura" ; Times: 2
+	Query: "genus:Adelomyia family:Trochilidae institutioncode:MVZ" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanoliseus patagonus" ; Times: 1
+	Query: "mappable:1 scientificname:Muscicapa dauurica" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanocorax mystacalis" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacara wagleri" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170769 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Scopus umbretta" ; Times: 1
+	Query: "genus:Phaenicophilus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170534 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Pyrrhura molinae" ; Times: 1
+	Query: "mappable:1 scientificname:Spatula rhynchotis" ; Times: 1
+	Query: "specificepithet:steindachneri genus:Picumnus" ; Times: 1
+	Query: "mappable:1 scientificname:Vidua fischeri" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "passerculus sandwichensis sanctorum" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170165 institutioncode:MVZ" ; Times: 3
+	Query: "Amazona viridigenalis California" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170767 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Eupsittula nana" ; Times: 1
+	Query: "Archilochus colubris hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis purpureus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170163 institutioncode:MVZ" ; Times: 2
+	Query: "Amazona finschi" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170781 institutioncode:MVZ" ; Times: 3
+	Query: "Piranga lutea" ; Times: 1
+	Query: "mappable:1 scientificname:Geopelia cuneata" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacara holochlorus" ; Times: 1
+	Query: "norway" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "geocerthia" ; Times: 2
+	Query: "mappable:1 scientificname:Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Loddigesia" ; Times: 1
+	Query: "133824" ; Times: 1
+	Query: "specificepithet:leadbeateri genus:Heliodoxa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "specificepithet:coronatus genus:tachyphonus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "133523" ; Times: 2
+	Query: "genus:Phleocryptes class:Aves country:&#34;bolivia&#34;" ; Times: 1
+	Query: "catalognumber:111096 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:lumachella genus:Augastes" ; Times: 1
+	Query: "mappable:1 scientificname:Mareca sibilatrix" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170784 institutioncode:MVZ" ; Times: 3
+	Query: "Machlolophus spilonotus" ; Times: 1
+	Query: "mappable:1 scientificname:Spatula cyanoptera" ; Times: 1
+	Query: "mappable:1 scientificname:Oena capensis" ; Times: 1
+	Query: "class:aves catalognumber:72357" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacara erythrogenys" ; Times: 1
+	Query: "mappable:1 scientificname:Gracupica nigricollis" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "mappable:1 scientificname:Ara ararauna" ; Times: 1
+	Query: "specificepithet:insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "133495" ; Times: 2
+	Query: "specificepithet:haemorrhous genus:Cacicus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "133497" ; Times: 2
+	Query: "specificepithet:macroura genus:vidua hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "Motacilla tschutschensis" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "Pygochelidon" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus jacksoni" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "133657" ; Times: 7
+	Query: "genus:Eremophila catalognumber:169360 institutioncode:MVZ" ; Times: 3
+	Query: "71370" ; Times: 2
+	Query: "133652" ; Times: 3
+	Query: "133653" ; Times: 2
+	Query: "mappable:1 scientificname:Serinus canaria" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus family:Trochilidae" ; Times: 1
+	Query: "genus:Rhynchocyclus" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170768 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:scrippsi basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lafresnaya country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura nigriceps" ; Times: 1
+	Query: "specificepithet:heliodor genus:Chaetocercus" ; Times: 2
+	Query: "mappable:1 scientificname:Ploceus cucullatus" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura gouldiae" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171628 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Lonchura striata" ; Times: 1
+	Query: "class:aves catalognumber:72501" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia bichenovii" ; Times: 1
+	Query: "specificepithet:senator genus:Lanius" ; Times: 2
+	Query: "mappable:1 scientificname:Euplectes macroura" ; Times: 1
+	Query: "Phylloscopus trochilus" ; Times: 1
+	Query: "Riverside County ruber" ; Times: 1
+	Query: "mappable:1 scientificname:Geranoaetus polyosoma" ; Times: 1
+	Query: "Pygochelidon cyanoleuca" ; Times: 1
+	Query: "Cana" ; Times: 1
+	Query: "specificepithet:langsdorffi genus:Discosura" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170178 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Eremophila catalognumber:165399 institutioncode:MVZ" ; Times: 3
+	Query: "class:aves country:&#34;ethiopia&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170539 institutioncode:MVZ" ; Times: 3
+	Query: "aphelocoma unicolor" ; Times: 3
+	Query: "133788" ; Times: 4
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Vireo altiloquus" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Peucaea institutioncode:MVZ" ; Times: 1
+	Query: "mappable:1 scientificname:Amandava subflava" ; Times: 1
+	Query: "Phylloscopus fuscatus" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura prasina" ; Times: 1
+	Query: "county:&#34;marin&#34; recordedby:carriger" ; Times: 3
+	Query: "specificepithet:williami genus:Metallura country:&#34;Colombia&#34;" ; Times: 1
+	Query: "MVZ 115925" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "genus:Geothlypis institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "133878" ; Times: 2
+	Query: "mappable:1 scientificname:Geopelia striata" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus hastissue:1" ; Times: 2
+	Query: "genus:Amazilia country:&#34;Colombia&#34; institutioncode:MVZ" ; Times: 1
+	Query: "143491" ; Times: 1
+	Query: "specificepithet:prevostii genus:Anthracothorax country:&#34;Colombia&#34;" ; Times: 1
+	Query: "geocerthia serrana" ; Times: 1
+	Query: "catalognumber:108353 institutioncode:MVZ" ; Times: 2
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus pusillus" ; Times: 1
+	Query: "mappable:1 scientificname:Lorius chlorocercus" ; Times: 1
+	Query: "genus:Anthus country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes nigroventris" ; Times: 1
+	Query: "specificepithet:gibsoni genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Platycercus eximius" ; Times: 1
+	Query: "class:aves catalognumber:72276" ; Times: 1
+	Query: "mappable:1 scientificname:Mimus gilvus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170172 institutioncode:MVZ" ; Times: 2
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171631 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Zenaida meloda" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Foulehaio carunculata carunculatus" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria capitata" ; Times: 1
+	Query: "MVZ 52384" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165717 institutioncode:MVZ" ; Times: 2
+	Query: "genus:Eremophila catalognumber:171843 institutioncode:MVZ" ; Times: 3
+	Query: "115232" ; Times: 1
+	Query: "locality:summit peak" ; Times: 1
+	Query: "Motacilla alba" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personatus" ; Times: 1
+	Query: "mappable:1 scientificname:Vultur gryphus" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 5
+	Query: "mappable:1 scientificname:Urocissa erythroryncha" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170076 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:165721 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Threskiornis molucca" ; Times: 1
+	Query: "133786" ; Times: 2
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "mappable:1 scientificname:Cygnus melancoryphus" ; Times: 1
+	Query: "mappable:1 scientificname:Eupsittula pertinax" ; Times: 1
+	Query: "specificepithet:stenurus genus:Chlorostilbon" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170079 institutioncode:MVZ" ; Times: 3
+	Query: "Parus monticolus" ; Times: 1
+	Query: "Cuzco Amazónico" ; Times: 1
+	Query: "mappable:1 scientificname:Anser rossii" ; Times: 1
+	Query: "Tachycineta leucopyga" ; Times: 1
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169367 institutioncode:MVZ" ; Times: 3
+	Query: "AVES 84790" ; Times: 1
+	Query: "specificepithet:iris genus:Coeligena country:&#34;Peru&#34;" ; Times: 1
+	Query: "brown trout" ; Times: 1
+	Query: "mappable:1 scientificname:Ara chloropterus" ; Times: 1
+	Query: "MVZ 137945" ; Times: 2
+	Query: "mappable:1 scientificname:Streptopelia orientalis" ; Times: 1
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "141528" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170080 institutioncode:MVZ" ; Times: 3
+	Query: "desatoya" ; Times: 1
+	Query: "mappable:1 scientificname:Spatula versicolor" ; Times: 1
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "Poecile atricapilla" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "107797" ; Times: 2
+	Query: "mappable:1 scientificname:Todiramphus chloris" ; Times: 1
+	Query: "107791" ; Times: 1
+	Query: "35358" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanolaemus genus:Atlapetes" ; Times: 1
+	Query: "barred owl" ; Times: 8
+	Query: "Xema sabini" ; Times: 1
+	Query: "134371" ; Times: 2
+	Query: "genus:Agapornis" ; Times: 5
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "Buteo jamaicensis harlani California" ; Times: 1
+	Query: "specificepithet:notosticta genus:Aimophila institutioncode:MVZ" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "44804" ; Times: 1
+	Query: "133904" ; Times: 2
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga rubra" ; Times: 2
+	Query: "MVZ 154792" ; Times: 1
+	Query: "133618" ; Times: 2
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "class:aves catalognumber:72434" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "passerculus sandwichensis guttatus" ; Times: 1
+	Query: "mappable:1 scientificname:Xanthocephalus xanthocephalus" ; Times: 1
+	Query: "specificepithet:amazilia genus:Amazilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotis genus:Entomodestes" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Eulampis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170176 institutioncode:MVZ" ; Times: 3
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:ruber genus:Phaethornis" ; Times: 1
+	Query: "genus:Emberiza institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrrhura frontalis" ; Times: 1
+	Query: "MVZ 119330" ; Times: 2
+	Query: "genus:Eremophila catalognumber:165712 institutioncode:MVZ" ; Times: 2
+	Query: "Trogon mexicanus" ; Times: 2
+	Query: "Aerodramus bartschi" ; Times: 3
+	Query: "Piranga hepatica" ; Times: 1
+	Query: "class:aves catalognumber:72268" ; Times: 1
+	Query: "class:aves catalognumber:72269" ; Times: 1
+	Query: "MVZ 150236" ; Times: 2
+	Query: "genus:Anthracothorax prevostii" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170540 institutioncode:MVZ" ; Times: 3
+	Query: "class:aves catalognumber:72265" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170533 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Euplectes axillaris" ; Times: 1
+	Query: "mappable:1 scientificname:Crithagra mozambica" ; Times: 1
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "lagopus muta" ; Times: 1
+	Query: "specificepithet:grayi genus:Hylocharis" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis personata" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "Poecile palustris" ; Times: 1
+	Query: "specificepithet:kingii genus:Aglaiocercus institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Euplectes franciscanus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171839 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:rufidorsa genus:ceyx country:&#34;philippines&#34;" ; Times: 1
+	Query: "133680" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "mappable:1 scientificname:Sturnella loyca" ; Times: 1
+	Query: "mappable:1 scientificname:Eos bornea" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "mappable:1 scientificname:Cacicus cela" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170791 institutioncode:MVZ" ; Times: 3
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "133540" ; Times: 2
+	Query: "Buteo jamaicensis harlani Arizona" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula eupatria" ; Times: 1
+	Query: "specificepithet:occidentalis caurina genus:strix" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "238110" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "147299" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura maja" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170543 institutioncode:MVZ" ; Times: 3
+	Query: "166358" ; Times: 2
+	Query: "specificepithet:herrani genus:Chalcostigma" ; Times: 2
+	Query: "71606" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "mappable:1 scientificname:Poephila acuticauda" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171632 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:taczanowskii genus:Leptopogon" ; Times: 1
+	Query: "audio" ; Times: 1
+	Query: "specificepithet:nigrigenis genus:Agapornis basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "M-95968" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "mappable:1 scientificname:Vanellus armatus" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "vntype:specimen specificepithet:luluae genus:Poecilotriccus" ; Times: 1
+	Query: "Nothocercus bonapartei" ; Times: 2
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus cafer" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170775 institutioncode:MVZ" ; Times: 3
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes orix" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+	Query: "vntype:specimen genus:cyanoloxia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "specificepithet:prevostii genus:Anthracothorax institutioncode:MVZ" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia family:Strigidae AND (hypugaea) hastissue:1" ; Times: 3
+	Query: "Dumetella carolinensis hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:71983" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "specificepithet:eupogon genus:Metallura" ; Times: 1
+	Query: "11295" ; Times: 1
+	Query: "PONGO" ; Times: 1
+	Query: "catalognumber:108354 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Anas bahamensis" ; Times: 1
+	Query: "genus:Amazilia country:&#34;Venezuela&#34; institutioncode:MVZ" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170170 institutioncode:MVZ" ; Times: 3
+	Query: "global distribution" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;25 stateprovince:nevada" ; Times: 1
+	Query: "mappable:1 scientificname:Aix galericulata" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pygochelidon cyanoleuca patagonica" ; Times: 2
+	Query: "134336" ; Times: 3
+	Query: "mappable:1 scientificname:Vidua paradisaea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "101565" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165718 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "catalognumber:85664 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:aureliae genus:Haplophaedia" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170766 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:melanicterus genus:Cassiculus country:&#34;mexico&#34; institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:nebulosa genus:strix stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:sandwichensis genus:Passerculus country:&#34;Mexico&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "OMNH 5400" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170167 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Cacatua galerita" ; Times: 1
+	Query: "133682" ; Times: 1
+	Query: "47505 aves" ; Times: 1
+	Query: "preparations:wing institutioncode:MVZ" ; Times: 2
+	Query: "133907" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "lehmann" ; Times: 1
+	Query: "133759" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "mappable:1 scientificname:Erythrura trichroa" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Sicalis flaveola" ; Times: 1
+	Query: "Pyrrhula pyrrhula" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Phaethornis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169365 institutioncode:MVZ" ; Times: 3
+	Query: "C. psittacula" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "class:aves catalognumber:70384" ; Times: 1
+	Query: "mappable:1 scientificname:Rhyticeros plicatus" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Horornis fortipes" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula krameri" ; Times: 1
+	Query: "Cyanopica cyanus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170070 institutioncode:MVZ" ; Times: 2
+	Query: "107626" ; Times: 1
+	Query: "Columba rupestris" ; Times: 1
+	Query: "mappable:1 scientificname:Lophura nycthemera" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "133751" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "162720" ; Times: 1
+	Query: "specificepithet:striigularis genus:Phaethornis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Thraupis institutioncode:MVZ hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Columba guinea" ; Times: 1
+	Query: "Phainoptila melanoxantha" ; Times: 2
+	Query: "162725" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171637 institutioncode:MVZ" ; Times: 3
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171842 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:theresiae genus:Metallura" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Mniotilta varia" ; Times: 2
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Myzomela cardinalis" ; Times: 1
+	Query: "class:aves catalognumber:72346" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "class:aves catalognumber:72341" ; Times: 1
+	Query: "vntype:specimen genus:Passer class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:tzacatl genus:Amazilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:aves catalognumber:72619" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus chilensis" ; Times: 1
+	Query: "mappable:1 scientificname:Lophophorus impejanus" ; Times: 1
+	Query: "MVZ 236752" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165400 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Quelea erythrops" ; Times: 1
+	Query: "specificepithet:femoralis genus:Scytalopus" ; Times: 1
+	Query: "specificepithet:russatus genus:Chlorostilbon" ; Times: 2
+	Query: "MVZ 250635" ; Times: 2
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Antigone canadensis" ; Times: 1
+	Query: "133487" ; Times: 2
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165720 institutioncode:MVZ" ; Times: 2
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "genus:Eremophila catalognumber:170772 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Spatula hottentota" ; Times: 1
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cinclus hastissue:1" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165723 institutioncode:MVZ" ; Times: 2
+	Query: "class:Aves locality:Puerto Casado country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Aplonis metallica" ; Times: 1
+	Query: "Yuhina castaniceps" ; Times: 1
+	Query: "locality:sherwood county:&#34;mendocino&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Psittacula alexandri" ; Times: 1
+	Query: "mappable:1 scientificname:Pionus maximiliani" ; Times: 1
+	Query: "vntype:specimen specificepithet:steindachneri genus:Picumnus" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170071 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170797 institutioncode:MVZ" ; Times: 3
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 2
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda melpoda" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "vntype:specimen specificepithet:PECTORALIS genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169363 institutioncode:MVZ" ; Times: 3
+	Query: "campephilus principalis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170077 institutioncode:MVZ" ; Times: 3
+	Query: "Myiagra castaneigularis" ; Times: 2
+	Query: "class:aves catalognumber:72225" ; Times: 1
+	Query: "mappable:1 scientificname:Rhyticeros undulatus" ; Times: 1
+	Query: "70345" ; Times: 2
+	Query: "genus:Tangara institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "MVZ 291703" ; Times: 2
+	Query: "vntype:specimen specificepithet:latirostris genus:Cacicus" ; Times: 1
+	Query: "Cossypha" ; Times: 1
+	Query: "92740" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+	Query: "Turdus reevei" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "Amazona finschi California" ; Times: 2
+	Query: "genus:Pooecetes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171838 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:165398 institutioncode:MVZ" ; Times: 2
+	Query: "A. cristatella" ; Times: 1
+	Query: "mappable:1 scientificname:Thectocercus acuticaudatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "mappable:1 scientificname:Piranga leucoptera" ; Times: 1
+	Query: "genus:Agapornis family:Psittaculidae" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "33873" ; Times: 1
+	Query: "specificepithet:aberti genus:melozone county:&#34;riverside&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Eos squamata" ; Times: 1
+	Query: "mappable:1 scientificname:Chrysolophus pictus" ; Times: 1
+	Query: "Accipiter trivirgatus" ; Times: 1
+	Query: "specificepithet:marmoratus genus:brachyramphus year &gt;= 1990 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170792 institutioncode:MVZ" ; Times: 3
+	Query: "aves nematode" ; Times: 7
+	Query: "mappable:1 scientificname:Ara macao" ; Times: 1
+	Query: "Carpodacus roseus" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "vntype:specimen genus:ESTRILDA class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171633 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Leiothrix lutea" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "vntype:specimen specificepithet:mirabilis genus:Loddigesia" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; (Snake)" ; Times: 5
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus country:&#34;Canada&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "mappable:1 scientificname:Gracula religiosa" ; Times: 1
+	Query: "mappable:1 scientificname:Zosterops senegalensis" ; Times: 1
+	Query: "mappable:1 scientificname:Acridotheres tristis" ; Times: 1
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170083 institutioncode:MVZ" ; Times: 2
+	Query: "Cinnyris venustus" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169366 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Ploceus melanocephalus" ; Times: 1
+	Query: "Sealy" ; Times: 4
+	Query: "mappable:1 scientificname:Eophona personata" ; Times: 1
+	Query: "mappable:1 scientificname:Primolius maracana" ; Times: 1
+	Query: "specificepithet:urubambensis genus:Asthenes" ; Times: 1
+	Query: "Dendrocopos major" ; Times: 1
+	Query: "passerculus sandwichensis atratus" ; Times: 3
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "133862" ; Times: 2
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "133867" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus stateprovince:&#34;Alaska&#34; year &gt;= 1930 institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Tauraco hartlaubi" ; Times: 1
+	Query: "specificepithet:nuna genus:Lesbia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "specificepithet:rufus genus:tachyphonus country:&#34;pARAGUAY&#34;" ; Times: 1
+	Query: "genus:Rhodopis country:&#34;Peru&#34;" ; Times: 1
+	Query: "107783" ; Times: 1
+	Query: "specificepithet:cela genus:Cacicus hastissue:1" ; Times: 1
+	Query: "139918" ; Times: 1
+	Query: "107787" ; Times: 1
+	Query: "Lophura ignita" ; Times: 1
+	Query: "specificepithet:anthophilus genus:Phaethornis" ; Times: 1
+	Query: "Syrmaticus ellioti" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "Cyanochen cyanopterus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170787 institutioncode:MVZ" ; Times: 3
+	Query: "133800" ; Times: 1
+	Query: "mappable:1 scientificname:Streptopelia roseogrisea" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis chloropterus" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170166 institutioncode:MVZ" ; Times: 3
+	Query: "133911" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "class:aves catalognumber:72402" ; Times: 1
+	Query: "Xiphorhynchus guttatoides" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165713 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Antigone vipio" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171836 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170789 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170777 institutioncode:MVZ" ; Times: 3
+	Query: "stateprovince:&#34;Puno&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Bishop Saskatchewan" ; Times: 3
+	Query: "genus:Eremophila catalognumber:165397 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Rallus San Luis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:169358 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170066 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Phleocryptes class:Aves" ; Times: 1
+	Query: "lanius senator badius" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "133782" ; Times: 2
+	Query: "specificepithet:grayi genus:Hylocharis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "133787" ; Times: 2
+	Query: "32206" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "specificepithet:stictolophus genus:Lophornis" ; Times: 1
+	Query: "catalognumber:46014 institutioncode:MVZ" ; Times: 2
+	Query: "mappable:1 scientificname:Platycercus elegans" ; Times: 1
+	Query: "genus:Agelaius institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:72273" ; Times: 1
+	Query: "class:aves catalognumber:72272" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena" ; Times: 3
+	Query: "class:aves catalognumber:72270" ; Times: 1
+	Query: "specificepithet:nebulosa stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170770 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Calcarius institutioncode:MVZ hastissue:1" ; Times: 2
+	Query: "hummingbird" ; Times: 1
+	Query: "vntype:specimen specificepithet:glaucocaerulea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves catalognumber:72358" ; Times: 1
+	Query: "genus:Spilornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena country:&#34;Brazil&#34;" ; Times: 2
+	Query: "MVZ 78781" ; Times: 3
+	Query: "genus:Habia class:Aves country:&#34;Brazil&#34; institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 116097" ; Times: 2
+	Query: "mappable:1 scientificname:Pytilia melba" ; Times: 1
+	Query: "class:aves catalognumber:72213" ; Times: 1
+	Query: "Prinia subflava" ; Times: 1
+	Query: "MVZ 116027" ; Times: 2
+	Query: "mappable:1 scientificname:Haliaeetus leucocephalus" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "specificepithet:gibsoni genus:Chlorostilbon" ; Times: 5
+	Query: "specificepithet:nuna genus:Lesbia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170069 institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:cyanocephala genus:Amazilia country:&#34;Guatemala&#34; institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "class:Aves locality:puerto casado country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Eurillas latirostris" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis" ; Times: 7
+	Query: "Anas clypeata" ; Times: 1
+	Query: "Cormobates leucophaeus" ; Times: 1
+	Query: "vntype:specimen specificepithet:violacea genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170786 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Eremophila catalognumber:170536 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Ploceus manyar" ; Times: 1
+	Query: "Aratinga nenday California" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "Zenaida asiatica hasmass:1" ; Times: 2
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "mappable:1 scientificname:Pycnonotus leucogenys" ; Times: 1
+	Query: "class:aves catalognumber:72618" ; Times: 1
+	Query: "specificepithet:mellisugus genus:Chlorostilbon" ; Times: 2
+	Query: "mappable:1 scientificname:Platalea ajaja" ; Times: 1
+	Query: "genus:Polioptila locality:ventura" ; Times: 1
+	Query: "specificepithet:humeralis genus:Peucaea institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:109353 institutioncode:MVZ" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "genus:Pygochelidon" ; Times: 2
+	Query: "specificepithet:insignis genus:Panterpe" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170537 institutioncode:MVZ" ; Times: 3
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "genus:Pheucticus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "235408" ; Times: 1
+	Query: "vntype:specimen specificepithet:inornatus genus:Myiophobus" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "genus:porphyrio country:&#34;philippines&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Emberiza cioides" ; Times: 1
+	Query: "mappable:1 scientificname:Pipile cumanensis" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170168 institutioncode:MVZ" ; Times: 3
+	Query: "vntype:specimen specificepithet:castelnau genus:Picumnus" ; Times: 1
+	Query: "genus:Spinus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170063 institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 139254" ; Times: 2
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "upucerthia serrana" ; Times: 2
+	Query: "specificepithet:mellisugus genus:Chlorostilbon country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "mappable:1 scientificname:Urocissa erythrorhyncha" ; Times: 1
+	Query: "MVZ 133200" ; Times: 1
+	Query: "Buteo harlani Arizona" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "specificepithet:largipennis genus:campylopterus" ; Times: 1
+	Query: "ortalis vetula" ; Times: 3
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170779 institutioncode:MVZ" ; Times: 3
+	Query: "MVZ 139960" ; Times: 2
+	Query: "apteryx" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis superbus" ; Times: 1
+	Query: "MVZ 78782" ; Times: 2
+	Query: "genus:Eremophila catalognumber:165394 institutioncode:MVZ" ; Times: 3
+	Query: "Russia 1889" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170164 institutioncode:MVZ" ; Times: 2
+	Query: "P. aleuticus" ; Times: 1
+	Query: "Bonasa umbellus" ; Times: 1
+	Query: "133498" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170081 institutioncode:MVZ" ; Times: 3
+	Query: "insignis specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170788 institutioncode:MVZ" ; Times: 3
+	Query: "genus:Peucaea institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "mappable:1 scientificname:Spermestes bicolor" ; Times: 1
+	Query: "Aratinga" ; Times: 2
+	Query: "mappable:1 scientificname:Lonchura malacca" ; Times: 1
+	Query: "genus:Coereba institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis fischeri" ; Times: 1
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "class:aves eventdate:2009-03-25 stateprovince:california" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "Rodent" ; Times: 2
+	Query: "genus:Oxypogon" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165395 institutioncode:MVZ" ; Times: 2
+	Query: "107593" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170086 institutioncode:MVZ" ; Times: 3
+	Query: "diazi" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170072 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Euplectes afer" ; Times: 1
+	Query: "mappable:1 scientificname:Lagonosticta senegala" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171840 institutioncode:MVZ" ; Times: 3
+	Query: "connor museum" ; Times: 1
+	Query: "mappable:1 scientificname:Trichoglossus haematodus" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanocorax chrysops" ; Times: 1
+	Query: "Cardinalis cardinalis ws OR wingspan OR wing+span" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridiflavus genus:Zimmerius" ; Times: 1
+	Query: "Hedydipna collaris" ; Times: 1
+	Query: "134326" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "genus:Goura" ; Times: 3
+	Query: "vntype:specimen specificepithet:viridicyanus genus:Cyanolyca" ; Times: 1
+	Query: "zosterops japonicus vntype:specimen country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165719 institutioncode:MVZ" ; Times: 2
+	Query: "Lanius senator badius" ; Times: 1
+	Query: "genus:Coccothraustes institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "bantam" ; Times: 1
+	Query: "MVZ 163308" ; Times: 1
+	Query: "specificepithet:theresiae genus:Metallura" ; Times: 1
+	Query: "133815" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "recordedby:lehmann basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "B. marmoratus" ; Times: 1
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "Crossoptilon auritum" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cassiculus" ; Times: 7
+	Query: "mappable:1 scientificname:Rhodospiza obsoleta" ; Times: 1
+	Query: "mappable:1 scientificname:Lonchura punctulata" ; Times: 1
+	Query: "catalognumber:137842 institutioncode:MVZ" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "134130" ; Times: 1
+	Query: "passerculus sandwichensis rostratus" ; Times: 1
+	Query: "vntype:specimen specificepithet:urubambensis genus:Asthenes" ; Times: 1
+	Query: "mappable:1 scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "133789" ; Times: 1
+	Query: "indicator indicator" ; Times: 1
+	Query: "oriturus" ; Times: 2
+	Query: "genus:Eremophila catalognumber:169364 institutioncode:MVZ" ; Times: 2
+	Query: "Hypothymis azurea azurea" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "egg vntype:specimen genus:aphelocoma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mappable:1 scientificname:Chenonetta jubata" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia country:&#34;Guatemala&#34; hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:viridiflavus genus:Zimmerius hastissue:1" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "class:aves catalognumber:72271" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "vntype:specimen genus:passer class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "A O Hume" ; Times: 1
+	Query: "mappable:1 scientificname:Euplectes ardens" ; Times: 1
+	Query: "class:aves catalognumber:72280" ; Times: 1
+	Query: "grey wolf" ; Times: 2
+	Query: "107643" ; Times: 2
+	Query: "county:&#34;Macomb&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170074 institutioncode:MVZ" ; Times: 3
+	Query: "mappable:1 scientificname:Eophona migratoria" ; Times: 1
+	Query: "Sicalis olivascens" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysonotus genus:Cacicus" ; Times: 1
+	Query: "289037" ; Times: 1
+	Query: "mappable:1 scientificname:Ara severus" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "71376" ; Times: 1
+	Query: "Cardinalis cardinalis hasmass:1" ; Times: 2
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "American Black Bear" ; Times: 1
+	Query: "specificepithet:goudoti genus:Lepidopyga" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170796 institutioncode:MVZ" ; Times: 3
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170075 institutioncode:MVZ" ; Times: 3
+	Query: "cyclarhis dorsalis" ; Times: 2
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "MVZ 116123" ; Times: 2
+	Query: "Cyanistes caeruleus" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Minla cyanouroptera" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:MVZ" ; Times: 4
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "genus:Panterpe stateprovince:&#34;Alajuela&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "american black bear" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "class:aves catalognumber:72244" ; Times: 1
+	Query: "genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Fringilla coelebs" ; Times: 1
+	Query: "genus:Orthorhyncus" ; Times: 1
+	Query: "Gracupica nigricollis" ; Times: 1
+	Query: "aplonis panayensis" ; Times: 1
+	Query: "vultur gryphus" ; Times: 2
+	Query: "Megazosterops" ; Times: 1
+	Query: "genus:Eremophila catalognumber:165722 institutioncode:MVZ" ; Times: 3
+	Query: "69660" ; Times: 1
+	Query: "specificepithet:nigrigenis genus:Agapornis" ; Times: 1
+	Query: "MVZ 154785" ; Times: 1
+	Query: "mappable:1 scientificname:Psephotus haematonotus" ; Times: 1
+	Query: "Notiochelidon" ; Times: 1
+	Query: "class:aves catalognumber:72235" ; Times: 1
+	Query: "genus:lanius class:aves country:&#34;morocco&#34; recordedby:riggenbach" ; Times: 1
+	Query: "MVZ 154787" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170180 institutioncode:MVZ" ; Times: 2
+	Query: "county:&#34;cache&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Melopsittacus undulatus" ; Times: 1
+	Query: "genus:Lafresnaya" ; Times: 2
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "mappable:1 scientificname:Amadina fasciata" ; Times: 1
+	Query: "Prinia bairdii" ; Times: 1
+	Query: "Spreadborough" ; Times: 2
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda troglodytes" ; Times: 1
+	Query: "570711" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "Saltator similis" ; Times: 1
+	Query: "mappable:1 scientificname:Oxyura jamaicensis" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila year &gt;= 1914 year &lt;= 1914 institutioncode:MVZ" ; Times: 1
+	Query: "mappable:1 scientificname:Trichoglossus moluccanus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170776 institutioncode:MVZ" ; Times: 3
+	Query: "class:aves catalognumber:71984" ; Times: 1
+	Query: "Pygochelidon and cyanoleuca and patagonica" ; Times: 4
+	Query: "hydropsalis torquata" ; Times: 1
+	Query: "mappable:1 scientificname:Heteronetta atricapilla" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Scytalopus" ; Times: 1
+	Query: "genus:Eremophila catalognumber:170173 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:luciani genus:Eriocnemis country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:lecontei genus:toxostoma" ; Times: 1
+	Query: "133925" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "MVZ 154788" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia hastissue:1" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170171 institutioncode:MVZ" ; Times: 3
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Setophaga fusca" ; Times: 2
+	Query: "genus:Cardellina institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171837 institutioncode:MVZ" ; Times: 3
+	Query: "MVZ 137591" ; Times: 1
+	Query: "specificepithet:baileyi genus:Xenospiza institutioncode:MVZ" ; Times: 1
+	Query: "genus:agapornis" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina cruziana" ; Times: 1
+	Query: "genus:Augastes" ; Times: 1
+	Query: "francolinus arabistanicus" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "specificepithet:goudoti genus:Lepidopyga country:&#34;Colombia&#34;" ; Times: 1
+	Query: "107622" ; Times: 1
+	Query: "mappable:1 scientificname:Icterus pectoralis" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "mappable:1 scientificname:Acridotheres cristatellus" ; Times: 1
+	Query: "specificepithet:nuna genus:Lesbia" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "specificepithet:eupogon genus:Metallura hastissue:1" ; Times: 1
+	Query: "Zosterops flavus" ; Times: 2
+	Query: "133857" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "mappable:1 scientificname:Garrulax leucolophus" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Pygochelidon cyanoleuca" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 8
+	Query: "mappable:1 scientificname:Caloenas nicobarica" ; Times: 1
+	Query: "mappable:1 scientificname:Barnardius zonarius" ; Times: 1
+	Query: "genus:Habia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "134314" ; Times: 5
+	Query: "genus:Eremophila catalognumber:170064 institutioncode:MVZ" ; Times: 3
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "Calypte costae hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Aratinga nenday" ; Times: 1
+	Query: "mappable:1 scientificname:Forpus passerinus" ; Times: 1
+	Query: "class:aves catalognumber:72430" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "mappable:1 scientificname:Ploceus nigerrimus" ; Times: 1
+	Query: "vidua macroura" ; Times: 1
+	Query: "specificepithet:senator genus:Lanius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "A. pygmaea" ; Times: 1
+	Query: "Foulehaio carunculata" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170177 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:malaris genus:Phaethornis" ; Times: 1
+	Query: "133810" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "genus:Eremophila catalognumber:171635 institutioncode:MVZ" ; Times: 3
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "specificepithet:estella genus:Oreotrochilus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "MVZ 115892" ; Times: 2
+	Query: "135125" ; Times: 6
+	Query: "Apalis flavida" ; Times: 1
+	Query: "catalognumber:154746 institutioncode:MVZ" ; Times: 4
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:heteropogon genus:Chalcostigma" ; Times: 2
+	Query: "mappable:1 scientificname:Bubo africanus" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Rallus Laguna" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila county:&#34;ventura&#34;" ; Times: 1
+	Query: "genus:Icteria institutioncode:MVZ hastissue:1" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170765 institutioncode:MVZ" ; Times: 3
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "catalognumber:31021 institutioncode:MVZ" ; Times: 2
+	Query: "133924" ; Times: 5
+	Query: "specificepithet:castelnau genus:Picumnus" ; Times: 2
+	Query: "genus:Eremophila catalognumber:170169 institutioncode:MVZ" ; Times: 3
+	Query: "Microcarbo melanoleucos" ; Times: 1
+	Query: "mappable:1 scientificname:Neochmia ruficauda" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "class:aves catalognumber:72233" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "Aratinga erythrogenys California" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "american toad" ; Times: 5
+	Query: "class:aves catalognumber:71978" ; Times: 1
+	Query: "class:aves catalognumber:71960" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Chloroceryle americana" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia institutioncode:MVZ hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Ocyphaps lophotes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 756 download events in this period)
+Total number of records downloaded: 23797
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 29
+	Country: Austria ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-03 ; Times: 5
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 4
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-21 ; Times: 5
+	Date: 2020-08-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Loja" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Myadestes" ; Times: 1
+	Query: "genus:Pooecetes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "genus:Agapornis family:Psittaculidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "genus:pagodroma basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves country:&#34;Zimbabwe&#34; continent:Africa" ; Times: 1
+	Query: "genus:lanius class:aves country:&#34;morocco&#34; recordedby:riggenbach" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "vntype:specimen family:Furnariidae hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae sex:female preparations:skin institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:sandwichensis genus:Passerculus country:&#34;Mexico&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Amazona finschi" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "Xiphorhynchus guttatoides" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; (Snake)" ; Times: 1
+	Query: "Vultur gryphus vntype:specimen (Perú)" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
