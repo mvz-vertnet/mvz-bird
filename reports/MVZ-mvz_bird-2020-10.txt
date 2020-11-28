@@ -1,0 +1,988 @@
+Report for Institution Code MVZ, Resource mvz_bird
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1139
+Number of records retrieved in searches: 16279
+Number of different countries where searches have been originated: 26
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 58
+	Country: Canada ; Times: 46
+	Country: Unknown ; Times: 60
+	Country: France ; Times: 32
+	Country: Peru ; Times: 38
+	Country: Argentina ; Times: 27
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 15
+	Country: Australia ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 14
+	Country: Chile ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Netherlands ; Times: 23
+	Country: Denmark ; Times: 7
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 532
+	Country: Switzerland ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 52
+	Country: India ; Times: 9
+	Country: United Kingdom ; Times: 177
+	Country: Austria ; Times: 3
+	Country: Colombia ; Times: 29
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 51
+	Date: 2020-10-18 ; Times: 9
+	Date: 2020-10-19 ; Times: 19
+	Date: 2020-10-08 ; Times: 114
+	Date: 2020-10-12 ; Times: 64
+	Date: 2020-10-13 ; Times: 199
+	Date: 2020-10-10 ; Times: 15
+	Date: 2020-10-11 ; Times: 23
+	Date: 2020-10-16 ; Times: 16
+	Date: 2020-10-31 ; Times: 14
+	Date: 2020-10-14 ; Times: 17
+	Date: 2020-10-15 ; Times: 21
+	Date: 2020-10-03 ; Times: 11
+	Date: 2020-10-23 ; Times: 48
+	Date: 2020-10-22 ; Times: 21
+	Date: 2020-10-21 ; Times: 25
+	Date: 2020-10-20 ; Times: 66
+	Date: 2020-10-27 ; Times: 75
+	Date: 2020-10-26 ; Times: 22
+	Date: 2020-10-25 ; Times: 9
+	Date: 2020-10-24 ; Times: 17
+	Date: 2020-10-01 ; Times: 41
+	Date: 2020-10-30 ; Times: 60
+	Date: 2020-10-29 ; Times: 14
+	Date: 2020-10-28 ; Times: 42
+	Date: 2020-10-05 ; Times: 27
+	Date: 2020-10-04 ; Times: 4
+	Date: 2020-10-07 ; Times: 31
+	Date: 2020-10-17 ; Times: 15
+	Date: 2020-10-06 ; Times: 18
+	Date: 2020-10-02 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "M.G Palmer" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "genus:Nothoprocta" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "oso" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "vntype:specimen genus:Nomonyx class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "MVZ 35505" ; Times: 2
+	Query: "Erithacus rubecula" ; Times: 2
+	Query: "MVZ 136442" ; Times: 2
+	Query: "MVZ 136441" ; Times: 2
+	Query: "mappable:1 scientificname:Cyanocompsa cyanea" ; Times: 15
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "33841" ; Times: 2
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "Cisticola chiniana" ; Times: 2
+	Query: "catalognumber:180567 institutioncode:MVZ" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "scytalopus" ; Times: 2
+	Query: "specificepithet:monacha genus:Grus" ; Times: 1
+	Query: "127701" ; Times: 1
+	Query: "catalognumber:184071 institutioncode:MVZ" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 15
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Collocalia" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "catalognumber:180575 institutioncode:MVZ" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 2
+	Query: "picoides arcticus vntype:specimen hastissue:1" ; Times: 2
+	Query: "mappable:1 scientificname:Crax fasciolata" ; Times: 1
+	Query: "MVZ 73536" ; Times: 1
+	Query: "hassex:1 hasmass:1 gazelle" ; Times: 2
+	Query: "locality:KERR WILDLIFE MANAGEMENT AREA" ; Times: 1
+	Query: "Larus argentatus" ; Times: 1
+	Query: "Apalis thoracica" ; Times: 2
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "catalognumber:125476 institutioncode:MVZ" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "sternula albifrons" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "specificepithet:bicolor genus:Tachycineta hastissue:1" ; Times: 1
+	Query: "MVZ 270265" ; Times: 2
+	Query: "casuarius" ; Times: 2
+	Query: "(12009)" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "Flying squirrel" ; Times: 1
+	Query: "coal oil point" ; Times: 1
+	Query: "genus:passer year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen genus:nomonyx class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "jimenez aves" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "scientificname:Pipra pipra" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa hassex:1 hastissue:1" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "order:Passeriformes country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crax alberti" ; Times: 1
+	Query: "catalognumber:184716 institutioncode:MVZ" ; Times: 1
+	Query: "MVZ 186009" ; Times: 2
+	Query: "Municipio de Jiménez" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "thoracica" ; Times: 1
+	Query: "Peltohyas australis" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 1
+	Query: "139736" ; Times: 1
+	Query: "Ciconia boyciana" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:tabuensis family:Rallidae" ; Times: 3
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "12803" ; Times: 3
+	Query: "specificepithet:melanocephalus genus:pheucticus stateprovince:&#34;sonora&#34;" ; Times: 1
+	Query: "catalognumber:16611 institutioncode:MVZ" ; Times: 2
+	Query: "toxostoma lecontei" ; Times: 3
+	Query: "mvz 241877" ; Times: 3
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 1
+	Query: "genus:Elanus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 3
+	Query: "Camarhynchus pallidus" ; Times: 1
+	Query: "MVZ 139961" ; Times: 1
+	Query: "vntype:specimen specificepithet:wakensis family:Rallidae" ; Times: 1
+	Query: "Kimball San Clemente 1914" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "vntype:specimen genus:odontophorus class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "catalognumber:104880 institutioncode:MVZ" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "177919" ; Times: 2
+	Query: "scientificname:Ortalis leucogastra" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "MVZ 154784" ; Times: 2
+	Query: "MVZ 154785" ; Times: 3
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "MVZ 154783" ; Times: 5
+	Query: "passerina chiapensis" ; Times: 2
+	Query: "MVZ 154788" ; Times: 3
+	Query: "specificepithet:auratus genus:Colaptes institutioncode:MVZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Mvz 81457" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 1
+	Query: "Pytilia melba" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "catalognumber:172328 institutioncode:MVZ" ; Times: 2
+	Query: "107717" ; Times: 1
+	Query: "107711" ; Times: 1
+	Query: "catalognumber:190090 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:poliocephala genus:geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "MVZ 161413" ; Times: 2
+	Query: "vntype:specimen genus:Gymnobucco" ; Times: 2
+	Query: "Agriornis albicauda" ; Times: 2
+	Query: "catalognumber:172462" ; Times: 1
+	Query: "mvz 234680" ; Times: 1
+	Query: "scientificname:Nothocrax urumutum" ; Times: 1
+	Query: "huancabambae" ; Times: 1
+	Query: "dinopium" ; Times: 1
+	Query: "recordedby:Zink" ; Times: 1
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:gravis genus:Ardenna" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer locality:auburn" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "scientificname:Dixiphia pipra" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "MVZ 116633" ; Times: 3
+	Query: "genus:lymnocryptes finland" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "MVZ 116634" ; Times: 2
+	Query: "Tyrannus dominicensis" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "leucopternis melanops" ; Times: 4
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "North American porcupine" ; Times: 3
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "Somateria fischeri" ; Times: 1
+	Query: "Tchagra australis" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pelecanoides institutioncode:MVZ" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "catalognumber:20347" ; Times: 1
+	Query: "Geothlypis poliocephala" ; Times: 1
+	Query: "Dinopium benghalense" ; Times: 2
+	Query: "scientificname:Ara ararauna" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Turdus merula" ; Times: 1
+	Query: "MVZ 154789" ; Times: 2
+	Query: "mvz 161413" ; Times: 2
+	Query: "M.G Palmer valle del cauca jimenez" ; Times: 1
+	Query: "vntype:specimen genus:Foulehaio" ; Times: 1
+	Query: "Wyatt Colombia" ; Times: 1
+	Query: "Sterna sumatrana" ; Times: 1
+	Query: "MVZ 42839" ; Times: 2
+	Query: "anthus correndera" ; Times: 1
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "scientificname:Ortalis columbiana" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "“Austin Smith” Pacific" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "Glaucidium sanchez" ; Times: 1
+	Query: "leucurus institutioncode:MVZ" ; Times: 1
+	Query: "genus:Ammodramus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Camaroptera brevicaudata" ; Times: 1
+	Query: "aerodramus bartschi" ; Times: 1
+	Query: "specificepithet:furcifer genus:Heliomaster class:aves" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sternula" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "North American Black Bear" ; Times: 3
+	Query: "catalognumber:170060 institutioncode:MVZ" ; Times: 2
+	Query: "scientificname:Pipile pipile" ; Times: 1
+	Query: "AMNH 21441" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 4
+	Query: "Anas formosa" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 10
+	Query: "specificepithet:rubricapillus genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "erythrinus erythrinus" ; Times: 1
+	Query: "class:Aves country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "Pelecanoides urinatrix" ; Times: 1
+	Query: "Dryoscopus cubla" ; Times: 1
+	Query: "Porphyrio melanotus" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "specificepithet:bicolor genus:Baeolophus bicolor continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Rhytipterna simplex" ; Times: 1
+	Query: "chrysocolaptes" ; Times: 1
+	Query: "A-169052" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "mvz 145629" ; Times: 3
+	Query: "Lagonosticta senegala" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 2
+	Query: "161413" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "anthreptes iris" ; Times: 2
+	Query: "catalognumber:172339 institutioncode:MVZ" ; Times: 3
+	Query: "scientificname:Ortalis wagleri" ; Times: 1
+	Query: "mvz 176320" ; Times: 1
+	Query: "Wetmorethraupis sterrhopteron" ; Times: 2
+	Query: "family:dicaeidae (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "genus:Phalacrocorax institutioncode:MVZ" ; Times: 1
+	Query: "&#34;J. M. Southwick&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Bucorvus" ; Times: 2
+	Query: "specificepithet:crinigera genus:prinia hasmass:1" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Certhidea olivacea" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "catalognumber:39121 institutioncode:MVZ" ; Times: 2
+	Query: "Circus melanoleucos" ; Times: 1
+	Query: "Pluvialis dominica" ; Times: 1
+	Query: "specificepithet:ruber ruber genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "137702" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 8
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "Coturnicops" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "mvz 52959" ; Times: 3
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "bellavista colombia" ; Times: 4
+	Query: "252745" ; Times: 1
+	Query: "catalognumber:172341 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:scandiacus genus:Bubo" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "catalognumber:5935 institutioncode:MVZ" ; Times: 2
+	Query: "ostrich" ; Times: 1
+	Query: "Cinnyris mariquensis" ; Times: 2
+	Query: "genus:Dendrortyx institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "roslindale" ; Times: 1
+	Query: "mvz 183552" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Anas rubripes Ontario" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "shufeldt" ; Times: 1
+	Query: "pterodroma cookii" ; Times: 9
+	Query: "Colombia Aves santander" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus hastissue:1" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "MVZ 75737" ; Times: 1
+	Query: "MVZ 75734" ; Times: 1
+	Query: "MVZ 75735" ; Times: 1
+	Query: "MVZ 75733" ; Times: 2
+	Query: "unicolor san antonio" ; Times: 1
+	Query: "country:&#34;tanzania&#34; year &gt;= 1952 year &lt;= 1952" ; Times: 1
+	Query: "129208" ; Times: 2
+	Query: "apus niansae" ; Times: 4
+	Query: "specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 3
+	Query: "aitkin lano" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "mvz 182183" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Dryobates institutioncode:MVZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Apus affinis" ; Times: 2
+	Query: "Anas falcata" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 1
+	Query: "MVZ 154792" ; Times: 2
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "Egretta garzetta haslifestage:1" ; Times: 1
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "catalognumber:136053 institutioncode:MVZ" ; Times: 2
+	Query: "MVZ 24546" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "North American black bear" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "charadrius mongolus" ; Times: 1
+	Query: "catalognumber:179004 institutioncode:MVZ" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Carriker norte de santander" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "Finca Villamizar" ; Times: 3
+	Query: "173126" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Colombia&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "shrews" ; Times: 1
+	Query: "sterna argentina" ; Times: 1
+	Query: "33842" ; Times: 1
+	Query: "scientificname:Crax alberti" ; Times: 1
+	Query: "vntype:specimen specificepithet:atra family:Rallidae" ; Times: 1
+	Query: "specificepithet:coronata family:pipridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:137702 institutioncode:MVZ" ; Times: 1
+	Query: "schiffornis turdina" ; Times: 2
+	Query: "mvz 182025" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "mvz 174670" ; Times: 1
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "genus:Odontophorus institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ficedula hyperythra basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 5
+	Query: "100590" ; Times: 2
+	Query: "Thalasseus acuflavidus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Ramphocelus flammigerus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo continent:South America" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 2
+	Query: "american red squirrel" ; Times: 1
+	Query: "Cyanocorax yucatanicus" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "county:&#34;Skagit&#34; stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "catalognumber:86419 institutioncode:MVZ" ; Times: 1
+	Query: "amphispiza cinerea" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Circus cinereus" ; Times: 2
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "Setophaga auduboni auduboni" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "RS-142" ; Times: 1
+	Query: "catalognumber:177626 institutioncode:MVZ" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "catalognumber:182115 institutioncode:MVZ" ; Times: 1
+	Query: "Carriker 1964-04" ; Times: 3
+	Query: "41813" ; Times: 2
+	Query: "44455" ; Times: 1
+	Query: "north American porcupine" ; Times: 3
+	Query: "Himantopus himantopus" ; Times: 1
+	Query: "catalognumber:172330 institutioncode:MVZ" ; Times: 5
+	Query: "genus:Sphyrapicus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 1
+	Query: "Antigone canadensis" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "MVZ 185995" ; Times: 1
+	Query: "Kimball 1914" ; Times: 1
+	Query: "genus:Coccyzus country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "Passerina rositae" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen genus:Nucifraga columbiana" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "specificepithet:fulva genus:Pluvialis" ; Times: 1
+	Query: "passer domesticus arkansas" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 3
+	Query: "mvz 157974" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "stateprovince:&#34;Missouri&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "genus:oriturus stateprovince:&#34;chihuahua&#34;" ; Times: 2
+	Query: "Branta bernicla" ; Times: 1
+	Query: "primolius maracana" ; Times: 1
+	Query: "specificepithet:bougainvillii genus:Phalacrocorax institutioncode:MVZ" ; Times: 3
+	Query: "specificepithet:caerulescens genus:Setophaga class:Aves hastissue:1" ; Times: 2
+	Query: "66015" ; Times: 1
+	Query: "Kimball year &gt;= 1914 year &lt;= 1914 month &gt;= 10 month &lt;= 10" ; Times: 1
+	Query: "Larus atricilla" ; Times: 1
+	Query: "jurupa" ; Times: 2
+	Query: "C. psittacula" ; Times: 2
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "evolution" ; Times: 1
+	Query: "class:aves county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "mvz 173751" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Callipepla douglasii" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "specificepithet:eburnea genus:Pagophila year &gt;= 1894" ; Times: 1
+	Query: "genus:Cyrtonyx institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mvz 242271" ; Times: 2
+	Query: "catalognumber:177926 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Zosterops rendovae" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 3
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "catalognumber:179484 institutioncode:MVZ" ; Times: 1
+	Query: "hirundapus giganteus" ; Times: 3
+	Query: "zosterops 717" ; Times: 3
+	Query: "Megascops watsonii" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 2
+	Query: "10431" ; Times: 1
+	Query: "catalognumber:23667 institutioncode:MVZ" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "county:&#34;Cache&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Rallus crepitans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990" ; Times: 1
+	Query: "catalognumber:184711 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:discors genus:Spatula continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "green sea turtle" ; Times: 2
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ashbyia lovensis" ; Times: 1
+	Query: "scientificname:Penelope montagnii" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "catalognumber:187862 institutioncode:MVZ" ; Times: 1
+	Query: "genus:gallinago hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "MVZ 65382" ; Times: 1
+	Query: "catalognumber:182127 institutioncode:MVZ" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "20347" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 1
+	Query: "mvz 84856" ; Times: 3
+	Query: "23783" ; Times: 2
+	Query: "Camarhynchus psittacula" ; Times: 1
+	Query: "103517" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Turdus reevei" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "mvz 180632" ; Times: 1
+	Query: "Emberiza tahapisi" ; Times: 1
+	Query: "Stercorarius parasiticus" ; Times: 1
+	Query: "Microcarbo melanoleucos" ; Times: 2
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "citellus beecheyi" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "MVZ 73735" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Saxicola maurus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "142864" ; Times: 2
+	Query: "catalognumber:180227 institutioncode:MVZ" ; Times: 2
+	Query: "margarornis rubiginosus" ; Times: 1
+	Query: "catalognumber:43702 institutioncode:MVZ" ; Times: 2
+	Query: "Platyspiza crassirostris" ; Times: 1
+	Query: "wickham 1905" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 2
+	Query: "saltator coerulescens vigorsii" ; Times: 1
+	Query: "genus:Agapornis hasmass:1" ; Times: 8
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 2
+	Query: "mvz 180045" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "122944" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "catalognumber:180592 institutioncode:MVZ" ; Times: 1
+	Query: "krauss" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "sphyrapicus hybrid" ; Times: 1
+	Query: "Haematopus palliatus galapagos" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 8
+	Query: "mvz 99629" ; Times: 3
+	Query: "specificepithet:domesticus genus:Passer locality:death valley" ; Times: 1
+	Query: "specificepithet:americana genus:Mareca continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:ABEILLIA" ; Times: 3
+	Query: "moth" ; Times: 1
+	Query: "distance(location,geopoint(-23.36384358253802,-49.5530826012379))&lt;100000" ; Times: 1
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "demon" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "Sterna striata" ; Times: 2
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "MVZ 149723" ; Times: 1
+	Query: "Cyanochen cyanopterus" ; Times: 1
+	Query: "167362" ; Times: 1
+	Query: "MVZ 157974" ; Times: 2
+	Query: "pandion haliaetus carolinensis" ; Times: 1
+	Query: "zebra finch" ; Times: 1
+	Query: "vntype:specimen specificepithet:jamaicensis family:Rallidae hastissue:1" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "anfibios" ; Times: 1
+	Query: "10766" ; Times: 1
+	Query: "mvz 123825" ; Times: 3
+	Query: "mvz 123824" ; Times: 1
+	Query: "Baeolophus atricristatus" ; Times: 2
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "mvz 158407" ; Times: 2
+	Query: "specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:lymnocryptes mar" ; Times: 2
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:133114 institutioncode:MVZ" ; Times: 1
+	Query: "genus:Coccyzus stateprovince:&#34;California&#34; month &gt;= 8 month &lt;= 12" ; Times: 1
+	Query: "mvz 52960" ; Times: 3
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "95097" ; Times: 2
+	Query: "Kimball Boulder Creek" ; Times: 1
+	Query: "vntype:specimen family:Bucorvidae" ; Times: 2
+	Query: "specificepithet:turdina genus:schiffornis" ; Times: 1
+	Query: "ara maracana" ; Times: 2
+	Query: "genus:Glaucidium hastissue:1" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa haslifestage:1 hassex:1 hastissue:1" ; Times: 2
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "catalognumber:173813 institutioncode:MVZ" ; Times: 1
+	Query: "catalognumber:17863 institutioncode:MVZ" ; Times: 2
+	Query: "specificepithet:eburnea genus:Pagophila" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "Francolinus francolinus vntype:specimen country:&#34;India&#34;" ; Times: 1
+	Query: "genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "Geospiza fortis" ; Times: 3
+	Query: "Turdus cardis" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 2
+	Query: "cyanifrons colombia santander" ; Times: 1
+	Query: "zosterops chloris" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "clibanornis caquetae" ; Times: 1
+	Query: "JF 163" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "mvz 35505" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "hassex:1 hasmass:1 zebra" ; Times: 1
+	Query: "Copsychus niger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mvz 145635" ; Times: 3
+	Query: "mappable:1 scientificname:Cyanocompsa brissonii" ; Times: 15
+	Query: "Batis molitor" ; Times: 2
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2015 year &lt;= 2020" ; Times: 1
+	Query: "1964 MVZ Carriker" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "zebra sex:female hasmass:1" ; Times: 1
+	Query: "Accipiter nisus" ; Times: 2
+	Query: "lepidothrix iris" ; Times: 1
+	Query: "catalognumber:181866 institutioncode:MVZ" ; Times: 1
+	Query: "specificepithet:rufifrons genus:basileuterus hasmass:1" ; Times: 2
+	Query: "Anser indicus" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 3
+	Query: "scientificname:Mitu tomentosum" ; Times: 1
+	Query: "catalognumber:5953 institutioncode:MVZ" ; Times: 3
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 2
+	Query: "specificepithet:pubescens genus:Dryobates continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "saltator aurantiirostris" ; Times: 2
+	Query: "genus:passer country:&#34;United States&#34; year &gt;= 1800 year &lt;= 1870" ; Times: 1
+	Query: "MVZ 176320" ; Times: 2
+	Query: "Brown trout" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis" ; Times: 1
+	Query: "R.173126" ; Times: 1
+	Query: "Sula sula" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Quelea quelea" ; Times: 2
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "sentinel" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "andigena" ; Times: 1
+	Query: "vntype:specimen specificepithet:turdina genus:schiffornis" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "mvz 139026" ; Times: 3
+	Query: "MVZ 123824" ; Times: 2
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "amphispiza belvederei" ; Times: 2
+	Query: "anthus peruvianus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34; institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:pulcher genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:124639" ; Times: 1
+	Query: "CM Apodidae" ; Times: 1
+	Query: "Parus major" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 3
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "recordedby:Adams year &gt;= 1735 year &lt;= 1826" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "KU Aves Santander" ; Times: 1
+	Query: "Antigone" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "catalognumber:170080 institutioncode:MVZ" ; Times: 6
+	Query: "186009" ; Times: 2
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "specificepithet:ruber daggetti genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 3
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "Ispidina picta" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "185995" ; Times: 1
+	Query: "passer domesticus alabama" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aitkin aves" ; Times: 1
+	Query: "catalognumber:125460 institutioncode:MVZ" ; Times: 2
+	Query: "mvz 182072" ; Times: 1
+	Query: "Sphecotheres vieilloti" ; Times: 1
+	Query: "mappable:1 scientificname:Erithacus rubecula" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "zosterops japonicus" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 2
+	Query: "MVZ 174670" ; Times: 2
+	Query: "Caracara plancus" ; Times: 1
+	Query: "vntype:specimen genus:Penelope class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "melanerpes carolinus skeleton" ; Times: 1
+	Query: "mvz 84841" ; Times: 4
+	Query: "Kimball San Clemente" ; Times: 1
+	Query: "picoides tridactylus" ; Times: 2
+	Query: "53447" ; Times: 1
+	Query: "MVZ 158407" ; Times: 2
+	Query: "Pithys" ; Times: 5
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 3
+	Query: "MVZ 173956" ; Times: 2
+	Query: "megascops watsonii" ; Times: 7
+	Query: "mionectes palamblae" ; Times: 1
+	Query: "Muticus" ; Times: 1
+	Query: "181305" ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "catalognumber:155497 institutioncode:MVZ" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "Lepidothrix iris" ; Times: 3
+	Query: "Foulehaio" ; Times: 1
+	Query: "H. palliatus galapagensis" ; Times: 1
+	Query: "catalognumber:182131 institutioncode:MVZ" ; Times: 1
+	Query: "cyanifrons colombia" ; Times: 1
+	Query: "scientificname:Penelope jacquacu" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "stateprovince:&#34;New Mexico&#34; year &gt;= 1810 year &lt;= 1830" ; Times: 3
+	Query: "spinus cucullatus" ; Times: 3
+	Query: "colinus virginianus institutioncode:MVZ" ; Times: 1
+	Query: "Egretta garzetta hasmass:1" ; Times: 1
+	Query: "genus:passer year &gt;= 1800 year &lt;= 1870" ; Times: 1
+	Query: "242271" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "catalognumber:172329 institutioncode:MVZ" ; Times: 2
+	Query: "Carriker 1964-04-08" ; Times: 1
+	Query: "vntype:specimen specificepithet:palmeri family:Rallidae" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 24
+	Query: "dinopium benghalense" ; Times: 4
+	Query: "specificepithet:henslowii" ; Times: 1
+	Query: "arremon flavirostris" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "Camarhynchus parvulus" ; Times: 1
+	Query: "amandava formosa vntype:specimen" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "specificepithet:aedon genus:troglodytes stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Carriker 1964" ; Times: 7
+	Query: "garter" ; Times: 1
+	Query: "99233" ; Times: 2
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "scientificname:Ortalis guttata" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:180562 institutioncode:MVZ" ; Times: 1
+	Query: "russel" ; Times: 1
+	Query: "loriculus" ; Times: 1
+	Query: "ciudad hidalgo" ; Times: 1
+	Query: "Tarapaca" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer locality:montgomery" ; Times: 1
+	Query: "MVZ 177919" ; Times: 2
+	Query: "zosterops japonicus hastissue:1" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Pycnonotus tricolor" ; Times: 2
+	Query: "passer domesticus mississippi" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:MVZ hasmass:1" ; Times: 1
+	Query: "(Diglossa) hastissue:1" ; Times: 1
+	Query: "zaratornis stresemanni" ; Times: 1
+	Query: "specificepithet:crepitans genus:Rallus" ; Times: 1
+	Query: "specificepithet:poliocephala genus:Geothlypis country:&#34;Belize&#34;" ; Times: 1
+	Query: "scientificname:Penelopina nigra" ; Times: 1
+	Query: "north american black bear" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Dendrortyx institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Xantus" ; Times: 1
+	Query: "MVZ 234680" ; Times: 2
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "catalognumber:190092 institutioncode:MVZ" ; Times: 1
+	Query: "scientificname:Pipile cumanensis" ; Times: 1
+	Query: "flying squirrel" ; Times: 2
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 3
+	Query: "specificepithet:arcticus genus:Picoides institutioncode:MVZ basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 11
+	Query: "Rallus crepitans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Phaenostictus mcleannani" ; Times: 2
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "MVZ 75766" ; Times: 1
+	Query: "locality:kermadec" ; Times: 1
+	Query: "Fregetta" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 124 (out of 1521 download events in this period)
+Total number of records downloaded: 19294
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 12
+	Country: Hong Kong ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 76
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 7
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-12 ; Times: 4
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-30 ; Times: 7
+	Date: 2020-10-17 ; Times: 4
+	Date: 2020-10-15 ; Times: 7
+	Date: 2020-10-20 ; Times: 37
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-23 ; Times: 9
+	Date: 2020-10-22 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-03 ; Times: 6
+	Date: 2020-10-28 ; Times: 8
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-07 ; Times: 5
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ammodramus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sphyrapicus institutioncode:MVZ hastissue:1" ; Times: 1
+	Query: "Antigone canadensis" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Passerina rositae" ; Times: 3
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Turdidae class:aves preparations:egg" ; Times: 1
+	Query: "passer domesticus arkansas" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "picoides arcticus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "family:Turdidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:bicolor genus:Baeolophus bicolor continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:isidorei family:pipridae" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:discors genus:Spatula continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "anthus peruvianus" ; Times: 2
+	Query: "specificepithet:pulcher genus:Melanerpes institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "passer domesticus alabama" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "genus:Catharus hasmass:1" ; Times: 1
+	Query: "specificepithet:pubescens genus:Dryobates continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "genus:thryomanes hastissue:1" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aitkin aves minnesota" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "colinus virginianus institutioncode:MVZ" ; Times: 1
+	Query: "order:passeriformes lifestage:adult hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:habroptilus genus:strigops" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer locality:death valley" ; Times: 1
+	Query: "amandava formosa vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "specificepithet:americana genus:Mareca continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "Rupicola peruvianus" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;United States&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "specificepithet:lactea genus:Amazilia" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "passer domesticus mississippi" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:MVZ hasmass:1" ; Times: 1
+	Query: "(Diglossa) hastissue:1" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Dendrortyx institutioncode:MVZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Rynchops stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "citellus beecheyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Bucorvidae" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
